@@ -1,0 +1,3001 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P0001,Susan Hall,17,,La Molina,Pediatría,2024-11-18,81.02
+P0002,Bill Kinney,44,NA,Miraflores,,2022-01-26,306.44
+P0003,Kathleen Loos,42,NA,La Molina,Medicina General,2022-04-25,269.08
+P0004,Anthony Marcus,52,,SJL,,2022-03-15,354.09
+P0005,Ross Thomas,51,,Comas,Traumatología,2024-05-06,469.87
+P0006,Dorothy Harrison,52,,Lince,,2023-11-07,154.97
+P0007,Gregory Valdez,22,NA,Miraflores,NA,2023-07-18,194.23
+P0008,James Padilla,13,,La Molina,Pediatría,2024-12-25,121.65
+P0009,William Knutson,26,M,Surco,Traumatología,2024-08-03,440.39
+P0010,Travis Bila,78,F,San Isidro,Cardiología,2024-10-15,432.71
+P0011,Travis Smith,2,,San Isidro,Cardiología,2023-05-06,385.47
+P0012,Leslie Howes,19,F,La Molina,Odontología,2022-07-24,234.99
+P0013,Merle Horton,84,M,La Molina,,2022-01-04,67.48
+P0014,Lucille Malone,9,M,San Isidro,Pediatría,2023-02-19,312.61
+P0015,Elizabeth Borden,89,M,Comas,Traumatología,2023-11-17,94.2
+P0016,Ophelia Somers,81,M,SJL,Pediatría,2024-11-14,53.94
+P0017,Betty Brashear,13,M,Lince,Odontología,2023-10-13,437.42
+P0018,Cheryl Hue,41,F,SJL,Traumatología,2024-10-10,116.6
+P0019,Gerard Cast,84,NA,Comas,Odontología,2023-01-14,383.39
+P0020,Jim Harp,36,F,Comas,Cardiología,2023-05-29,57.44
+P0021,Timothy Sampson,5,,San Isidro,,2022-08-08,497.94
+P0022,Barbara Harman,73,M,Comas,Cardiología,2022-03-27,430.67
+P0023,Gloria Gonzalez,86,,Comas,Odontología,2024-09-29,367.33
+P0024,Desire Smith,15,M,SJL,Traumatología,2023-04-20,433.2
+P0025,James Carr,16,NA,Lince,Medicina General,2023-11-26,137.6
+P0026,Daniel Jones,66,NA,Surco,Cardiología,2023-11-11,432.92
+P0027,James Perez,81,M,Lince,NA,2023-06-07,110.29
+P0028,David Flynn,14,NA,SJL,Cardiología,2023-09-27,477.54
+P0029,Helen Williams,66,NA,SJL,NA,2024-03-17,479.2
+P0030,Lynne Melvin,22,,Miraflores,Traumatología,2022-04-03,96.4
+P0031,Edward Schull,5,M,San Isidro,,2024-01-10,451.39
+P0032,Juanita Perkins,71,F,Lince,NA,2023-09-05,332.81
+P0033,Joseph Chavez,63,,Miraflores,Pediatría,2023-09-26,477.72
+P0034,Helen Roberts,74,NA,La Molina,NA,2023-01-12,359.27
+P0035,James Phillips,92,NA,SJL,Pediatría,2022-02-23,254.73
+P0036,Mary Johnson,17,NA,San Isidro,Pediatría,2023-06-19,457.35
+P0037,Dominic Page,94,F,SJL,Odontología,2023-02-03,253.42
+P0038,Grant Legra,11,F,Comas,Traumatología,2024-06-26,282.9
+P0039,James Elliott,22,F,Comas,NA,2023-01-15,217.58
+P0040,Doyle Birks,93,F,Surco,Cardiología,2024-08-03,56.16
+P0041,Carla Balzer,3,M,Surco,Medicina General,2022-05-19,431.21
+P0042,Thomas Edwards,95,,La Molina,Medicina General,2024-06-04,428.16
+P0043,Wanda Correa,93,,Lince,Traumatología,2022-01-03,299.88
+P0044,Alyssa Mabrey,2,,Miraflores,,2022-02-21,138.39
+P0045,Katie Ziego,40,NA,San Isidro,Odontología,2024-08-06,67.87
+P0046,John Partin,68,,San Isidro,,2024-08-05,457.05
+P0047,Wanda Roberts,58,F,San Isidro,Pediatría,2022-03-13,175.68
+P0048,Delores Snell,79,F,SJL,Traumatología,2023-08-16,145.16
+P0049,John Vang,78,,Comas,Odontología,2022-05-01,222.7
+P0050,Tara Graham,84,NA,Lince,Pediatría,2022-05-25,455.27
+P0051,Doris Lasater,60,F,Miraflores,Pediatría,2024-11-28,373.65
+P0052,Margaret Saxon,36,NA,San Isidro,Odontología,2024-09-21,342.94
+P0053,James Martin,58,,San Isidro,NA,2024-06-10,439.13
+P0054,Robert Williams,3,,SJL,,2022-11-19,315.64
+P0055,George Howard,47,M,Comas,NA,2023-03-19,126.38
+P0056,Sandra Brown,38,,SJL,NA,2022-07-06,65.01
+P0057,Nicholas Johnson,83,NA,San Isidro,Pediatría,2023-10-18,498.83
+P0058,Rosa Scelzo,93,F,Surco,Odontología,2022-12-27,254.57
+P0059,Brandon Gillian,28,,Lince,Odontología,2023-07-20,214.43
+P0060,Julie Meyer,53,F,La Molina,NA,2023-02-18,99.71
+P0061,Janet Steinbeck,49,F,San Isidro,Cardiología,2024-02-12,337.08
+P0062,Ricky Drake,49,NA,Miraflores,Pediatría,2023-09-10,298.27
+P0063,Buford Fisher,38,,Comas,Medicina General,2022-05-04,173.68
+P0064,Debbie Pauley,11,NA,San Isidro,Medicina General,2023-09-17,183.13
+P0065,Lorenzo Soliman,43,F,Comas,NA,2023-04-09,314.38
+P0066,Alice Cush,77,NA,Surco,NA,2024-05-20,192.43
+P0067,Charlie Holt,94,F,Miraflores,Pediatría,2022-10-27,405.53
+P0068,David Coleman,93,,SJL,Pediatría,2024-07-21,406.14
+P0069,Wayne Stefaniak,84,F,San Isidro,Odontología,2023-11-18,143.87
+P0070,John Norsaganay,13,,Lince,Cardiología,2024-10-12,400.44
+P0071,Marie Runyon,64,,La Molina,Odontología,2023-11-20,125.29
+P0072,Mark Polanco,39,,La Molina,Cardiología,2022-10-01,75.06
+P0073,Troy Redding,62,NA,Miraflores,NA,2022-10-24,326.02
+P0074,Tanya Bevelacqua,14,,Lince,Traumatología,2024-10-14,437.03
+P0075,Jessica Flynn,85,NA,San Isidro,Cardiología,2024-11-19,168.63
+P0076,Gloria Mcmahan,63,M,San Isidro,,2022-02-04,166.82
+P0077,Frances Montgomery,28,,Comas,Cardiología,2022-03-31,111.78
+P0078,Michael Snow,31,M,La Molina,Pediatría,2022-12-24,432.97
+P0079,Daniel Paulson,88,F,La Molina,Medicina General,2024-06-27,441.73
+P0080,Mildred Duquette,78,F,San Isidro,NA,2024-07-24,491.03
+P0081,Caron Torpey,25,M,San Isidro,Cardiología,2024-01-27,460.97
+P0082,Mia Sukhu,1,,Miraflores,NA,2023-11-07,188.13
+P0083,Winnie Howard,19,,SJL,Odontología,2024-02-04,381.74
+P0084,Edward Kennedy,41,,Lince,Pediatría,2023-09-07,352.82
+P0085,Brenda Tourville,7,F,San Isidro,,2023-08-24,338.36
+P0086,Adam Roark,50,F,SJL,Cardiología,2024-07-03,195.83
+P0087,Carolyn Lynch,37,F,Lince,Medicina General,2022-11-28,424.82
+P0088,Jesse Stanford,15,NA,Miraflores,Odontología,2022-07-22,231.59
+P0089,Marion Arciba,58,,La Molina,,2022-12-15,319.28
+P0090,Josephine Eason,89,,Lince,Medicina General,2022-06-30,131.78
+P0091,Jose Kim,70,NA,Miraflores,Traumatología,2022-01-24,120.92
+P0092,Lawrence Ulrich,57,F,Lince,Cardiología,2022-09-24,416.21
+P0093,Cassandra Lapointe,13,F,Comas,Pediatría,2022-04-12,141.42
+P0094,Ronald Torres,34,M,SJL,,2023-08-30,475.8
+P0095,Kevin Gossett,2,NA,San Isidro,Pediatría,2024-09-02,447.46
+P0096,Mark Haugen,8,,Surco,NA,2022-06-18,282.96
+P0097,Clarence Brown,18,F,Comas,NA,2023-03-25,498.02
+P0098,Kevin Peale,25,F,La Molina,Cardiología,2024-01-14,328.53
+P0099,Ruth Stassinos,35,F,Comas,Medicina General,2022-12-07,419.26
+P0100,Georgia Landrum,51,,Comas,,2022-12-12,449.61
+P0101,Gregory Francisco,16,,Miraflores,Cardiología,2023-03-23,119.91
+P0102,Tiffany Alvarez,32,M,Comas,Traumatología,2024-02-04,258.76
+P0103,Thomas Sanchez,72,M,San Isidro,,2024-06-08,223.4
+P0104,Angela Hickey,52,NA,Lince,Medicina General,2022-12-08,271.33
+P0105,James Paddio,56,M,SJL,Traumatología,2024-03-28,65.52
+P0106,Sheila Schneider,81,M,San Isidro,Traumatología,2024-05-07,364.45
+P0107,Keith Mckinney,79,,La Molina,Pediatría,2022-11-11,153.25
+P0108,Sandra Bohnsack,89,F,Miraflores,Pediatría,2023-11-16,179.99
+P0109,William Hartsock,88,M,La Molina,,2022-12-31,166.98
+P0110,Diana Townsend,61,F,San Isidro,Medicina General,2024-07-11,460.53
+P0111,Olga Biggs,29,,Lince,Odontología,2023-07-15,462.44
+P0112,Joan Mayhew,9,F,Lince,Cardiología,2023-08-21,201.26
+P0113,Brandy Perez,28,M,San Isidro,NA,2023-08-29,278.99
+P0114,Guadalupe Parker,58,NA,Comas,NA,2024-02-19,161.76
+P0115,Helen Pace,78,NA,SJL,Cardiología,2024-06-09,278.57
+P0116,Cindy Bishop,62,M,San Isidro,Odontología,2022-12-17,225.52
+P0117,Grace Borghoff,56,,SJL,Medicina General,2023-01-05,134.41
+P0118,Elsa Lopez,80,NA,San Isidro,,2022-06-10,313.25
+P0119,William French,2,,Comas,,2024-09-22,439.84
+P0120,Ben Sherrill,95,F,San Isidro,Traumatología,2023-08-14,313.76
+P0121,Warren Sexton,7,NA,SJL,,2022-01-13,225.32
+P0122,Thomas Thiel,5,M,Lince,Pediatría,2024-04-18,402.8
+P0123,Angelica Flynn,92,M,SJL,Odontología,2023-05-16,265.61
+P0124,Victoria Highland,59,,San Isidro,Cardiología,2024-08-04,93.16
+P0125,Marcus Arrington,22,NA,Surco,Medicina General,2024-03-03,230.31
+P0126,Raul Pyle,51,F,La Molina,NA,2024-01-03,248.48
+P0127,Carol Pearson,9,F,Miraflores,,2024-11-12,197.64
+P0128,Michael Allen,54,,Lince,Odontología,2024-03-17,375.44
+P0129,Eleanor Ramos,89,NA,San Isidro,Odontología,2022-09-14,290.82
+P0130,Maria Turner,6,NA,Miraflores,Cardiología,2024-01-11,108.99
+P0131,Laura Casale,90,M,Comas,Cardiología,2023-05-20,319.83
+P0132,Randy Shippy,13,M,Lince,Medicina General,2023-11-05,431.54
+P0133,Thelma Mcgill,52,NA,Lince,,2024-05-17,168.97
+P0134,Cynthia Arends,67,,Miraflores,Medicina General,2023-07-12,123.93
+P0135,Fernando Shakir,78,,San Isidro,NA,2024-12-03,450.37
+P0136,Martha Marcos,50,,La Molina,Medicina General,2023-03-24,206.84
+P0137,Tracy Sayre,89,NA,Lince,Odontología,2024-02-03,385.36
+P0138,Georgann Wenning,45,F,San Isidro,Medicina General,2024-10-24,332.42
+P0139,Timothy Burchette,13,F,SJL,NA,2024-06-30,463.9
+P0140,Marcus Wipf,41,NA,SJL,Medicina General,2022-05-06,90.18
+P0141,Nancy Phothirath,27,M,Lince,,2022-02-27,440.17
+P0142,James Fox,63,F,La Molina,Pediatría,2024-09-13,357.15
+P0143,David Harrison,95,F,La Molina,Odontología,2023-01-11,304.83
+P0144,Cassandra Tedder,25,M,Surco,Pediatría,2022-07-03,239.49
+P0145,Harold Roberson,58,F,San Isidro,Medicina General,2022-10-27,311.76
+P0146,Jon Roby,54,NA,Surco,NA,2022-06-03,268.9
+P0147,Vickie Green,72,NA,SJL,Pediatría,2022-03-19,214.79
+P0148,Tracie Maxwell,47,,La Molina,Cardiología,2024-01-05,440.37
+P0149,Frank Raiola,91,,San Isidro,Odontología,2023-03-23,212.81
+P0150,John Jordan,3,NA,San Isidro,Pediatría,2024-05-06,55.63
+P0151,Daniel Sullivan,24,NA,Lince,Odontología,2022-06-11,78.73
+P0152,William Mince,76,M,Lince,Pediatría,2022-03-03,353.81
+P0153,Michael Heter,78,,San Isidro,,2022-04-16,169.14
+P0154,Randall Smith,40,M,Miraflores,NA,2022-03-03,348.14
+P0155,Daryl Olsen,78,,Surco,Cardiología,2023-04-27,383.73
+P0156,Charles Sanchez,27,NA,San Isidro,NA,2022-03-16,56.14
+P0157,Joseph Gajeski,88,M,Miraflores,,2024-05-21,238.85
+P0158,Maria Patton,57,M,Miraflores,Cardiología,2024-10-19,134.32
+P0159,Christal Fishman,59,F,Surco,Medicina General,2024-02-01,249.29
+P0160,Scott Brookshire,66,M,San Isidro,Traumatología,2023-07-16,393.07
+P0161,Oscar Kim,40,M,Comas,Medicina General,2022-04-29,317.64
+P0162,James Furrer,16,F,Lince,Cardiología,2024-03-02,292.47
+P0163,Rae Huston,3,F,Miraflores,Pediatría,2024-07-13,167.59
+P0164,Ann Harris,75,F,Surco,Traumatología,2023-01-16,153.03
+P0165,Tammy Hartly,34,M,Comas,Cardiología,2023-07-25,470.86
+P0166,Walter Jones,87,NA,San Isidro,NA,2022-11-03,205.37
+P0167,Harlan Parker,13,NA,San Isidro,Medicina General,2023-10-09,259.33
+P0168,Stewart Soape,48,M,San Isidro,Medicina General,2023-10-14,436.64
+P0169,Lois Whalen,42,,San Isidro,Cardiología,2022-11-12,172.15
+P0170,Bernardine Scally,31,F,SJL,Traumatología,2022-05-17,201.38
+P0171,Edith Brannan,2,,Lince,Medicina General,2022-03-04,267.46
+P0172,William Dawood,16,F,Lince,Odontología,2022-07-18,107.51
+P0173,Brunilda Crigler,68,NA,La Molina,Odontología,2022-05-07,275.2
+P0174,Billy Eiland,13,,La Molina,NA,2023-04-02,204.44
+P0175,Diane Robertson,75,M,Comas,Cardiología,2024-07-26,394.85
+P0176,Deborah Sanchez,76,,Lince,Pediatría,2022-01-28,419.01
+P0177,Jose Acosta,24,M,Comas,Medicina General,2024-08-24,378.9
+P0178,Ann Brown,30,M,Miraflores,Medicina General,2024-08-31,88.06
+P0179,Melissa Beltran,39,F,Miraflores,,2022-09-11,333.62
+P0180,Colin Reid,40,M,Surco,Odontología,2022-07-17,432.04
+P0181,Christina Malton,59,M,Lince,,2024-04-02,218.41
+P0182,Norma Caison,61,NA,La Molina,Pediatría,2023-11-05,251.54
+P0183,Laura Billiter,94,NA,SJL,NA,2024-06-04,445.76
+P0184,Janet Scoby,41,F,SJL,,2023-04-21,461.83
+P0185,Bert Hourigan,86,F,La Molina,Traumatología,2024-12-19,412.33
+P0186,Drew Patterson,17,,La Molina,Cardiología,2023-06-06,445.94
+P0187,Elizabeth Borrego,25,NA,Lince,Odontología,2023-03-18,448.65
+P0188,Diana Ginder,90,M,Surco,Medicina General,2024-08-04,435.38
+P0189,Peter Corwin,16,NA,SJL,Pediatría,2023-07-29,376.35
+P0190,Joe Livingstone,56,,Lince,Odontología,2022-08-04,386.83
+P0191,David Mcsween,58,NA,Comas,Cardiología,2023-12-21,342.58
+P0192,Alene Thompson,76,F,Comas,Traumatología,2023-05-18,108.22
+P0193,Carol Dial,5,,Miraflores,Traumatología,2024-06-07,377.53
+P0194,Matthew Quintero,72,NA,SJL,Pediatría,2022-12-12,343.82
+P0195,Robert Koenig,44,F,San Isidro,NA,2024-01-10,363.45
+P0196,James Sowa,73,M,La Molina,Traumatología,2023-05-09,234.31
+P0197,Gregory Gamble,37,F,Surco,NA,2022-03-14,104.22
+P0198,Kathleen Sawyer,8,F,Miraflores,Traumatología,2024-09-10,77.15
+P0199,Michael Fromm,10,F,La Molina,Medicina General,2022-01-23,337.01
+P0200,Karen Mahi,7,NA,SJL,Odontología,2022-12-13,385.83
+P0201,Barbara Sexton,47,,San Isidro,,2023-04-05,473.13
+P0202,Adam Tolbert,92,M,Surco,Pediatría,2023-12-24,87.66
+P0203,Gary Krokos,81,M,Comas,Cardiología,2024-02-02,202.43
+P0204,Patricia Gallegos,31,M,SJL,,2022-12-26,285.07
+P0205,Barbara Davis,52,NA,Surco,Cardiología,2023-05-31,351.67
+P0206,Florence Pratt,84,,Miraflores,NA,2023-02-05,458.52
+P0207,Annie Keene,65,,Lince,Cardiología,2024-03-03,496.79
+P0208,Carmen Puckett,80,NA,Lince,Odontología,2024-10-12,465.75
+P0209,Rocky Ingerson,37,,La Molina,NA,2022-03-08,368.94
+P0210,Sarah Flannery,9,M,Surco,NA,2023-12-24,366.04
+P0211,Sarah Wahlen,55,F,La Molina,,2024-12-13,221.74
+P0212,Cindy Griffin,91,,Lince,Cardiología,2024-10-02,493.74
+P0213,Chris Gary,15,M,SJL,Traumatología,2024-12-30,342.37
+P0214,Walter Graham,30,M,Miraflores,Cardiología,2024-01-01,418.38
+P0215,Jessica Rishel,54,NA,Lince,Odontología,2023-08-07,453.14
+P0216,Gerald Fernandez,47,M,La Molina,Traumatología,2022-02-18,475.92
+P0217,Caroline Pruitt,95,,San Isidro,,2024-06-29,446.14
+P0218,Catherine Gogan,94,F,La Molina,,2023-02-03,315.61
+P0219,John Loges,55,F,Lince,Cardiología,2023-07-18,474.4
+P0220,Heather Sanders,3,M,Lince,Odontología,2022-04-22,77.04
+P0221,Jami Herrera,10,M,San Isidro,Traumatología,2022-08-30,278.32
+P0222,Wendy Vallo,41,NA,Miraflores,Medicina General,2024-10-27,352.79
+P0223,Margaret Sas,94,M,Surco,Traumatología,2024-04-05,393.29
+P0224,Joseph Morris,31,NA,La Molina,,2023-11-17,300.2
+P0225,Cliff Knight,3,,San Isidro,Cardiología,2023-09-16,330.3
+P0226,Sharon Yusuf,38,M,San Isidro,NA,2023-04-14,257.32
+P0227,Lee Shoemaker,92,,SJL,NA,2023-02-21,71.63
+P0228,Sharon Bray,28,,Comas,NA,2022-04-03,450.52
+P0229,Albert Petitt,59,F,SJL,Cardiología,2023-06-19,350.4
+P0230,Claudine Hull,31,F,La Molina,Medicina General,2024-08-24,472.95
+P0231,Antonio Renolds,42,,Miraflores,Cardiología,2024-08-24,464.67
+P0232,Jack Conner,38,,Miraflores,,2024-03-20,232.22
+P0233,Claire Cardiel,71,F,San Isidro,NA,2024-12-08,220.58
+P0234,Rona Chevarie,21,F,La Molina,Odontología,2022-10-20,302.73
+P0235,Stephen Hein,61,F,Surco,NA,2022-09-16,311.31
+P0236,Bernadette Leclair,52,NA,La Molina,Cardiología,2024-07-24,416.43
+P0237,Keshia Graybill,7,F,San Isidro,Traumatología,2022-11-14,498.59
+P0238,Sherry Gomez,62,M,Miraflores,NA,2022-03-09,235.48
+P0239,Virginia Marks,41,F,Miraflores,Odontología,2023-07-25,430.85
+P0240,Ryan Davis,93,F,La Molina,Cardiología,2023-10-12,388.76
+P0241,Mary Harding,93,NA,SJL,,2023-03-30,402.0
+P0242,Charles Ausmus,36,NA,La Molina,,2024-02-12,300.36
+P0243,Antonio Ward,40,M,Surco,Traumatología,2023-09-10,230.97
+P0244,John Rohrbaugh,57,,Comas,Odontología,2024-03-02,76.61
+P0245,Kathy Bishop,34,M,Miraflores,Odontología,2024-08-23,185.74
+P0246,Peter Weller,79,M,Miraflores,Medicina General,2022-09-12,288.46
+P0247,Kristy Walker,12,M,Surco,Odontología,2024-06-10,312.55
+P0248,Clifford Cox,85,,Miraflores,Traumatología,2024-04-13,151.54
+P0249,Kerri Harrison,24,F,SJL,Cardiología,2024-08-24,342.16
+P0250,Jeffrey Paul,4,F,Lince,Medicina General,2024-07-05,105.44
+P0251,Geri Tipton,91,NA,Comas,Odontología,2024-09-23,237.77
+P0252,Amelia Harrell,32,,SJL,,2022-01-28,306.31
+P0253,Trinity Bass,80,F,Surco,Cardiología,2023-08-30,465.08
+P0254,Patsy Pugliares,16,F,La Molina,Traumatología,2024-07-13,142.38
+P0255,David Garland,9,NA,SJL,,2023-05-15,443.93
+P0256,Jamaal Lim,68,NA,SJL,Traumatología,2024-10-01,173.31
+P0257,Nancy Dimas,80,,Comas,NA,2023-01-19,458.72
+P0258,Cheri Sakai,12,F,SJL,Pediatría,2023-04-10,145.17
+P0259,Curtis Wagner,88,,Surco,Odontología,2024-09-15,469.26
+P0260,Laurel Fitz,77,,Lince,Pediatría,2022-01-09,182.72
+P0261,Martin Ryan,55,NA,San Isidro,Odontología,2023-09-26,463.64
+P0262,Kelly Burlin,7,M,Comas,Medicina General,2023-04-03,329.0
+P0263,Susan Moore,79,,SJL,Traumatología,2023-05-29,136.22
+P0264,Patrick Stone,73,NA,Lince,Odontología,2024-11-04,236.51
+P0265,Joshua Lenters,14,,Lince,Medicina General,2024-03-02,461.97
+P0266,Willie Sexton,73,M,La Molina,,2022-11-12,378.84
+P0267,Patricia Alexander,15,M,La Molina,Odontología,2023-05-28,486.45
+P0268,Scott Fleming,21,,Surco,Odontología,2024-06-04,130.76
+P0269,Jessica Holt,46,,Surco,Traumatología,2024-09-28,205.58
+P0270,Mary Cameron,42,M,Surco,Medicina General,2024-03-09,245.45
+P0271,Travis Marroguin,15,F,SJL,Pediatría,2023-05-03,225.77
+P0272,William Adams,76,M,La Molina,Pediatría,2022-07-25,104.85
+P0273,Michael Wheeler,62,M,Comas,Odontología,2024-10-13,232.57
+P0274,Florence Horrocks,41,NA,Lince,Traumatología,2023-01-10,270.36
+P0275,Rose Pate,2,NA,Surco,Traumatología,2023-04-29,366.53
+P0276,Clinton Dejesus,7,M,Miraflores,,2024-07-20,106.55
+P0277,Diana Black,47,,San Isidro,Medicina General,2022-12-15,499.65
+P0278,Jerry Oliver,73,,SJL,Odontología,2024-08-26,407.66
+P0279,Michael Thomas,91,,SJL,Cardiología,2024-01-05,409.16
+P0280,Phyllis Czelusniak,89,NA,Lince,,2022-10-29,82.1
+P0281,Alma Goldsmith,65,M,La Molina,Traumatología,2024-08-01,312.7
+P0282,Alvin Chow,38,,SJL,Pediatría,2022-03-13,191.02
+P0283,Alan Griffin,3,,Miraflores,Traumatología,2023-07-14,487.59
+P0284,Maria Levey,60,NA,Lince,Odontología,2022-05-29,384.13
+P0285,Lisa Canela,67,M,La Molina,NA,2022-05-04,206.84
+P0286,John Trotter,58,,Comas,Medicina General,2022-04-26,446.12
+P0287,Christy Leary,69,NA,San Isidro,Odontología,2022-06-21,211.18
+P0288,Stephen Andrade,24,F,Miraflores,Pediatría,2022-07-23,484.44
+P0289,George Felix,62,NA,SJL,Pediatría,2022-10-22,298.53
+P0290,Althea Bruce,29,F,San Isidro,Traumatología,2023-12-21,370.16
+P0291,Brenda Eckhart,33,M,San Isidro,Odontología,2022-04-08,375.92
+P0292,Christopher Wells,31,M,Lince,Cardiología,2022-11-02,239.18
+P0293,Stephen Wilson,80,M,Comas,NA,2024-11-18,451.66
+P0294,Sonny Cypret,22,F,La Molina,Cardiología,2023-05-14,338.81
+P0295,Sandra Hass,36,M,Surco,Traumatología,2024-06-10,191.13
+P0296,Martha Yohe,76,,SJL,NA,2022-01-30,174.8
+P0297,Kirby Austin,63,,Lince,Traumatología,2024-10-21,64.89
+P0298,Maria Beale,51,,Comas,Medicina General,2022-06-08,463.14
+P0299,Stacy Greer,47,,San Isidro,Medicina General,2022-05-31,313.21
+P0300,Donald Jefferson,31,F,Miraflores,Traumatología,2023-10-28,283.43
+P0301,Randy Kelley,16,M,Surco,Cardiología,2024-01-06,210.82
+P0302,Gregory Mccoy,24,F,La Molina,Traumatología,2023-06-18,344.28
+P0303,Charles Denman,33,,Comas,Cardiología,2024-01-27,315.04
+P0304,Christopher Chilcott,27,F,La Molina,NA,2022-02-27,453.12
+P0305,Jimmy Cooper,3,NA,Surco,Medicina General,2022-01-19,254.03
+P0306,Robert Castro,15,F,La Molina,,2024-05-20,54.72
+P0307,Lauretta Durant,91,NA,Surco,Medicina General,2024-01-06,427.22
+P0308,Richard Russell,50,,La Molina,NA,2024-03-06,410.79
+P0309,Tony Weis,53,F,Surco,Traumatología,2023-12-24,267.31
+P0310,Charles Kershner,81,,Miraflores,Pediatría,2024-07-30,456.42
+P0311,Jeffrey Mccormick,88,NA,Lince,NA,2022-12-16,429.42
+P0312,Abigail Overton,10,M,Surco,Pediatría,2023-11-10,403.98
+P0313,Lee Schwalb,26,F,Comas,Odontología,2022-07-14,427.29
+P0314,James Smith,78,F,SJL,Traumatología,2023-12-30,301.5
+P0315,Charles Greene,67,F,Comas,Odontología,2024-01-02,259.26
+P0316,Zachary Hufford,17,,Lince,Medicina General,2023-05-03,362.01
+P0317,Lewis Arfman,40,NA,San Isidro,Cardiología,2024-09-23,284.05
+P0318,Todd Ross,55,M,San Isidro,Pediatría,2023-12-11,321.78
+P0319,Harriette Wiley,52,F,Miraflores,,2023-12-04,314.72
+P0320,Cornelius Schrier,32,M,SJL,Cardiología,2024-12-07,475.48
+P0321,Christopher Velez,9,,Miraflores,Odontología,2024-09-14,143.81
+P0322,Sarah Mansfield,23,NA,Surco,Odontología,2022-07-11,168.55
+P0323,Jeffery Rau,86,,Miraflores,Traumatología,2024-10-09,77.72
+P0324,Gail Fishman,28,NA,Lince,Cardiología,2022-12-07,278.0
+P0325,Florence Grove,12,M,San Isidro,Traumatología,2022-04-11,377.6
+P0326,John Bunch,38,F,Surco,Pediatría,2024-07-27,322.09
+P0327,Mary Casey,7,NA,Lince,Cardiología,2023-02-27,76.42
+P0328,James Sandage,92,F,Miraflores,Cardiología,2022-05-25,451.28
+P0329,Ida Curry,74,,Miraflores,Pediatría,2022-01-17,375.42
+P0330,Thomas Leal,81,F,Surco,Pediatría,2023-08-28,59.85
+P0331,Mary Carter,17,NA,La Molina,Pediatría,2023-07-31,268.76
+P0332,Joseph Brown,67,,Miraflores,Medicina General,2024-04-03,196.82
+P0333,Kristy Hamiton,45,,San Isidro,Medicina General,2023-10-21,372.25
+P0334,Vivian Roberts,44,,La Molina,,2022-11-07,274.2
+P0335,Carrie Brittain,10,M,Comas,Cardiología,2022-12-04,65.76
+P0336,Patricia Smith,66,NA,Surco,,2024-12-22,263.81
+P0337,Cristy Sandoval,25,,Miraflores,Odontología,2022-07-23,158.12
+P0338,Ralph Cheney,75,NA,SJL,Pediatría,2023-01-06,199.23
+P0339,Ronald Gamble,86,F,Lince,NA,2023-10-16,418.19
+P0340,Betty Westcott,31,F,Surco,Odontología,2024-05-21,137.75
+P0341,Roger Hertler,76,NA,Comas,,2022-07-24,129.31
+P0342,Ernest Oshields,90,F,SJL,Medicina General,2023-11-01,58.39
+P0343,Monique Thomas,12,,SJL,Odontología,2024-06-14,233.91
+P0344,Trudy Hazzard,67,M,Comas,,2024-07-03,481.11
+P0345,Ethel Carter,43,M,Surco,Cardiología,2023-03-18,263.63
+P0346,Lisa Smith,87,NA,San Isidro,Odontología,2024-06-05,73.46
+P0347,David Coleman,76,F,Surco,Odontología,2023-09-27,223.38
+P0348,Lucina Herndon,56,F,Lince,NA,2024-04-08,349.17
+P0349,Newton Lopez,15,NA,Lince,,2023-04-05,472.27
+P0350,Andrew Godfrey,16,NA,Comas,Pediatría,2022-05-02,203.54
+P0351,Margaret Davis,46,F,Surco,NA,2023-05-30,436.9
+P0352,William Veach,71,,Comas,Traumatología,2023-01-30,252.56
+P0353,Hilda Williams,13,M,Surco,Pediatría,2023-12-11,270.4
+P0354,Nick Franklin,20,F,SJL,Cardiología,2022-10-24,326.35
+P0355,Hipolito Luna,19,,La Molina,Cardiología,2024-11-20,371.63
+P0356,Charlene Thomas,77,M,Lince,Cardiología,2022-05-21,194.03
+P0357,Ronald Lemley,33,NA,Comas,NA,2023-05-14,129.77
+P0358,Ethel Shook,43,,Surco,Pediatría,2024-12-23,138.92
+P0359,Whitney Anderson,4,,SJL,NA,2024-08-24,93.84
+P0360,David Cortes,4,NA,La Molina,Traumatología,2024-07-12,417.52
+P0361,Naomi Bergmann,51,,Lince,,2022-05-19,51.28
+P0362,Dave Naquin,45,,Lince,Odontología,2024-06-12,414.12
+P0363,Connie Watkins,72,NA,Comas,NA,2023-11-24,78.76
+P0364,Sherman Langel,74,M,Comas,NA,2023-07-24,290.32
+P0365,Jacob Powell,64,M,San Isidro,,2023-08-03,455.26
+P0366,Jon Jones,82,M,Surco,Traumatología,2023-01-10,242.33
+P0367,Paula Stratton,26,F,Surco,,2023-06-06,413.32
+P0368,Louis Craft,76,,Miraflores,Odontología,2022-01-09,317.99
+P0369,Cassandra Siegal,33,F,La Molina,Cardiología,2023-10-27,386.04
+P0370,Joseph Tucker,46,F,La Molina,Cardiología,2024-09-18,468.29
+P0371,Barry Gordon,61,,Miraflores,Odontología,2022-03-28,244.7
+P0372,Jeanne Graham,81,NA,Miraflores,Traumatología,2024-11-25,372.23
+P0373,Otis Mcfate,81,,Lince,,2023-02-08,173.41
+P0374,Paul Acosta,71,F,Comas,Pediatría,2023-09-06,108.62
+P0375,Paul Garland,21,M,SJL,Medicina General,2022-05-15,280.39
+P0376,Denise Oglesby,88,,SJL,Traumatología,2024-10-02,357.57
+P0377,Kevin Colston,58,,Miraflores,Cardiología,2022-05-14,226.38
+P0378,David Mercier,67,,SJL,Traumatología,2024-06-22,115.41
+P0379,Marc Boor,21,F,Miraflores,Odontología,2024-02-08,258.19
+P0380,Rodger Quay,52,F,Surco,,2022-09-06,258.93
+P0381,Michael Kelso,49,M,San Isidro,Odontología,2022-05-03,483.55
+P0382,James Neff,47,,Comas,Odontología,2022-04-20,158.76
+P0383,Delores Jones,24,F,Lince,Odontología,2023-07-02,151.07
+P0384,Alfredo Boynton,92,M,SJL,Medicina General,2022-10-31,152.5
+P0385,Levi Butler,1,F,San Isidro,Odontología,2022-11-18,82.58
+P0386,Gordon Smith,31,,SJL,Odontología,2022-02-07,436.11
+P0387,Janine Roberts,55,F,Surco,Medicina General,2022-04-08,75.33
+P0388,Ruth Raggio,12,NA,La Molina,Odontología,2022-06-30,315.15
+P0389,Mauro Bayard,9,,Comas,,2023-08-09,283.68
+P0390,Matthew Tardy,49,,La Molina,Odontología,2022-10-22,341.82
+P0391,Kevin Sylvester,89,,SJL,Pediatría,2022-03-19,124.34
+P0392,Robert Hastings,5,NA,Surco,,2022-07-15,239.4
+P0393,Myrtle Gray,33,F,Surco,NA,2022-03-07,480.21
+P0394,Ruben Mcdonald,34,,Comas,Medicina General,2023-02-03,331.63
+P0395,John Cook,33,M,Comas,Traumatología,2022-10-21,270.91
+P0396,Juliana Sanchez,54,M,San Isidro,Pediatría,2024-01-05,427.5
+P0397,Mildred Lagrimas,81,F,Surco,,2023-11-02,248.43
+P0398,Thomas Hedlund,20,M,SJL,Pediatría,2024-09-16,199.47
+P0399,Alan Conteh,62,,San Isidro,Pediatría,2024-10-14,399.42
+P0400,David Cardenas,29,M,Lince,NA,2023-01-06,448.79
+P0401,Edna Lloyd,14,M,Comas,Pediatría,2023-11-27,383.16
+P0402,Beatrice Escarcega,90,F,La Molina,,2022-12-31,412.15
+P0403,Patrick Beatty,13,M,San Isidro,Cardiología,2024-12-26,229.02
+P0404,Anthony Harris,73,M,La Molina,,2022-09-01,418.94
+P0405,Bobby Santini,30,NA,SJL,Odontología,2024-04-07,114.6
+P0406,William Carlson,77,F,Miraflores,Cardiología,2022-07-29,141.59
+P0407,James Wells,36,NA,La Molina,Traumatología,2023-04-25,150.42
+P0408,Richard King,89,,SJL,Medicina General,2023-12-27,408.38
+P0409,Ida Wall,85,M,Miraflores,NA,2022-03-31,194.98
+P0410,Samuel White,37,F,SJL,Odontología,2023-05-30,323.74
+P0411,Jewell Frazier,81,NA,Surco,Medicina General,2023-12-02,461.96
+P0412,Kay Newman,38,M,Miraflores,Medicina General,2023-04-02,334.12
+P0413,Myrle Winchell,88,F,Comas,NA,2022-04-04,111.4
+P0414,Lisa Bastian,38,,La Molina,,2022-05-27,358.53
+P0415,Darlene Snider,27,,Miraflores,Odontología,2023-03-25,251.45
+P0416,Daniel Mcmorris,48,F,Surco,Cardiología,2024-09-08,396.94
+P0417,Pamela Vichidvongsa,57,,SJL,,2023-09-14,336.38
+P0418,Edna Saxton,55,,SJL,,2024-09-11,423.18
+P0419,Jennifer Gonzalez,93,F,Surco,Cardiología,2024-09-04,279.3
+P0420,Emily Martinez,42,,Miraflores,Traumatología,2024-07-31,113.31
+P0421,Mary Crook,84,,Comas,Traumatología,2022-01-07,137.14
+P0422,Cody Emerson,31,M,San Isidro,Medicina General,2022-09-04,133.52
+P0423,Ryan Urban,6,M,SJL,Cardiología,2023-09-03,215.08
+P0424,Darwin Wysong,20,,San Isidro,,2022-12-21,399.46
+P0425,Connie Palencia,93,M,Surco,,2024-01-22,398.03
+P0426,Ema Bowley,54,M,Miraflores,Cardiología,2023-01-18,214.33
+P0427,Emily Smith,36,M,San Isidro,Odontología,2024-12-16,363.46
+P0428,Patricia Laudat,82,NA,Comas,,2024-05-02,362.44
+P0429,Elizabeth Cole,94,M,Comas,Pediatría,2022-09-26,260.09
+P0430,Angela Gibson,68,,Surco,Pediatría,2024-01-07,389.73
+P0431,Karen Nash,8,F,Surco,Pediatría,2023-05-10,467.91
+P0432,Aimee Maldonado,40,NA,Lince,,2022-04-22,180.97
+P0433,Amos Mahone,80,F,San Isidro,,2024-01-18,199.87
+P0434,Mary Cole,38,M,Lince,Odontología,2022-04-10,272.13
+P0435,Brenda Ezpeleta,15,NA,Comas,Cardiología,2023-12-26,491.27
+P0436,Barbara Mincy,46,M,SJL,NA,2024-02-18,61.79
+P0437,Jackie Carroll,71,,SJL,NA,2024-02-16,268.47
+P0438,David Tabak,21,NA,Lince,Medicina General,2024-03-15,300.53
+P0439,Alice Landry,77,M,San Isidro,Medicina General,2022-05-08,50.54
+P0440,Michael Fletcher,19,NA,La Molina,Pediatría,2023-02-07,187.34
+P0441,Hugo Hamilton,87,,Comas,Cardiología,2022-02-06,450.1
+P0442,Carmela Brawner,41,NA,SJL,Traumatología,2023-04-13,298.6
+P0443,Carrie Knisley,1,M,Miraflores,NA,2023-03-01,334.18
+P0444,Paul Eberhart,49,M,Surco,Odontología,2024-06-14,128.67
+P0445,Manuel Martin,58,,Miraflores,NA,2023-11-12,216.54
+P0446,Lena Quale,47,M,Comas,Cardiología,2022-07-28,413.12
+P0447,Jennifer Solomon,52,NA,Lince,Traumatología,2023-09-30,107.68
+P0448,Gordon Perez,86,F,Miraflores,,2024-04-04,455.91
+P0449,Richard Cahoon,45,NA,Surco,,2023-05-22,250.58
+P0450,Sammy Gilbert,80,F,Comas,Medicina General,2024-10-30,373.91
+P0451,Debra Canady,23,,SJL,Traumatología,2024-04-27,231.62
+P0452,Sonia Buzzelli,76,,Lince,Medicina General,2024-09-12,124.44
+P0453,Todd Otani,10,NA,Comas,Pediatría,2022-12-29,61.84
+P0454,Mark Redington,16,M,San Isidro,NA,2022-08-18,94.04
+P0455,Florine Weiland,37,,Miraflores,Traumatología,2022-08-10,136.98
+P0456,Sarah Saunders,11,,La Molina,Traumatología,2022-06-23,481.49
+P0457,Ethel Lefevre,22,M,SJL,Odontología,2024-08-21,463.29
+P0458,Scott Frohling,2,F,San Isidro,Pediatría,2024-12-19,226.09
+P0459,Bradley Rice,88,,Lince,Odontología,2023-06-27,368.36
+P0460,Carlos Bennett,38,,San Isidro,Traumatología,2024-06-07,50.07
+P0461,Connie Jackson,43,NA,Comas,NA,2022-07-08,76.8
+P0462,Stella Marsh,47,NA,La Molina,,2023-04-29,163.46
+P0463,Katherine Norris,18,F,San Isidro,Pediatría,2024-05-06,459.51
+P0464,Jennifer Wolfe,88,M,Comas,Pediatría,2024-12-23,383.22
+P0465,Sara Koeller,90,,Miraflores,,2023-07-26,69.97
+P0466,John Barrows,37,NA,SJL,Odontología,2024-03-14,149.27
+P0467,Beatrice Fambrough,49,,La Molina,Traumatología,2022-03-24,114.69
+P0468,Eileen Loges,77,,San Isidro,Cardiología,2024-06-15,214.0
+P0469,Jeff Housley,12,M,Surco,Pediatría,2023-04-11,204.54
+P0470,Denise Smallman,30,F,La Molina,,2022-10-17,247.6
+P0471,Sylvia Meyer,91,NA,Surco,Traumatología,2024-09-01,230.25
+P0472,Vernon White,17,,Comas,,2022-08-23,382.42
+P0473,Shawna Crane,28,NA,Miraflores,Cardiología,2024-03-14,362.12
+P0474,John Braley,94,M,Surco,Traumatología,2023-09-21,404.91
+P0475,Scott Duke,66,,SJL,Medicina General,2023-05-11,80.28
+P0476,Kimberly Frantz,82,M,San Isidro,Pediatría,2024-10-26,389.68
+P0477,Dolores Lighthill,23,F,Comas,Cardiología,2022-08-17,127.98
+P0478,Brandon King,31,,La Molina,,2024-10-19,310.53
+P0479,Mattie Taylor,49,F,Comas,Medicina General,2023-11-16,178.99
+P0480,Brenda Steinberg,83,,SJL,Odontología,2024-04-16,134.37
+P0481,Harold Holder,91,,Surco,,2024-04-13,498.4
+P0482,Debra Payne,12,M,Comas,Pediatría,2023-12-30,268.5
+P0483,Joseph Mcshea,32,NA,SJL,Odontología,2024-09-15,183.84
+P0484,Brian Riley,76,,Surco,Medicina General,2024-08-20,172.32
+P0485,Ryan Graham,95,NA,Miraflores,Pediatría,2024-02-13,239.81
+P0486,James Mcdonald,28,NA,Miraflores,Traumatología,2024-11-29,162.0
+P0487,Beatrice Banks,87,,SJL,Pediatría,2023-10-16,68.38
+P0488,Norma Yanez,13,NA,La Molina,Traumatología,2023-01-27,131.13
+P0489,Delaine Moody,52,NA,SJL,Pediatría,2022-05-04,105.02
+P0490,Cruz Mascorro,15,M,La Molina,,2024-04-15,291.58
+P0491,Helen Woolwine,95,F,SJL,Odontología,2022-02-21,325.03
+P0492,Shirley Ahumada,95,,La Molina,Medicina General,2023-09-08,131.82
+P0493,Gilberto Jackson,17,NA,Lince,NA,2024-03-22,351.16
+P0494,Maggie Fisher,84,F,Lince,NA,2022-05-04,369.12
+P0495,Nicole Engel,92,F,Surco,,2022-08-02,156.63
+P0496,Tina Faughnan,43,F,SJL,Odontología,2022-06-21,308.43
+P0497,Madeline Mcallen,46,M,Lince,Cardiología,2023-06-25,489.6
+P0498,Tracy Robinson,26,,SJL,Cardiología,2022-02-17,243.64
+P0499,Sam Francis,26,NA,SJL,NA,2024-07-18,117.62
+P0500,Aaron Cross,49,NA,SJL,Cardiología,2023-10-31,131.23
+P0501,Richard Brown,26,NA,San Isidro,Traumatología,2022-01-19,91.21
+P0502,Denis Young,12,M,Comas,Pediatría,2022-06-14,232.36
+P0503,Chris Gagliano,89,NA,Comas,Odontología,2022-03-20,59.46
+P0504,Brian Sattler,17,NA,Comas,Pediatría,2024-02-29,353.41
+P0505,Selena Gamez,31,M,SJL,Medicina General,2024-03-10,184.53
+P0506,William Williams,78,F,Lince,NA,2023-05-30,368.4
+P0507,Alan Soto,49,NA,Lince,Odontología,2024-11-29,132.59
+P0508,Susan Deloney,72,NA,Comas,Pediatría,2024-10-30,122.86
+P0509,Bob Powell,12,,La Molina,Pediatría,2022-03-06,228.96
+P0510,Jason Beard,50,NA,Surco,Odontología,2023-07-16,379.84
+P0511,Harry Berry,62,F,La Molina,NA,2022-03-25,65.2
+P0512,William Morgan,79,F,La Molina,NA,2022-06-28,484.93
+P0513,Loretta Cox,39,M,La Molina,,2022-04-21,378.08
+P0514,Robert Moore,24,,SJL,Odontología,2023-01-24,455.13
+P0515,Roosevelt Rains,33,M,La Molina,Traumatología,2023-05-27,119.89
+P0516,John Ngo,22,,Lince,Odontología,2023-11-11,288.3
+P0517,Bradley Muller,34,M,SJL,Pediatría,2024-08-04,332.61
+P0518,Beverly Terry,85,NA,Lince,NA,2024-05-13,248.58
+P0519,Tommie Calais,86,F,Miraflores,,2024-05-30,228.22
+P0520,Jeffrey Stiles,8,F,Surco,,2023-12-23,216.0
+P0521,Sandra King,81,NA,San Isidro,,2022-06-09,387.37
+P0522,Steven Garner,86,M,Surco,Medicina General,2023-09-07,221.56
+P0523,Randy Lowe,55,,SJL,Pediatría,2024-02-11,436.46
+P0524,Orville Gonnella,27,M,Lince,Cardiología,2023-07-05,285.4
+P0525,Helen Sato,12,M,San Isidro,Medicina General,2024-08-30,323.52
+P0526,Christopher Brown,80,M,Comas,Cardiología,2024-10-19,419.42
+P0527,Beatrice Bruner,8,M,Lince,Odontología,2022-11-17,379.3
+P0528,Mack Jackson,94,,La Molina,Medicina General,2022-05-09,311.57
+P0529,Forrest Tatum,2,,La Molina,Cardiología,2024-07-01,219.62
+P0530,Charles Morales,65,NA,Comas,,2022-12-09,156.45
+P0531,Joseph Rehm,38,F,Miraflores,Traumatología,2024-10-29,383.94
+P0532,John Hippler,54,NA,Miraflores,Pediatría,2022-07-15,386.96
+P0533,Willie Moody,91,F,La Molina,,2022-04-20,97.18
+P0534,Amy Hedrick,21,,Surco,Traumatología,2024-09-14,228.03
+P0535,Harry Bradford,77,,Miraflores,Traumatología,2023-03-19,298.39
+P0536,John Page,1,,Surco,Medicina General,2023-10-10,299.67
+P0537,Alice Willis,72,F,La Molina,Traumatología,2024-07-27,410.27
+P0538,Jonna Rickard,64,M,Miraflores,Medicina General,2024-08-28,384.44
+P0539,Felicita Hoeppner,19,F,SJL,Traumatología,2022-01-10,311.91
+P0540,Victor Cooke,48,,Lince,NA,2024-05-02,203.39
+P0541,Nancy Dobbs,76,F,Lince,Odontología,2024-06-07,451.27
+P0542,Jeff Griffin,94,NA,SJL,Traumatología,2024-12-23,315.65
+P0543,Sheldon Blackwell,76,,La Molina,Odontología,2024-08-31,56.81
+P0544,Steven Bass,92,,SJL,Cardiología,2024-01-24,156.02
+P0545,Thomas Heenan,5,F,SJL,Pediatría,2024-01-18,192.12
+P0546,Sue Hammond,56,,Lince,Medicina General,2022-06-14,96.67
+P0547,Margaret Smith,52,NA,SJL,NA,2022-06-09,70.64
+P0548,Bryant Delatorre,76,F,Comas,,2023-04-12,483.86
+P0549,Barbara Davis,18,NA,San Isidro,Odontología,2024-10-25,332.16
+P0550,Rebecca Langley,91,F,Comas,,2024-09-09,350.78
+P0551,Alfred Goff,82,,San Isidro,NA,2022-01-31,330.03
+P0552,Julia Thomas,58,F,SJL,NA,2023-03-28,95.42
+P0553,Kelly Erich,81,,La Molina,NA,2024-09-10,373.21
+P0554,Jason Ashton,88,M,Miraflores,NA,2023-05-30,379.93
+P0555,Florine Rector,75,NA,Surco,,2022-08-26,76.07
+P0556,Tamala Odell,66,,San Isidro,Cardiología,2022-02-01,208.72
+P0557,Stephanie Epps,42,F,Miraflores,Pediatría,2023-09-23,337.73
+P0558,Anne Magee,41,M,SJL,Odontología,2022-05-13,320.16
+P0559,Daniel Mister,1,M,SJL,Pediatría,2024-12-28,163.86
+P0560,William Vanderhoef,93,M,Surco,Cardiología,2022-02-18,242.29
+P0561,Frank Earls,51,M,San Isidro,Pediatría,2024-07-22,145.34
+P0562,Valencia Levy,12,,San Isidro,,2023-06-03,309.98
+P0563,Dorothy Lawson,19,M,Surco,Odontología,2023-11-01,298.24
+P0564,John Motte,94,F,La Molina,Cardiología,2023-06-02,269.37
+P0565,Matt Vazquez,40,M,Lince,Medicina General,2023-02-24,368.21
+P0566,John Hardin,94,M,La Molina,,2023-05-06,393.88
+P0567,Gary Sasser,68,M,Lince,Pediatría,2022-02-04,203.93
+P0568,Tod Pinto,42,M,SJL,NA,2023-01-04,168.13
+P0569,Steven Bell,68,F,San Isidro,NA,2022-12-04,102.7
+P0570,Manuel Havenhill,15,,San Isidro,NA,2023-07-13,89.71
+P0571,Abby Turner,93,F,Miraflores,Traumatología,2023-09-12,441.84
+P0572,Vernell Sanville,79,F,Surco,Traumatología,2022-08-13,144.39
+P0573,Sophia Ferguson,17,,San Isidro,Cardiología,2024-09-19,270.88
+P0574,Norman Pugh,15,F,Lince,Cardiología,2022-02-09,120.08
+P0575,Violet Armstrong,9,F,Comas,Cardiología,2023-12-30,131.29
+P0576,Aaron Farris,47,NA,SJL,Medicina General,2024-04-26,174.33
+P0577,Thomas Lacy,83,M,Comas,Medicina General,2024-04-22,257.69
+P0578,Patricia Lopez,29,,La Molina,Medicina General,2023-09-30,92.25
+P0579,Jeremy Micucci,50,,San Isidro,Odontología,2023-12-13,444.93
+P0580,Christopher Vandre,94,M,San Isidro,NA,2023-04-03,402.12
+P0581,Scott Thornhill,13,F,Miraflores,NA,2024-05-10,138.17
+P0582,Jermaine Benjamin,50,M,Miraflores,Medicina General,2023-03-09,420.46
+P0583,Jennifer Madril,95,F,Miraflores,Odontología,2023-06-13,102.43
+P0584,Dana Keith,80,NA,Surco,Pediatría,2022-08-23,143.73
+P0585,Sharon Crocker,63,M,Surco,Pediatría,2023-09-21,109.27
+P0586,Manuela Shattuck,89,NA,Lince,Medicina General,2024-05-06,438.6
+P0587,Ashley Johnson,95,NA,Miraflores,NA,2023-05-25,485.28
+P0588,Anita Ovington,89,NA,San Isidro,,2024-10-29,217.96
+P0589,Orville Randazzo,47,,Comas,NA,2023-04-07,431.48
+P0590,Eddie Mulholland,62,M,La Molina,,2024-11-07,376.19
+P0591,James Bonds,76,NA,San Isidro,,2023-08-13,318.06
+P0592,John Newcomb,3,M,San Isidro,Medicina General,2022-01-22,229.25
+P0593,James Swinford,38,F,Lince,Cardiología,2022-02-12,126.37
+P0594,Paul Landstrom,10,M,Miraflores,Medicina General,2023-04-11,428.59
+P0595,Robert Coulter,27,F,La Molina,Cardiología,2022-01-23,202.53
+P0596,Pierre Thompson,23,,Comas,Traumatología,2022-02-05,383.67
+P0597,Christopher Leak,23,,Comas,Medicina General,2022-07-07,71.32
+P0598,Eric Burton,29,M,SJL,,2024-06-01,175.84
+P0599,Mary Mcmaster,9,,Miraflores,Cardiología,2024-12-28,439.96
+P0600,Dominic Martinez,6,F,Lince,Traumatología,2022-05-22,292.0
+P0601,Thomas Halford,51,F,Comas,NA,2023-04-08,341.55
+P0602,Clayton Lowell,60,M,Surco,,2024-07-09,429.67
+P0603,Todd Hampton,18,F,San Isidro,,2022-10-28,89.3
+P0604,Lisa Castillo,8,NA,SJL,,2023-04-07,317.54
+P0605,Brian Varela,67,M,Miraflores,Pediatría,2023-05-31,384.23
+P0606,James Wiggins,53,F,Surco,Pediatría,2024-09-06,390.42
+P0607,Jean Maier,3,NA,Surco,Cardiología,2023-10-05,314.63
+P0608,Dorothy Puentes,19,M,SJL,Cardiología,2023-05-18,460.34
+P0609,Cassie Lacount,56,M,Lince,Pediatría,2024-08-10,180.11
+P0610,Michael Spencer,12,,Lince,,2022-04-14,444.61
+P0611,Kirk Craig,73,F,La Molina,Odontología,2022-03-29,364.18
+P0612,Gertrude Henderson,65,F,La Molina,Pediatría,2024-08-19,214.8
+P0613,Margaret Taylor,28,M,SJL,Medicina General,2022-01-18,413.63
+P0614,Joshua Crofton,25,,San Isidro,Odontología,2022-02-24,355.54
+P0615,Robert Edwards,36,,Miraflores,Odontología,2022-06-19,276.46
+P0616,Kyle Nunez,63,F,Miraflores,Cardiología,2022-11-26,188.38
+P0617,Donna Breslin,77,M,Surco,NA,2023-04-07,475.22
+P0618,John Ellett,69,M,Comas,NA,2022-07-08,397.25
+P0619,Frank Mosley,62,NA,Comas,Cardiología,2023-01-16,478.72
+P0620,Leslie Noel,41,M,Lince,NA,2022-06-14,397.06
+P0621,Lawrence Bell,73,M,Lince,Medicina General,2023-02-12,135.3
+P0622,Alyssa Jose,2,F,Comas,,2023-01-10,164.49
+P0623,Gregory Switzer,73,NA,Surco,Odontología,2022-12-16,215.6
+P0624,Ralph Neal,19,,Comas,NA,2022-04-20,381.06
+P0625,Andrew Auld,79,M,San Isidro,Pediatría,2022-03-08,272.13
+P0626,Kelly Jennings,67,M,Lince,Cardiología,2022-05-06,164.37
+P0627,Howard Doyle,62,NA,Surco,Pediatría,2024-01-29,243.58
+P0628,John Jones,15,F,SJL,NA,2022-05-23,219.17
+P0629,Donnie Gould,66,F,Surco,Odontología,2023-07-19,72.65
+P0630,Sharon Motes,37,M,Surco,Odontología,2022-10-20,294.3
+P0631,Jesse Godfrey,86,F,Surco,,2023-02-20,337.38
+P0632,George Cook,66,M,Lince,Traumatología,2024-02-21,194.1
+P0633,Brenda Lee,3,F,SJL,Pediatría,2023-01-06,312.07
+P0634,Cynthia Martinez,69,NA,Miraflores,Odontología,2022-01-24,142.15
+P0635,Toni Walters,71,NA,Surco,Odontología,2022-03-17,255.38
+P0636,Becky Mcnutt,35,M,SJL,,2023-05-07,203.48
+P0637,Randy Kantrowitz,84,NA,SJL,NA,2024-02-12,177.5
+P0638,Ina Howard,70,F,Surco,,2024-05-07,320.12
+P0639,Willie Hooten,5,M,Miraflores,Medicina General,2024-07-06,274.77
+P0640,Mary Robertson,20,NA,Lince,NA,2024-10-12,269.8
+P0641,Cara Davis,6,NA,Comas,Odontología,2024-06-26,367.82
+P0642,Loretta Clark,51,M,Surco,Traumatología,2024-02-02,213.1
+P0643,Margaret Salazar,15,F,Lince,,2022-03-26,447.23
+P0644,Ronald Tiley,36,,SJL,Traumatología,2022-10-05,233.68
+P0645,Christopher Lewis,76,F,La Molina,Cardiología,2022-10-22,351.72
+P0646,Jean Hammer,61,,La Molina,Medicina General,2023-07-20,97.6
+P0647,Alicia Parker,78,NA,Miraflores,Odontología,2022-01-30,453.53
+P0648,Gloria Harris,19,NA,San Isidro,,2022-10-08,174.8
+P0649,Jennifer Harvey,73,M,Lince,Traumatología,2023-08-14,380.61
+P0650,Reginald Leber,8,,Miraflores,Medicina General,2023-08-19,360.43
+P0651,Johnny Griffith,12,NA,Comas,,2024-04-12,364.16
+P0652,Kurt Christie,4,NA,Comas,NA,2022-07-02,401.32
+P0653,Francis Clark,63,M,Miraflores,Medicina General,2023-12-06,121.76
+P0654,Wayne Dukes,72,NA,La Molina,,2022-09-07,195.91
+P0655,Kellie Kim,82,F,SJL,,2024-10-11,473.92
+P0656,Loren Barnes,1,,Comas,,2023-03-10,53.37
+P0657,John Hendrix,42,,La Molina,Odontología,2022-03-12,234.94
+P0658,Dora Grubb,90,F,Miraflores,Traumatología,2023-10-18,80.48
+P0659,Cathy Torres,1,NA,Miraflores,Traumatología,2022-06-25,204.15
+P0660,Williams Emerson,93,,SJL,NA,2024-06-12,283.33
+P0661,Mary Kantor,71,M,Surco,Cardiología,2022-09-24,386.54
+P0662,Charles Lopez,77,,La Molina,Odontología,2023-11-09,449.59
+P0663,Nancy Hilton,6,M,Surco,Traumatología,2023-09-20,393.17
+P0664,John Bell,61,M,Lince,Medicina General,2024-04-22,357.21
+P0665,Gail Ozuna,78,M,Comas,NA,2022-07-31,237.27
+P0666,Susan Oun,59,,La Molina,Pediatría,2024-10-23,76.78
+P0667,Mary Jones,63,,SJL,Odontología,2023-01-09,85.99
+P0668,William Mata,72,M,La Molina,Medicina General,2023-07-30,379.4
+P0669,Nicole Chavis,70,,SJL,NA,2024-07-21,185.8
+P0670,Francisco Garcia,80,,San Isidro,Odontología,2022-08-09,119.28
+P0671,Lori Mastriano,49,F,La Molina,Odontología,2024-04-30,320.23
+P0672,Donald Delay,2,,San Isidro,Odontología,2023-09-22,467.49
+P0673,Margaret Badgley,60,NA,SJL,,2022-02-27,344.29
+P0674,Brian Hoke,48,NA,SJL,NA,2024-03-12,85.6
+P0675,Mary Mccann,69,F,Lince,Cardiología,2022-08-27,195.38
+P0676,Bruce Hastings,76,NA,Comas,Cardiología,2022-11-23,151.8
+P0677,Raul Peevey,63,M,La Molina,,2024-05-15,146.14
+P0678,Janice Bonn,79,,Surco,Traumatología,2023-11-26,93.66
+P0679,Carol Davis,50,F,Surco,Medicina General,2022-02-01,86.13
+P0680,Julian Calvert,21,M,Miraflores,Traumatología,2022-11-15,140.09
+P0681,Michael Fender,67,,La Molina,Medicina General,2023-12-08,127.84
+P0682,Robert Weinberg,6,F,SJL,Medicina General,2023-09-12,116.89
+P0683,Scott Kut,45,F,Lince,Cardiología,2024-06-28,82.65
+P0684,Marvin Benson,74,NA,Surco,Medicina General,2024-12-14,212.16
+P0685,Dana Rodriquez,79,M,Comas,NA,2023-01-12,472.01
+P0686,Danny Kruse,36,F,San Isidro,Cardiología,2022-09-16,349.73
+P0687,Ronnie Stevens,33,NA,San Isidro,Odontología,2022-12-08,327.97
+P0688,Tanya Winchel,21,F,SJL,Pediatría,2022-08-18,308.09
+P0689,Marie Webb,46,,La Molina,Pediatría,2023-04-22,279.0
+P0690,Elizabeth Diaz,89,NA,Comas,Traumatología,2024-08-23,265.32
+P0691,David Castro,5,,Miraflores,Odontología,2023-07-09,293.22
+P0692,Kristi Mcdonald,66,NA,Comas,Odontología,2023-01-19,128.4
+P0693,Caroline Miller,47,F,San Isidro,Cardiología,2024-05-30,386.82
+P0694,Clifton Schnell,22,,La Molina,Medicina General,2022-07-14,266.82
+P0695,Marjorie Jess,14,M,La Molina,,2022-06-17,220.54
+P0696,Robert Duckworth,57,NA,Comas,Odontología,2023-01-13,266.74
+P0697,Scott Carey,1,NA,Miraflores,NA,2022-07-21,430.77
+P0698,Gerry Hager,81,,Surco,Cardiología,2023-11-17,195.16
+P0699,Lana Gilbert,78,,Lince,,2022-02-28,328.87
+P0700,Sandra Bragdon,58,NA,San Isidro,,2022-10-27,449.92
+P0701,Jerry Waters,77,F,Miraflores,Traumatología,2024-02-04,115.61
+P0702,Janette Lunt,90,M,San Isidro,NA,2024-11-10,114.21
+P0703,James Sanchez,85,NA,Miraflores,Odontología,2022-03-31,237.49
+P0704,Charles Cook,17,NA,Comas,,2023-05-31,482.92
+P0705,Lisa Gandy,69,NA,San Isidro,Odontología,2022-05-16,202.72
+P0706,Susie Hamel,59,F,Comas,Cardiología,2024-08-18,252.41
+P0707,Richard Foulks,20,M,Comas,Cardiología,2024-08-11,128.09
+P0708,John Lentz,48,F,La Molina,Cardiología,2023-09-01,111.08
+P0709,David Aldridge,7,NA,Comas,Pediatría,2022-05-08,325.2
+P0710,Sara Bradley,15,,Lince,Odontología,2024-05-06,257.0
+P0711,Wayne Rawling,78,M,Lince,Odontología,2024-02-22,296.57
+P0712,Vernon Daigle,26,M,Miraflores,,2024-11-20,153.56
+P0713,Natalie Briggs,16,NA,Comas,Medicina General,2024-01-28,403.54
+P0714,Susan Jones,95,,Miraflores,NA,2023-06-21,320.63
+P0715,Frank Gagnon,41,,Comas,Medicina General,2022-04-02,387.29
+P0716,Matthew Sohn,84,M,Comas,Medicina General,2023-02-08,496.49
+P0717,Millard Godwin,54,M,Comas,,2024-08-09,183.1
+P0718,Glen Berg,95,M,SJL,Pediatría,2022-03-01,199.05
+P0719,Rose Roberts,74,NA,Miraflores,Odontología,2022-03-20,379.47
+P0720,Clayton Walter,48,M,La Molina,,2023-11-08,139.79
+P0721,Jo Begay,71,NA,Surco,Pediatría,2023-06-03,119.3
+P0722,Emma Weaver,16,F,Comas,Odontología,2023-08-06,452.26
+P0723,John Welch,95,F,Miraflores,Odontología,2022-05-14,320.31
+P0724,Margaret Baker,37,F,San Isidro,NA,2023-01-19,53.55
+P0725,Ronnie Childs,82,M,San Isidro,,2024-07-27,226.67
+P0726,Robert Grady,69,M,Lince,,2024-02-12,427.01
+P0727,Dean Mcfall,66,M,La Molina,NA,2024-08-13,295.61
+P0728,Norberto Senz,46,M,Lince,NA,2023-08-19,73.04
+P0729,Randy Cook,81,,Lince,NA,2023-12-14,482.56
+P0730,Harold Rester,38,,Lince,Pediatría,2022-02-04,390.48
+P0731,Norman Casteel,56,F,Surco,Traumatología,2023-07-12,303.22
+P0732,Dorothy Hyman,29,,Miraflores,Traumatología,2024-08-23,461.08
+P0733,Robert Carlin,93,M,Lince,Odontología,2024-03-29,241.13
+P0734,Jason Sanders,48,NA,Surco,Cardiología,2024-06-17,480.71
+P0735,Johnnie Parvin,24,M,Surco,Cardiología,2024-03-07,483.85
+P0736,Bobby Ballard,94,,Surco,Odontología,2023-03-12,412.44
+P0737,Cynthia Lewis,8,F,SJL,Traumatología,2023-07-09,177.44
+P0738,Bernadine Lozano,78,M,La Molina,Medicina General,2022-04-11,155.46
+P0739,Raymond Cooper,67,M,Lince,Odontología,2024-07-05,373.49
+P0740,Terry Jenkins,82,F,Miraflores,Traumatología,2024-02-11,459.01
+P0741,Stanley Wells,84,,San Isidro,Pediatría,2022-10-04,166.46
+P0742,Ana Keatts,77,M,SJL,,2024-10-18,143.27
+P0743,Season Mays,15,NA,Comas,Pediatría,2024-07-22,321.07
+P0744,Kenneth Sirmans,14,,Surco,,2024-12-09,186.18
+P0745,Nancy Fuhrman,73,M,La Molina,Pediatría,2023-05-29,275.72
+P0746,Daryl Sawyer,66,NA,Lince,Pediatría,2022-02-09,276.01
+P0747,Eric Lee,3,,SJL,Cardiología,2022-04-05,397.64
+P0748,Sylvia Hendershot,16,NA,Surco,Pediatría,2023-08-08,418.95
+P0749,Linda Lammers,60,,SJL,Traumatología,2023-08-19,485.49
+P0750,Robert Hathaway,35,,Comas,NA,2022-08-18,481.0
+P0751,Ben Gomez,36,F,Lince,NA,2023-10-17,293.18
+P0752,Kristin Stockman,20,NA,SJL,Odontología,2022-03-29,450.48
+P0753,Wanda Walters,44,M,La Molina,,2022-02-06,135.7
+P0754,Mildred Samuel,19,,Comas,,2023-08-05,169.3
+P0755,Heather Head,90,M,San Isidro,Odontología,2024-04-10,252.83
+P0756,Louise Walker,77,M,San Isidro,Odontología,2022-08-15,411.7
+P0757,Bertha Kim,48,NA,La Molina,Pediatría,2024-06-25,462.56
+P0758,Bonnie Dillon,12,F,San Isidro,Odontología,2024-11-25,187.29
+P0759,Brandon Ferguson,93,M,SJL,,2024-05-29,115.53
+P0760,Nancy Boswell,9,NA,Miraflores,Cardiología,2024-09-16,490.79
+P0761,Derek Rice,68,F,SJL,,2023-12-05,203.76
+P0762,Brandon Fahey,85,M,San Isidro,NA,2022-11-28,270.14
+P0763,Robert Hyden,83,NA,Miraflores,Cardiología,2022-08-16,275.97
+P0764,Gabrielle Rhodes,17,,Miraflores,NA,2023-04-05,402.17
+P0765,Danielle Dirienzo,19,,SJL,Odontología,2023-05-15,159.37
+P0766,Hector Avalos,25,NA,San Isidro,Cardiología,2022-09-10,317.44
+P0767,Lillian Barnes,23,F,La Molina,Odontología,2022-11-04,91.84
+P0768,George Adams,78,M,SJL,Pediatría,2024-02-26,397.67
+P0769,Andrew Alway,61,F,Comas,Traumatología,2024-05-13,483.49
+P0770,Tom Pillsbury,59,M,Miraflores,Pediatría,2024-08-21,489.41
+P0771,Gary Ramage,4,,La Molina,Medicina General,2024-06-18,112.74
+P0772,Mayra Dunn,29,F,Comas,Medicina General,2024-06-30,174.68
+P0773,Frank Eagle,74,,San Isidro,Odontología,2022-08-31,74.13
+P0774,Craig Burkart,48,,Miraflores,Pediatría,2024-12-22,149.52
+P0775,Pamela Lawson,46,F,Surco,Medicina General,2023-10-11,430.93
+P0776,Traci Santos,30,F,Miraflores,,2022-06-06,199.28
+P0777,Nichole Scharfenberg,93,NA,Comas,Traumatología,2022-12-11,102.06
+P0778,John Pope,87,NA,San Isidro,Traumatología,2022-03-17,460.49
+P0779,Audrey Garcia,28,,San Isidro,,2024-04-10,431.16
+P0780,Faith Leslie,78,F,San Isidro,,2024-10-30,476.56
+P0781,Yolanda Henry,55,NA,La Molina,,2023-01-15,292.27
+P0782,Rose Mehlig,90,F,San Isidro,NA,2022-12-03,195.79
+P0783,Glenn Wilson,69,M,Comas,Pediatría,2023-11-25,340.89
+P0784,James Redmond,93,M,Surco,Odontología,2024-03-20,242.57
+P0785,June Weisberg,6,F,Comas,,2022-08-15,215.44
+P0786,Veronica Meyer,6,F,Comas,Pediatría,2024-04-20,485.7
+P0787,Elsie Koon,33,M,Comas,Pediatría,2024-02-15,302.89
+P0788,Sheila Armstrong,23,NA,San Isidro,NA,2022-09-18,179.43
+P0789,Michael Coleman,71,F,Lince,Cardiología,2024-02-24,228.18
+P0790,Enid Marquis,64,M,SJL,Medicina General,2022-09-19,269.55
+P0791,Douglas Gagnon,29,,SJL,Traumatología,2024-04-01,297.57
+P0792,Lilly Koverman,28,,San Isidro,Cardiología,2022-06-23,292.92
+P0793,Gail Bruch,35,NA,Miraflores,Traumatología,2022-12-07,377.54
+P0794,Leslie Marton,42,F,Lince,Traumatología,2022-06-21,407.04
+P0795,Mary Thompson,24,M,La Molina,Pediatría,2024-05-17,458.42
+P0796,Gail Sanchez,45,F,La Molina,,2023-06-25,239.08
+P0797,Stephen Riggins,94,F,San Isidro,Medicina General,2023-01-17,356.07
+P0798,Shirley Cruz,28,NA,La Molina,Medicina General,2022-11-10,245.19
+P0799,Kimberly Campbell,70,F,Miraflores,Odontología,2024-12-26,73.61
+P0800,Vickie Cosgrove,12,M,SJL,Traumatología,2022-05-10,340.36
+P0801,Kevin Acosta,69,NA,SJL,Pediatría,2022-10-26,282.61
+P0802,Archie Henson,37,NA,La Molina,NA,2022-03-10,65.95
+P0803,Charles Anderson,77,,SJL,Cardiología,2023-11-08,221.28
+P0804,Janet Giorgi,39,M,Surco,Odontología,2023-02-06,481.18
+P0805,Irene Peterson,86,F,Miraflores,,2023-04-17,301.68
+P0806,Jessica Skinner,6,M,Lince,Traumatología,2024-03-14,337.6
+P0807,Michael Diamond,70,NA,San Isidro,Pediatría,2023-05-24,472.22
+P0808,Brian Perez,24,M,Surco,Traumatología,2024-03-11,140.11
+P0809,James Eash,32,F,Miraflores,Cardiología,2024-08-30,172.98
+P0810,Jose Tate,56,M,Surco,Traumatología,2022-10-16,407.19
+P0811,Sarah Ashley,93,M,San Isidro,Cardiología,2024-10-13,154.78
+P0812,Jean Mcdonald,57,,Surco,Pediatría,2024-07-23,379.46
+P0813,Alpha Webster,65,,Miraflores,Odontología,2022-04-18,463.12
+P0814,Chad Tran,82,F,Miraflores,,2023-10-19,355.37
+P0815,Shirley Miller,48,M,Comas,Medicina General,2023-10-30,134.67
+P0816,Richard Glasgow,85,NA,Surco,,2023-07-24,169.13
+P0817,Jeremy Mosley,72,NA,SJL,Medicina General,2024-08-12,345.53
+P0818,Robert Larson,13,NA,Lince,Traumatología,2022-06-07,464.72
+P0819,Judith Sharp,42,M,Comas,Cardiología,2023-08-02,455.84
+P0820,Linwood Moran,68,F,Comas,Pediatría,2024-05-24,482.48
+P0821,Mario Parham,22,NA,Lince,,2024-12-28,417.68
+P0822,Shirley Lawrence,12,NA,Miraflores,Cardiología,2023-03-18,169.47
+P0823,Robert Gerbatz,9,M,SJL,Cardiología,2024-05-19,391.88
+P0824,Susan Randolph,79,NA,Miraflores,Cardiología,2023-12-20,446.65
+P0825,Raymond Salmon,20,F,SJL,Traumatología,2023-10-02,258.33
+P0826,Ray Sekel,36,NA,Surco,Traumatología,2024-08-03,339.27
+P0827,Stephan Dennis,63,,La Molina,Traumatología,2023-04-09,325.15
+P0828,John Moore,53,,La Molina,Medicina General,2023-04-03,399.63
+P0829,Timothy Tran,12,M,Comas,,2022-10-29,409.0
+P0830,Henry Ruiz,24,M,San Isidro,Medicina General,2022-06-25,97.2
+P0831,Michael Baker,85,,San Isidro,Odontología,2023-12-13,158.65
+P0832,Linda Hodges,78,F,Lince,Pediatría,2024-02-10,267.62
+P0833,William Bijou,88,,SJL,,2024-04-12,146.23
+P0834,Paul Brill,22,NA,San Isidro,Cardiología,2024-02-12,270.98
+P0835,Yong Landry,26,M,Miraflores,Pediatría,2023-05-11,299.71
+P0836,Shanna Riggs,46,M,La Molina,,2023-03-10,198.65
+P0837,Clay Potter,30,NA,La Molina,Traumatología,2023-09-30,470.04
+P0838,Ramona Brewster,8,F,SJL,NA,2023-10-03,422.59
+P0839,Marie Cichon,86,F,Comas,Cardiología,2023-03-01,266.66
+P0840,Nina Diaz,29,NA,Lince,NA,2024-09-01,486.18
+P0841,Betty Richardson,46,NA,San Isidro,Medicina General,2023-04-07,52.26
+P0842,Lorraine Johnson,22,,Surco,Odontología,2022-12-09,273.91
+P0843,Shelly Giese,4,F,Lince,Traumatología,2024-03-06,106.87
+P0844,Nancy Vincent,50,M,SJL,Odontología,2024-08-06,493.76
+P0845,Walter Gardner,64,,Surco,Odontología,2024-11-01,322.38
+P0846,David Kozlowski,3,,Surco,Cardiología,2024-07-21,333.36
+P0847,Philip Knowles,54,NA,Lince,Cardiología,2022-04-04,269.81
+P0848,Marilyn Turner,75,NA,San Isidro,Traumatología,2023-05-27,236.77
+P0849,Michelle Nguyen,90,M,Lince,,2024-01-03,414.3
+P0850,Sarah Freeman,17,,Comas,Medicina General,2023-05-24,58.98
+P0851,Earnest Turner,12,F,Comas,,2023-03-25,69.87
+P0852,Merle Thompson,9,M,SJL,Cardiología,2022-09-08,267.16
+P0853,Wayne Hull,95,,Surco,Odontología,2023-10-13,106.13
+P0854,Janice Cook,69,F,SJL,,2024-03-29,159.42
+P0855,Jacob Burt,76,F,Miraflores,Traumatología,2022-10-22,273.21
+P0856,Darren Walker,2,M,Comas,Cardiología,2024-03-27,354.74
+P0857,Ryan Bloom,59,M,Lince,,2022-11-24,206.72
+P0858,Marvin Saavedra,48,F,Comas,Odontología,2022-02-14,453.3
+P0859,Linda Coons,17,NA,Lince,Traumatología,2022-01-01,160.22
+P0860,Joanna Simmons,1,M,Surco,Odontología,2022-04-01,233.62
+P0861,Joseph Latham,50,F,SJL,Pediatría,2023-06-21,390.15
+P0862,Darrel Myrick,70,,La Molina,Pediatría,2022-03-29,440.84
+P0863,William Esparza,43,,Surco,Pediatría,2024-01-23,298.65
+P0864,Krista Ghan,72,,Miraflores,Traumatología,2022-07-14,257.11
+P0865,Malia Deangelis,81,NA,San Isidro,NA,2023-11-11,414.35
+P0866,Brian Rains,19,,Comas,Cardiología,2024-01-20,285.2
+P0867,Robert Reyna,23,NA,San Isidro,Traumatología,2022-08-27,113.02
+P0868,Roger Ostrow,21,F,Surco,,2022-05-26,235.52
+P0869,Sherry Flowers,51,NA,Miraflores,,2022-08-27,116.84
+P0870,Kathleen Barnes,71,M,Surco,Cardiología,2024-03-20,235.04
+P0871,Steven Becker,8,F,San Isidro,Odontología,2024-08-05,84.62
+P0872,David Labruzzo,40,NA,Miraflores,Pediatría,2022-03-29,96.63
+P0873,Peggy Holt,38,,SJL,Pediatría,2022-01-13,306.16
+P0874,John Krous,6,F,Comas,Odontología,2023-02-07,480.65
+P0875,Diane Gannaway,41,,San Isidro,,2023-02-09,352.89
+P0876,Mariana Varela,33,,San Isidro,Odontología,2023-06-19,222.47
+P0877,Ruth Brewer,25,M,SJL,Traumatología,2022-06-12,97.57
+P0878,Anne Reddy,2,M,La Molina,Cardiología,2022-08-09,429.02
+P0879,John Roffe,1,M,SJL,,2023-08-07,326.31
+P0880,Dianna Rosenberg,31,,La Molina,NA,2023-10-21,155.1
+P0881,Sandra Castillo,71,NA,La Molina,Pediatría,2022-09-07,431.54
+P0882,William Weaver,91,,Comas,Odontología,2024-10-10,202.54
+P0883,Judy Brandon,95,NA,SJL,Cardiología,2022-03-28,261.27
+P0884,Phillip Marroquin,3,F,SJL,,2022-03-25,148.63
+P0885,Jeffrey Persaud,33,,Surco,NA,2024-05-21,52.0
+P0886,Daniel Norman,59,F,Miraflores,NA,2022-03-31,241.91
+P0887,Joyce Lozano,17,F,Comas,Pediatría,2024-05-04,325.04
+P0888,Phillip Moniz,59,,Surco,,2024-08-30,104.69
+P0889,Lee Carbonaro,31,F,San Isidro,Odontología,2023-04-27,333.49
+P0890,John Collins,34,,La Molina,Traumatología,2023-04-19,495.93
+P0891,Donald Millhiser,23,,Comas,Traumatología,2022-11-14,203.95
+P0892,Mary Macha,55,,La Molina,Cardiología,2024-10-14,273.37
+P0893,John Gilliam,37,,La Molina,Pediatría,2022-10-04,276.54
+P0894,Risa Mays,37,NA,San Isidro,Medicina General,2022-02-04,445.01
+P0895,Delbert Clark,91,NA,Comas,Odontología,2022-12-03,480.83
+P0896,Vannessa Shepard,88,,Comas,Medicina General,2023-01-19,253.66
+P0897,Emily Varela,42,NA,San Isidro,Cardiología,2023-02-11,167.2
+P0898,Dana Phegley,67,F,Comas,Cardiología,2023-07-19,498.83
+P0899,Ann Peters,72,NA,Lince,Cardiología,2022-06-29,351.98
+P0900,Valentine Mcgrath,55,NA,Comas,Medicina General,2023-10-22,297.04
+P0901,Darlene Wood,39,M,Surco,Medicina General,2023-03-06,132.84
+P0902,Doris Hall,48,NA,La Molina,Traumatología,2024-01-07,193.73
+P0903,Nicholas Shriver,19,NA,San Isidro,,2023-03-11,459.77
+P0904,Tiffany Quist,56,M,SJL,NA,2024-03-18,242.57
+P0905,Andrew Burton,69,M,Miraflores,Medicina General,2022-07-19,395.54
+P0906,Herbert Sykes,20,NA,Miraflores,Cardiología,2024-06-12,321.17
+P0907,Leslie Forrest,16,NA,La Molina,Odontología,2024-07-28,124.17
+P0908,Grant Lewis,67,NA,Comas,Traumatología,2022-10-06,317.11
+P0909,Joseph Wooten,63,,SJL,Odontología,2023-03-13,379.89
+P0910,Sherry Allred,73,F,Lince,Cardiología,2024-12-05,288.73
+P0911,Angela Harold,37,M,SJL,Cardiología,2024-05-06,215.15
+P0912,Eugene Johnson,77,F,San Isidro,,2024-03-14,114.16
+P0913,Gregory Bowser,14,F,Surco,Traumatología,2022-02-02,436.74
+P0914,Terry Vinson,54,M,SJL,Traumatología,2024-04-06,487.73
+P0915,Anthony Martinez,76,F,SJL,Odontología,2023-03-20,57.29
+P0916,Ella Hazzard,69,F,Miraflores,,2023-09-10,251.16
+P0917,Virginia Lawrence,62,F,Comas,Medicina General,2024-01-08,155.6
+P0918,Callie Williamson,70,F,San Isidro,Traumatología,2023-12-30,185.44
+P0919,Jesus Barwick,30,M,Surco,Traumatología,2022-10-03,417.4
+P0920,Tommy Neal,31,NA,SJL,NA,2023-08-08,424.92
+P0921,John Christopher,95,M,Miraflores,Cardiología,2023-01-17,139.85
+P0922,Sallie Lopez,43,NA,Surco,,2023-12-17,176.83
+P0923,Theresa Fite,49,,SJL,Medicina General,2022-04-27,343.67
+P0924,Ron Webster,93,,La Molina,NA,2023-03-12,477.38
+P0925,Sharon Kent,93,,SJL,NA,2023-08-25,236.68
+P0926,Gladys Ansell,60,M,Lince,Cardiología,2022-06-23,378.94
+P0927,Andrew Swenson,84,M,Miraflores,Odontología,2023-09-28,76.09
+P0928,William Mitchell,33,F,Miraflores,,2024-09-06,229.42
+P0929,Mabel Tarlton,74,NA,San Isidro,Cardiología,2024-09-13,101.43
+P0930,Rachel Brice,36,F,SJL,Odontología,2023-03-02,112.57
+P0931,George Cyr,28,,Comas,Cardiología,2022-02-17,203.28
+P0932,Jeffrey Erlewine,28,,Comas,Odontología,2023-03-28,346.64
+P0933,David Rodriguez,1,,Surco,Odontología,2022-10-07,297.62
+P0934,Betty Smitley,15,,Lince,Pediatría,2024-06-23,96.4
+P0935,Karen Hinkle,50,F,Lince,Cardiología,2024-02-24,275.13
+P0936,Jerry Ligon,5,F,SJL,Medicina General,2022-09-01,418.55
+P0937,Harold Loch,62,NA,SJL,Traumatología,2024-10-10,392.48
+P0938,Craig Loreto,71,NA,La Molina,Traumatología,2024-10-19,420.04
+P0939,Erica Briggs,65,NA,Miraflores,NA,2023-05-31,486.21
+P0940,Cecil Tessitore,1,F,SJL,Medicina General,2024-01-22,327.57
+P0941,Connie Heikes,81,,SJL,Medicina General,2023-12-10,211.5
+P0942,Eva Edwards,42,M,La Molina,Pediatría,2022-07-14,266.07
+P0943,Robert Mceachern,61,F,SJL,,2023-03-08,79.04
+P0944,Lisa Mentzer,41,NA,Comas,Pediatría,2022-03-08,410.16
+P0945,Pauline Montgomery,69,F,San Isidro,NA,2024-08-05,228.07
+P0946,Bobbie Haynes,62,NA,Surco,Medicina General,2024-05-06,104.7
+P0947,Ralph Cox,73,F,SJL,Cardiología,2022-12-28,468.69
+P0948,Angela Martin,36,,Surco,Cardiología,2024-06-12,243.38
+P0949,Carolyn Billington,84,NA,San Isidro,NA,2022-02-26,96.39
+P0950,Edward Boozer,24,F,SJL,Pediatría,2022-05-11,266.3
+P0951,James Fulton,64,M,SJL,Traumatología,2024-05-02,51.29
+P0952,Robert Seidl,50,NA,Comas,Medicina General,2022-08-29,359.46
+P0953,Penny Hilde,88,,San Isidro,Cardiología,2022-01-02,369.12
+P0954,Ron Saleado,36,,Surco,Odontología,2024-03-13,107.12
+P0955,Wayne Havens,11,,SJL,Medicina General,2023-12-08,56.98
+P0956,Richard Dupre,60,M,San Isidro,NA,2022-06-12,193.14
+P0957,Bradley Rosado,5,NA,SJL,Medicina General,2022-01-23,91.12
+P0958,Ernest Davis,70,,SJL,Traumatología,2023-05-16,428.81
+P0959,David Taylor,36,F,SJL,Pediatría,2022-08-13,149.5
+P0960,Pamela Boggan,86,F,SJL,Medicina General,2024-08-05,451.66
+P0961,Katherine Owens,8,F,La Molina,NA,2023-01-15,439.03
+P0962,James Mcdonough,68,M,Lince,Pediatría,2022-07-17,137.83
+P0963,Dawn Roper,77,F,La Molina,Medicina General,2022-09-10,258.94
+P0964,Alvin Tow,17,NA,Miraflores,Odontología,2023-06-22,291.98
+P0965,Greg Arnold,66,,Miraflores,Traumatología,2022-08-04,275.62
+P0966,Lee Gee,3,NA,La Molina,,2022-11-20,420.28
+P0967,Gloria Clayton,66,,Miraflores,NA,2022-05-30,263.82
+P0968,Raymond Noel,6,NA,San Isidro,Pediatría,2024-06-25,382.84
+P0969,Shannon Delgado,95,,La Molina,Pediatría,2024-06-29,83.94
+P0970,Gerry Jones,72,NA,San Isidro,Odontología,2022-12-03,464.79
+P0971,Debra Fernandez,29,NA,Surco,Cardiología,2024-07-16,141.39
+P0972,Shantel Graves,36,,San Isidro,Cardiología,2024-05-24,448.19
+P0973,Kelly Butler,59,NA,La Molina,,2024-09-22,386.58
+P0974,Samantha Hoyle,90,NA,La Molina,Odontología,2023-09-21,111.69
+P0975,Harold Jacobs,35,F,Surco,Medicina General,2023-12-21,456.09
+P0976,James Glinski,34,NA,La Molina,Pediatría,2022-12-28,431.37
+P0977,Alina Taylor,31,M,SJL,Cardiología,2022-07-18,142.59
+P0978,Steve Rivera,6,NA,Comas,,2023-07-05,139.95
+P0979,Rudolph Joseph,17,NA,Miraflores,Cardiología,2023-03-31,117.5
+P0980,Andrew Longe,18,NA,Miraflores,Medicina General,2022-08-28,196.44
+P0981,James Corley,69,M,La Molina,Cardiología,2022-09-23,310.17
+P0982,Joeann Mcnair,6,F,Lince,,2022-03-27,51.17
+P0983,Roy Hamlett,89,F,La Molina,NA,2024-02-27,348.33
+P0984,Adrianne Duane,26,NA,Lince,NA,2023-08-12,486.65
+P0985,Patricia Jamieson,33,,Comas,Medicina General,2024-09-16,152.59
+P0986,Ramon Purcell,56,M,Miraflores,,2023-03-02,387.09
+P0987,Mary Bernard,95,F,San Isidro,,2024-02-06,183.15
+P0988,Kenneth Ye,18,,Lince,NA,2023-08-24,456.27
+P0989,Kathleen Neel,89,F,Miraflores,Traumatología,2024-11-01,334.96
+P0990,Stella Plunkett,10,M,SJL,Pediatría,2024-07-04,108.59
+P0991,Dawn Woodrum,3,M,SJL,Cardiología,2023-09-01,388.71
+P0992,Maria Ward,10,F,Surco,Traumatología,2024-12-16,331.81
+P0993,Joseph Coleman,39,F,Surco,Medicina General,2022-09-04,444.47
+P0994,Diana Atkins,16,F,Miraflores,Traumatología,2023-04-02,173.37
+P0995,Bryan Worsham,25,F,Comas,Medicina General,2022-10-20,83.71
+P0996,Fannie Garza,41,NA,Lince,Cardiología,2024-02-23,429.74
+P0997,Peter Hickey,4,M,Comas,,2024-11-26,493.09
+P0998,Thomas Buchanan,78,F,Comas,Traumatología,2023-10-16,435.53
+P0999,Jenifer Wilder,2,F,Miraflores,Cardiología,2023-04-16,165.28
+P1000,Irish Anderson,92,F,San Isidro,Pediatría,2022-11-22,296.16
+P1001,Lester Simpson,55,M,Comas,Medicina General,2023-11-19,200.94
+P1002,Christopher Swaine,17,F,SJL,Pediatría,2023-02-26,448.5
+P1003,Shawn Macklin,45,NA,Miraflores,,2022-06-14,53.32
+P1004,Laura Zapata,41,NA,Miraflores,,2024-04-02,67.66
+P1005,Donald Griffin,14,M,Miraflores,Pediatría,2023-04-12,135.36
+P1006,Glenda Sobers,1,F,San Isidro,Cardiología,2023-02-19,240.95
+P1007,Susanne Miraglia,13,,SJL,Traumatología,2023-03-12,237.91
+P1008,Valentin Byrd,64,,Surco,,2024-06-14,282.8
+P1009,Sam Schardein,14,NA,SJL,Cardiología,2024-10-17,472.06
+P1010,William Trapp,63,,Comas,Cardiología,2023-09-04,120.6
+P1011,Christopher Lenz,32,F,SJL,Medicina General,2024-03-17,255.27
+P1012,Martha Birt,44,F,Comas,NA,2022-10-15,99.84
+P1013,Phillip Mccormick,64,,Miraflores,,2024-07-23,383.34
+P1014,John Anderson,72,F,La Molina,Medicina General,2024-11-10,402.76
+P1015,Ellis Gabbert,25,F,Surco,,2022-12-19,52.06
+P1016,Richard Ramirez,83,NA,San Isidro,Medicina General,2022-03-22,375.19
+P1017,Robert Lake,18,NA,San Isidro,,2023-03-18,187.7
+P1018,Donald Bissell,1,,La Molina,Medicina General,2024-12-11,232.39
+P1019,Christa Martinez,50,NA,Miraflores,Pediatría,2024-01-06,148.16
+P1020,David Mcilvain,13,M,La Molina,Pediatría,2022-04-21,349.73
+P1021,Jamie Stiles,12,,San Isidro,,2023-08-06,359.85
+P1022,Michael Nagy,66,,La Molina,Cardiología,2024-01-17,157.47
+P1023,Esther Mcneill,63,,La Molina,NA,2023-07-06,346.34
+P1024,Janet Jewell,83,,La Molina,Traumatología,2023-04-11,379.65
+P1025,Shirlene Pierce,64,NA,San Isidro,Medicina General,2022-11-16,371.42
+P1026,Tommie Lynch,14,F,La Molina,Pediatría,2024-09-14,431.14
+P1027,Tara Derose,38,F,Lince,NA,2023-05-30,139.62
+P1028,Juanita Wiese,80,NA,Miraflores,Traumatología,2024-07-22,215.13
+P1029,Mark Swartwood,80,NA,Miraflores,Traumatología,2022-09-21,124.3
+P1030,Stephanie Cox,95,NA,Miraflores,,2023-12-14,58.58
+P1031,Chad Monette,67,,San Isidro,,2023-02-22,458.9
+P1032,Bobby Harris,49,F,Comas,NA,2023-07-17,353.46
+P1033,Ruth Barthel,41,F,Comas,Odontología,2024-10-03,153.39
+P1034,Brandy Corbett,73,NA,Comas,,2022-03-22,172.41
+P1035,Bernice Gary,10,F,SJL,Traumatología,2023-08-23,249.25
+P1036,Jo Boles,89,NA,Lince,Medicina General,2022-05-23,207.5
+P1037,Alice Smith,47,M,Miraflores,Pediatría,2022-04-06,445.69
+P1038,Nancy Verrett,1,F,Miraflores,Odontología,2023-09-24,262.51
+P1039,James Rados,16,NA,SJL,Medicina General,2024-05-08,394.13
+P1040,John Booth,94,F,San Isidro,NA,2022-03-05,268.7
+P1041,Javier Bornstein,3,M,San Isidro,Medicina General,2024-08-11,126.38
+P1042,Samantha Ballard,40,F,Miraflores,,2022-08-25,371.15
+P1043,Mattie Wright,20,M,Comas,NA,2023-06-20,330.63
+P1044,James Call,58,F,SJL,Traumatología,2024-05-23,182.27
+P1045,Leonard Turner,33,M,San Isidro,Odontología,2024-06-30,196.65
+P1046,Timothy Birchall,29,,San Isidro,Odontología,2023-08-17,83.01
+P1047,Amy Hurlbut,76,,Surco,Medicina General,2022-03-23,189.95
+P1048,Desiree Ganong,37,NA,San Isidro,Cardiología,2022-06-16,156.26
+P1049,Daniel Martinez,3,M,Lince,,2023-11-06,430.5
+P1050,Kent Carter,94,F,San Isidro,Odontología,2023-06-26,88.1
+P1051,Damien Martin,94,M,Miraflores,Odontología,2023-04-06,124.41
+P1052,Mary Newman,20,NA,Miraflores,Pediatría,2022-08-05,238.7
+P1053,Samuel Ericsson,54,F,Miraflores,NA,2022-03-10,395.93
+P1054,Clifford Ibanez,43,,Comas,Traumatología,2024-01-29,390.1
+P1055,Betty Thornton,61,F,La Molina,Cardiología,2024-03-14,84.15
+P1056,Clemencia Walton,57,M,San Isidro,,2022-10-08,153.92
+P1057,Tessa Walton,80,M,Lince,NA,2023-11-21,457.96
+P1058,Roland Osborn,14,NA,SJL,Pediatría,2024-04-25,376.44
+P1059,Wanda Goodrow,9,M,La Molina,Cardiología,2022-07-22,236.77
+P1060,Eileen Drew,79,,La Molina,Medicina General,2022-08-21,467.47
+P1061,Harold Titus,38,,San Isidro,NA,2024-06-24,60.79
+P1062,Kevin Hyzer,60,M,Lince,Pediatría,2023-08-21,158.11
+P1063,Alex Brown,80,F,Lince,Medicina General,2022-04-27,248.0
+P1064,Raymond Harper,13,M,Lince,NA,2022-01-14,331.51
+P1065,Michael Lyerly,83,F,San Isidro,,2022-02-02,481.78
+P1066,Steven Scott,47,,Miraflores,Odontología,2023-07-30,308.31
+P1067,Corey Lamm,3,M,La Molina,Cardiología,2022-07-09,333.18
+P1068,Jaclyn Boyd,87,M,Comas,Odontología,2022-04-25,311.19
+P1069,Elmer Whittaker,16,M,Comas,NA,2022-04-27,461.24
+P1070,Robert Boshears,18,M,Comas,NA,2022-06-16,256.86
+P1071,Linda Gonzalez,26,NA,Miraflores,Cardiología,2022-05-30,491.99
+P1072,Judith Bebee,83,,Lince,Odontología,2024-02-11,461.1
+P1073,Esther Underwood,25,F,Lince,Medicina General,2022-11-28,455.49
+P1074,John Kaufman,78,M,Surco,Traumatología,2022-05-07,485.81
+P1075,Vera Robbs,22,,San Isidro,Pediatría,2024-01-03,429.54
+P1076,Eva Roy,43,,Surco,,2024-06-05,283.58
+P1077,William Durham,46,M,San Isidro,Odontología,2024-12-18,87.92
+P1078,Shannon White,50,F,La Molina,Odontología,2023-01-08,310.71
+P1079,Rochelle Williams,35,F,Comas,Pediatría,2023-09-24,261.44
+P1080,Raymond Hornung,35,M,Lince,Traumatología,2022-03-24,379.13
+P1081,Diana Salerno,49,F,SJL,Traumatología,2022-10-07,474.15
+P1082,Mindy Ball,39,M,Lince,NA,2022-10-28,435.75
+P1083,Brent Bernard,30,F,Surco,Medicina General,2023-04-01,345.04
+P1084,Kim Foppiano,23,,Surco,Odontología,2022-08-02,139.06
+P1085,Rose Mckinnon,41,F,SJL,NA,2023-07-31,311.22
+P1086,Robert Welch,82,NA,Miraflores,Odontología,2024-05-26,359.1
+P1087,Joe Baker,57,,San Isidro,Pediatría,2024-05-23,158.38
+P1088,Martin Joseph,15,M,Comas,Cardiología,2023-12-08,147.52
+P1089,Antonio Mcguire,50,F,La Molina,Odontología,2022-03-19,168.29
+P1090,Jolene Estes,63,NA,Comas,Pediatría,2024-07-29,399.67
+P1091,Bonnie Staton,36,,SJL,Cardiología,2022-01-21,329.93
+P1092,Joshua Lake,57,,San Isidro,Odontología,2024-10-28,491.71
+P1093,Todd Winn,45,F,Miraflores,Pediatría,2023-02-14,353.0
+P1094,Eric Hannah,22,M,SJL,Cardiología,2022-08-21,368.85
+P1095,Jimmy Drennan,15,,La Molina,Odontología,2022-09-07,166.03
+P1096,Cheryl Rose,14,,San Isidro,Traumatología,2024-10-19,412.14
+P1097,Brandon Allen,95,NA,Lince,Traumatología,2022-10-29,304.3
+P1098,Jamal Wiggs,27,NA,Comas,Medicina General,2022-10-30,400.29
+P1099,Isaiah Clark,67,F,Miraflores,Cardiología,2024-02-08,366.99
+P1100,Mary Hibbard,16,,SJL,Cardiología,2024-04-03,286.34
+P1101,Joseph Shaw,16,F,Miraflores,,2024-05-20,388.47
+P1102,Russell Roush,39,NA,Lince,,2024-02-20,354.22
+P1103,Chris Wagoner,89,F,Lince,Pediatría,2022-08-03,471.17
+P1104,John Grisby,38,NA,La Molina,Pediatría,2024-04-20,90.53
+P1105,Stefanie Brown,76,M,Surco,Odontología,2024-08-01,384.11
+P1106,Walter Jackson,64,F,Lince,Pediatría,2024-04-02,491.79
+P1107,Marvin Coleman,63,F,San Isidro,Cardiología,2024-03-06,312.92
+P1108,Daniel Tornquist,25,M,San Isidro,Traumatología,2022-05-12,489.39
+P1109,Peter Carlson,70,M,Lince,,2022-06-26,216.42
+P1110,Isaac Mathews,8,F,Surco,NA,2024-02-01,367.53
+P1111,Thomas Tabisula,35,M,La Molina,Pediatría,2023-05-06,298.67
+P1112,Velma Pike,90,M,La Molina,Odontología,2023-09-27,499.18
+P1113,Earl Goss,54,,Lince,Cardiología,2024-06-09,332.85
+P1114,Venus Douglas,7,M,Miraflores,,2022-10-08,80.48
+P1115,Alejandro Gore,48,F,Comas,NA,2022-08-13,89.66
+P1116,James Albair,32,F,La Molina,Traumatología,2023-02-21,461.16
+P1117,Billy Diggs,22,M,Miraflores,NA,2023-03-18,158.21
+P1118,Ashley Tarpey,62,M,Lince,Pediatría,2022-08-05,58.39
+P1119,Jarod Biggs,32,,San Isidro,,2024-08-20,290.37
+P1120,Ryan Boyle,68,M,Miraflores,Pediatría,2022-12-12,309.03
+P1121,Sanford Blackwell,15,NA,Surco,,2024-07-10,118.18
+P1122,Mary Curtis,46,,SJL,Odontología,2024-02-21,403.46
+P1123,Kimberly Powell,72,,Surco,Odontología,2023-09-14,183.94
+P1124,John Vazquez,49,NA,San Isidro,,2024-08-05,55.77
+P1125,June Bobek,4,F,Miraflores,Cardiología,2024-01-16,127.39
+P1126,Christina Troy,46,NA,Miraflores,Cardiología,2022-02-28,266.46
+P1127,Francisco Dobransky,4,F,Miraflores,Traumatología,2022-07-22,311.63
+P1128,Mary Schamp,29,M,SJL,Pediatría,2024-04-06,97.42
+P1129,Donnie Jones,10,F,San Isidro,NA,2023-05-20,361.84
+P1130,Myra Pellerin,18,NA,La Molina,Cardiología,2022-12-01,99.33
+P1131,Frances Held,89,NA,SJL,Traumatología,2022-04-30,413.2
+P1132,Michelle Choy,54,,La Molina,NA,2022-05-08,349.46
+P1133,Darrell Norden,84,,La Molina,Pediatría,2023-03-17,172.95
+P1134,Josephine Spiro,24,M,La Molina,Pediatría,2022-05-03,182.93
+P1135,Frederick Donati,24,,La Molina,Pediatría,2023-05-12,141.91
+P1136,Charles Cushing,89,,SJL,Odontología,2024-08-06,486.04
+P1137,Yasmine Watson,91,NA,Lince,NA,2023-02-16,268.47
+P1138,Christine White,93,F,SJL,,2022-01-29,330.85
+P1139,Paul Upham,75,NA,Lince,NA,2024-09-13,459.57
+P1140,Tanner Kennedy,83,NA,Lince,Pediatría,2024-11-08,308.58
+P1141,Eileen Norrington,94,F,San Isidro,Odontología,2022-04-11,154.2
+P1142,Holly Leavell,68,M,Lince,Cardiología,2024-07-03,305.98
+P1143,Gayle Grimes,89,F,La Molina,Traumatología,2023-03-03,278.19
+P1144,Harold Burrell,34,M,SJL,Medicina General,2024-06-19,223.49
+P1145,Gordon Dixon,65,NA,Comas,NA,2024-12-29,63.23
+P1146,Lorraine Owens,41,M,SJL,,2024-07-29,473.69
+P1147,Ruby Mckee,11,,SJL,Medicina General,2023-09-08,156.66
+P1148,Robert Collins,48,F,Surco,Cardiología,2024-09-21,112.45
+P1149,Martin Cuadras,82,M,Miraflores,Traumatología,2022-06-27,257.36
+P1150,Matthew Bailey,41,M,Surco,,2024-01-16,465.17
+P1151,Rita Ross,30,M,La Molina,Traumatología,2022-08-08,354.75
+P1152,Audrey Smith,49,NA,San Isidro,Pediatría,2022-03-16,61.69
+P1153,Robert Brown,52,,SJL,Traumatología,2024-05-15,429.63
+P1154,Homer Williams,58,F,San Isidro,Medicina General,2022-08-20,104.82
+P1155,Terri Manville,35,M,Miraflores,Pediatría,2023-09-05,221.54
+P1156,Michael Stubblefield,29,F,Miraflores,Odontología,2024-08-21,111.91
+P1157,Toni Harpster,11,M,SJL,Traumatología,2023-04-16,279.76
+P1158,Mark Aguilar,67,,Comas,Odontología,2023-03-11,188.99
+P1159,Senaida Perkins,13,,Miraflores,,2022-08-26,243.14
+P1160,Linda Finneran,80,,Miraflores,Odontología,2023-01-09,486.78
+P1161,Candice Wrede,11,M,Miraflores,NA,2024-03-26,163.36
+P1162,Doris Woods,52,M,La Molina,Pediatría,2022-04-29,65.02
+P1163,Randy Mcelreavy,9,M,Surco,,2022-08-21,470.04
+P1164,Gerald Hanna,36,,Comas,Odontología,2022-10-16,83.06
+P1165,Rolando Lacuesta,1,NA,La Molina,Pediatría,2023-12-06,114.65
+P1166,Rebecca Gagnon,83,NA,Miraflores,Traumatología,2022-03-09,463.71
+P1167,Nicholas Binette,85,M,Comas,NA,2024-11-22,106.34
+P1168,Jimmie Vannatta,55,F,Comas,Odontología,2023-06-12,308.37
+P1169,Edward Griffin,11,F,Comas,Medicina General,2024-12-24,368.13
+P1170,Thomas King,43,F,Comas,,2022-05-03,414.95
+P1171,Kelley Williams,2,F,Comas,Traumatología,2024-09-04,312.51
+P1172,Jeff Salgado,16,F,La Molina,,2024-01-28,367.3
+P1173,Ann Parker,66,M,SJL,Cardiología,2024-09-03,333.93
+P1174,Cameron Camp,84,F,Lince,NA,2024-11-27,332.77
+P1175,Douglas Tartaglione,88,NA,Comas,Pediatría,2024-12-11,175.57
+P1176,Leonard Leak,78,NA,Surco,Traumatología,2023-03-27,375.86
+P1177,Wendy Worrell,19,F,Lince,Odontología,2024-02-24,276.55
+P1178,Sharon Alexander,55,,Surco,Cardiología,2022-10-07,362.68
+P1179,Todd Sanchez,63,,SJL,Odontología,2024-12-14,71.81
+P1180,Lawrence Kirtley,90,,La Molina,Odontología,2024-06-18,197.01
+P1181,Stephan Little,49,M,SJL,Traumatología,2024-07-26,365.91
+P1182,Rosemary Heil,48,F,Comas,NA,2023-07-20,133.2
+P1183,Marie Smith,87,M,La Molina,,2023-04-17,167.34
+P1184,Robert Patrick,73,F,Comas,Cardiología,2024-03-28,249.49
+P1185,Francisco Luby,43,,Miraflores,Odontología,2022-10-21,206.35
+P1186,Catherine Walker,48,M,SJL,Odontología,2023-07-02,96.03
+P1187,Ruby Taylor,64,M,SJL,Cardiología,2024-12-11,104.98
+P1188,Walter Mendoza,56,,Lince,Pediatría,2022-08-15,430.82
+P1189,Boyd Hersey,9,M,SJL,Cardiología,2024-02-14,213.11
+P1190,Sharon Hightower,83,NA,Comas,,2023-10-02,377.14
+P1191,Audrey Taylor,62,F,Surco,Pediatría,2024-08-20,402.77
+P1192,Joesph Corbin,78,F,SJL,Odontología,2022-08-20,79.16
+P1193,Danny Annis,47,F,La Molina,Traumatología,2023-10-12,414.93
+P1194,Rosella Tang,64,NA,Surco,,2023-03-23,328.43
+P1195,Chance Jones,84,,Comas,NA,2024-03-11,298.52
+P1196,Joshua Robinson,67,NA,San Isidro,NA,2022-02-01,133.01
+P1197,David Tweedie,57,M,SJL,Cardiología,2024-05-07,123.6
+P1198,Marcus Ronca,89,,La Molina,Traumatología,2023-05-10,390.09
+P1199,Joshua Cantrell,89,,La Molina,Pediatría,2024-01-28,424.22
+P1200,Megan Clark,79,F,La Molina,Pediatría,2022-09-03,175.75
+P1201,Edward Sallas,19,NA,Surco,Traumatología,2022-04-17,267.79
+P1202,Sergio Avila,32,,SJL,Odontología,2024-06-21,138.14
+P1203,Michael Baumbusch,37,NA,Lince,,2022-07-11,422.26
+P1204,Jeffrey Kelly,82,NA,Comas,Cardiología,2022-06-04,169.39
+P1205,Lester Gardner,94,NA,Surco,Pediatría,2024-03-09,77.42
+P1206,Shelia Carmichael,8,F,La Molina,NA,2022-01-03,170.54
+P1207,Charles Baird,88,,Miraflores,Cardiología,2024-07-12,357.18
+P1208,Roxane Kahn,44,,La Molina,Cardiología,2023-10-20,89.95
+P1209,Debra Farah,95,,Lince,,2024-08-31,294.36
+P1210,Helen Carr,20,,Miraflores,Odontología,2024-03-05,192.64
+P1211,Virginia Tinajero,77,NA,San Isidro,Traumatología,2023-05-17,239.28
+P1212,William Singer,68,M,Miraflores,Odontología,2023-02-27,112.96
+P1213,Fred Smith,6,M,SJL,Medicina General,2024-08-18,173.82
+P1214,William Nelson,14,F,San Isidro,Cardiología,2023-06-11,230.5
+P1215,Ronda Brown,48,F,SJL,,2024-08-25,99.37
+P1216,Evan Scott,90,M,SJL,Odontología,2023-06-27,191.36
+P1217,Mildred Rodriquez,45,M,Comas,Medicina General,2023-03-29,335.0
+P1218,Sofia Hudson,2,F,Lince,Traumatología,2022-12-02,148.04
+P1219,Helen Calloway,34,F,La Molina,,2023-04-29,297.16
+P1220,James Grewe,38,NA,Lince,Medicina General,2022-12-28,408.27
+P1221,Marcus Phillips,12,,SJL,Odontología,2022-07-29,396.22
+P1222,Henry Willie,42,F,Surco,Cardiología,2022-08-28,233.69
+P1223,Linda Snider,66,M,San Isidro,,2023-11-25,456.22
+P1224,Genevieve Allen,45,,La Molina,Pediatría,2022-12-06,287.73
+P1225,Gia Sanders,58,M,Miraflores,Odontología,2022-04-19,377.27
+P1226,Mary Alvarado,51,F,Surco,Pediatría,2023-09-02,171.83
+P1227,Goldie Whitney,66,F,Comas,Traumatología,2023-06-26,358.59
+P1228,Mary Smith,89,F,SJL,Cardiología,2024-10-18,67.09
+P1229,Carlos Dammen,83,,Surco,Traumatología,2024-09-06,450.84
+P1230,Howard Silvas,64,NA,Comas,Traumatología,2022-02-17,297.25
+P1231,Nicole Chapman,49,M,Miraflores,Cardiología,2023-06-30,228.09
+P1232,Linda Stewart,33,F,Lince,Odontología,2024-04-16,249.02
+P1233,Frank Davies,35,F,Surco,Odontología,2023-04-24,453.87
+P1234,Antonio Zalewski,3,,SJL,Traumatología,2024-07-04,303.15
+P1235,George Derry,61,NA,Lince,,2022-07-14,394.55
+P1236,Michael Talton,3,F,Lince,Traumatología,2023-11-01,197.82
+P1237,Bonnie Richey,71,NA,Comas,Odontología,2023-09-11,211.58
+P1238,Melissa Roberts,36,M,SJL,NA,2022-06-11,248.68
+P1239,Joshua Stuart,76,M,Comas,Pediatría,2024-01-17,262.56
+P1240,Anthony Tolbert,92,,La Molina,Odontología,2023-05-19,433.04
+P1241,Jacob Elrod,54,F,SJL,Medicina General,2022-11-27,445.23
+P1242,Miquel Melvin,15,M,La Molina,NA,2022-03-01,352.43
+P1243,Steven Maxwell,37,NA,SJL,Odontología,2023-06-04,219.45
+P1244,Randell Combs,58,M,La Molina,Traumatología,2022-10-06,150.0
+P1245,Juan Freund,78,NA,Lince,,2023-11-16,396.75
+P1246,Nicholas Martin,3,F,Comas,NA,2022-07-06,261.74
+P1247,Flora Rodriquez,82,NA,Lince,Pediatría,2024-11-13,212.69
+P1248,John Stabler,53,NA,La Molina,Traumatología,2023-04-27,208.66
+P1249,Fannie Diclaudio,4,,Miraflores,Pediatría,2023-08-03,296.45
+P1250,Wendell Thompson,29,NA,SJL,Pediatría,2022-11-27,254.69
+P1251,Melissa Back,16,F,SJL,Cardiología,2023-10-07,78.15
+P1252,Joe Knapp,47,,Miraflores,NA,2024-01-06,104.95
+P1253,Paul Parks,23,F,Comas,,2023-10-06,117.68
+P1254,Juanita Gonzalez,39,,Lince,Traumatología,2022-04-07,196.87
+P1255,Marshall Graham,2,NA,San Isidro,Pediatría,2022-07-30,469.64
+P1256,Amos Alvarez,79,F,Miraflores,Cardiología,2024-12-17,187.87
+P1257,Milton Poll,7,F,La Molina,Pediatría,2024-03-02,201.68
+P1258,Naomi Hill,43,F,Lince,NA,2024-02-16,271.34
+P1259,Lakesha Scott,38,M,La Molina,Medicina General,2022-05-26,202.15
+P1260,William Irwin,9,F,Comas,Traumatología,2024-12-26,190.77
+P1261,Ann Stafford,7,NA,SJL,NA,2022-06-24,116.39
+P1262,Paula Lyles,58,F,Comas,,2024-10-24,206.82
+P1263,Carolann Westphal,31,M,Surco,Odontología,2024-05-07,382.7
+P1264,Brian Perez,78,,Comas,Traumatología,2022-08-28,436.86
+P1265,Carl Gebo,12,NA,Comas,Cardiología,2024-12-14,154.06
+P1266,Tony Jones,78,NA,La Molina,Cardiología,2024-08-28,399.85
+P1267,Jennie Mcintosh,33,M,Lince,,2024-11-21,360.36
+P1268,David Allen,74,NA,La Molina,Odontología,2022-05-01,76.52
+P1269,Trina Shelnutt,59,F,La Molina,Pediatría,2022-02-18,307.41
+P1270,Fred Mccall,4,,San Isidro,Traumatología,2024-03-04,391.76
+P1271,Fred Chicas,30,,Miraflores,Odontología,2024-09-05,303.51
+P1272,Nan Hinojos,32,NA,Comas,Pediatría,2024-09-24,488.48
+P1273,Anna Randell,92,F,Lince,Odontología,2024-05-17,287.25
+P1274,Joseph Beauregard,57,,San Isidro,Traumatología,2023-12-15,297.06
+P1275,Mark Seaton,61,,Comas,Pediatría,2024-09-02,135.93
+P1276,Alease Johnson,64,,San Isidro,Pediatría,2023-11-27,272.62
+P1277,Larry Payne,93,,Miraflores,Medicina General,2022-08-27,331.92
+P1278,Emma Hill,22,NA,La Molina,NA,2024-11-14,54.38
+P1279,Oscar Buterbaugh,72,,La Molina,Pediatría,2024-03-05,87.91
+P1280,Samuel Higdon,3,M,San Isidro,Pediatría,2024-11-04,305.56
+P1281,Robert Saucedo,45,,San Isidro,Medicina General,2024-11-25,88.02
+P1282,Myrtle Hodgson,34,F,SJL,Traumatología,2022-10-23,123.06
+P1283,Robert Pike,52,M,SJL,Odontología,2023-01-08,434.81
+P1284,Emma Kriegel,36,NA,San Isidro,NA,2022-09-05,50.51
+P1285,William Frazier,92,M,San Isidro,Odontología,2022-09-20,446.18
+P1286,Sally Meunier,70,M,Surco,Medicina General,2023-03-25,380.34
+P1287,Kieth Ray,53,,Comas,Traumatología,2023-07-14,399.12
+P1288,Michelle Kyle,20,NA,Lince,,2023-05-22,499.88
+P1289,Linda Green,53,F,Surco,Odontología,2024-04-02,386.06
+P1290,Frances Robinson,91,,Miraflores,Traumatología,2023-05-25,375.3
+P1291,Ruth Kempf,29,F,Miraflores,Odontología,2024-06-17,92.21
+P1292,Michael Thornton,3,,La Molina,NA,2022-03-16,308.43
+P1293,Leland Coffin,19,NA,San Isidro,Medicina General,2022-03-04,290.8
+P1294,Mary Caldwell,35,F,La Molina,NA,2023-07-31,487.57
+P1295,Kimberly Faughnan,86,,San Isidro,Traumatología,2022-12-26,165.52
+P1296,Carl Binford,79,,Comas,Cardiología,2023-03-29,336.54
+P1297,Harry Mcgeever,40,NA,Miraflores,NA,2024-08-12,285.4
+P1298,Howard Ayres,10,F,San Isidro,Traumatología,2023-03-06,401.62
+P1299,Sean Walks,60,F,San Isidro,Odontología,2023-09-14,139.31
+P1300,Ronald Shipman,61,M,San Isidro,NA,2023-02-03,178.89
+P1301,Hazel Lively,31,M,San Isidro,Traumatología,2024-12-16,254.2
+P1302,Pedro Kopka,77,M,Lince,Cardiología,2024-11-26,229.67
+P1303,Debroah Garrell,56,F,Comas,NA,2022-09-01,226.65
+P1304,Deborah Meyerson,49,M,Comas,Odontología,2022-01-21,297.36
+P1305,Geneva Anthony,21,NA,SJL,Medicina General,2022-12-01,102.53
+P1306,Brian Mcgowan,65,M,Miraflores,Pediatría,2022-08-18,355.73
+P1307,Kara Petros,32,M,Lince,Medicina General,2023-09-02,185.33
+P1308,Bobbie Stout,66,F,San Isidro,NA,2023-01-24,435.28
+P1309,Dave Koopman,40,F,Miraflores,Pediatría,2023-05-09,300.86
+P1310,Sheila Morales,52,NA,La Molina,,2022-04-23,294.81
+P1311,David Mottillo,74,M,Surco,Medicina General,2022-04-29,494.21
+P1312,Kathleen Elliot,59,F,San Isidro,NA,2024-01-14,499.55
+P1313,Natalie Herms,54,,Miraflores,Pediatría,2024-11-03,358.52
+P1314,Jamie Victoria,95,,SJL,Odontología,2023-03-03,295.15
+P1315,Robin Hawk,74,NA,Lince,,2022-11-16,232.48
+P1316,Betty Bryant,73,M,SJL,Medicina General,2023-03-28,298.89
+P1317,Michelle Elliott,25,F,Lince,Pediatría,2022-12-25,410.15
+P1318,Lillian Roberts,89,NA,Lince,Odontología,2022-10-31,484.94
+P1319,Sonia Crosby,8,M,Miraflores,Traumatología,2024-04-07,55.06
+P1320,Janet Shindle,63,NA,Lince,NA,2024-06-09,267.69
+P1321,Erica Damewood,32,M,Comas,,2022-07-23,62.99
+P1322,Kimberly Callaghan,41,M,Comas,,2022-01-20,447.94
+P1323,Nicholas Phillips,62,,Surco,Traumatología,2023-03-15,57.39
+P1324,Terry Medina,44,NA,San Isidro,Cardiología,2023-10-23,451.7
+P1325,Frank Durie,94,M,Comas,Odontología,2023-12-23,484.13
+P1326,Kay Ortiz,95,,Surco,Cardiología,2023-12-12,101.45
+P1327,Kim Phipps,55,,Lince,,2023-09-13,461.14
+P1328,Margarita Lopez,91,,Surco,NA,2023-07-29,194.45
+P1329,Patrick Ault,48,,Miraflores,Medicina General,2024-07-15,177.14
+P1330,Aaron Jones,80,F,Miraflores,NA,2023-01-23,483.37
+P1331,Christopher Ishihara,25,F,La Molina,Odontología,2022-07-13,407.17
+P1332,Jason Roddick,37,NA,Lince,Cardiología,2023-03-15,314.39
+P1333,Robert Payne,43,NA,Surco,Medicina General,2024-10-15,481.39
+P1334,Dewey Moya,17,M,Lince,Pediatría,2024-09-28,232.3
+P1335,Fannie Simmons,16,M,San Isidro,Medicina General,2023-06-16,247.61
+P1336,Faye Fuller,90,M,Lince,Cardiología,2022-11-19,254.19
+P1337,Harry Greer,26,,Miraflores,NA,2022-04-13,488.56
+P1338,Eric Kaiser,47,,SJL,Medicina General,2024-07-24,265.81
+P1339,Henry Bullard,79,NA,San Isidro,Traumatología,2023-11-17,108.97
+P1340,Earl Hunter,64,,Comas,Pediatría,2022-09-13,249.55
+P1341,John Smith,86,F,San Isidro,Medicina General,2023-11-18,273.32
+P1342,Julia Nelson,6,F,Comas,Odontología,2022-08-04,187.81
+P1343,James Williams,91,NA,Miraflores,Odontología,2022-09-29,79.69
+P1344,Anna Culotta,92,F,San Isidro,,2023-12-17,154.95
+P1345,Ronald French,35,NA,Surco,NA,2023-10-03,79.15
+P1346,David Howard,36,,Surco,Traumatología,2022-06-29,289.59
+P1347,Monica Woods,23,NA,SJL,Traumatología,2022-09-15,285.21
+P1348,Pedro Johnson,78,NA,Surco,Odontología,2024-06-30,408.26
+P1349,Anton Neal,9,,San Isidro,Odontología,2022-03-03,364.22
+P1350,Nicole Escalante,90,M,Comas,Pediatría,2023-10-04,260.41
+P1351,William Brandt,60,NA,Comas,Medicina General,2022-02-01,237.92
+P1352,In Fenstermacher,73,M,La Molina,NA,2023-04-28,280.88
+P1353,Nathaniel Ritchie,36,NA,Lince,Medicina General,2023-05-01,398.96
+P1354,Stephine Shellhammer,44,NA,Miraflores,Pediatría,2022-04-07,337.59
+P1355,Derek Hogg,72,,San Isidro,Pediatría,2024-06-28,159.28
+P1356,Andrew Cloutman,73,M,Lince,NA,2022-07-07,212.58
+P1357,Cher Stagnaro,75,,Lince,Medicina General,2024-05-04,149.19
+P1358,Catherine Flynn,74,M,Lince,Medicina General,2023-09-08,255.88
+P1359,Charles Drennon,93,F,San Isidro,Odontología,2022-05-08,481.38
+P1360,Colin Padilla,88,M,Surco,Traumatología,2023-12-24,224.77
+P1361,Ira Robertson,18,,La Molina,,2024-05-22,103.06
+P1362,Albertine Smith,42,M,SJL,Cardiología,2024-11-03,152.83
+P1363,Pam Huff,12,F,Surco,Cardiología,2023-12-31,273.16
+P1364,Donald Kane,39,M,Miraflores,,2023-09-29,447.91
+P1365,Valerie Mcdowell,33,M,SJL,Odontología,2024-09-20,386.13
+P1366,Wendy Trager,51,NA,Lince,Cardiología,2024-11-03,356.38
+P1367,Joseph Wetmore,49,,San Isidro,Odontología,2023-06-23,289.22
+P1368,Pamela Hamler,8,NA,SJL,Medicina General,2023-06-04,100.82
+P1369,Sam Lott,77,,SJL,Medicina General,2023-05-02,299.21
+P1370,Lois Wood,17,M,Miraflores,,2022-11-16,189.03
+P1371,Vicky Richmond,29,,Comas,Cardiología,2024-01-27,99.83
+P1372,Francisco Grover,2,,Lince,Medicina General,2023-01-04,225.72
+P1373,Sonya Taylor,77,M,Surco,NA,2023-01-04,289.52
+P1374,Shawn Moore,4,,Miraflores,Cardiología,2022-03-24,83.48
+P1375,Douglas Barnett,72,M,Lince,Traumatología,2022-05-22,238.07
+P1376,Melody Amaro,70,NA,Surco,Pediatría,2023-06-24,98.42
+P1377,Donald Pacheco,28,,San Isidro,NA,2022-08-02,102.69
+P1378,Barry Kruse,1,M,San Isidro,Cardiología,2024-06-04,172.69
+P1379,Terri Lincoln,41,NA,SJL,Traumatología,2022-09-12,110.35
+P1380,Jennie Doggett,41,F,Miraflores,Cardiología,2024-12-26,457.92
+P1381,Jacob Johnson,25,F,San Isidro,Cardiología,2022-08-15,94.53
+P1382,Mildred Perez,72,,La Molina,Pediatría,2022-05-15,156.03
+P1383,Erin Becerra,94,M,Lince,Medicina General,2022-08-22,161.09
+P1384,Richard Drinkard,18,,Comas,Medicina General,2023-01-04,426.64
+P1385,Randy Cook,93,NA,SJL,Medicina General,2023-01-28,392.87
+P1386,Jonathan Roberts,3,F,SJL,,2023-02-16,158.23
+P1387,Aletha Cannon,85,F,San Isidro,Odontología,2022-07-04,215.6
+P1388,John Small,34,,Miraflores,Cardiología,2024-12-11,89.75
+P1389,Imogene Satterwhite,52,NA,San Isidro,Traumatología,2023-09-29,290.62
+P1390,Morris Brown,9,M,Comas,Traumatología,2023-04-08,85.5
+P1391,Gary Wray,29,,Comas,Traumatología,2023-02-07,386.65
+P1392,Joseph Lopez,70,,Comas,Medicina General,2022-09-29,275.72
+P1393,Gerald Fritts,35,NA,Lince,Odontología,2024-06-11,476.1
+P1394,Delois Mirando,42,,Lince,Cardiología,2024-09-18,152.82
+P1395,Barbara Matthews,13,NA,Surco,NA,2023-12-01,143.66
+P1396,Daniel Gomez,64,M,SJL,Cardiología,2023-08-25,347.26
+P1397,Angel Nickel,60,NA,Comas,Cardiología,2022-10-24,240.9
+P1398,Janice Rice,52,NA,SJL,Traumatología,2023-09-10,112.03
+P1399,David Clark,52,F,Surco,Odontología,2024-09-25,434.0
+P1400,Misty Thompson,32,F,Comas,NA,2022-01-21,282.23
+P1401,Gale Weber,86,F,SJL,,2022-02-23,273.2
+P1402,Laura Cyrus,67,,La Molina,Pediatría,2022-08-13,190.43
+P1403,Margaret Powers,74,,San Isidro,Cardiología,2023-09-02,317.9
+P1404,Helen Wenger,33,F,Surco,Pediatría,2024-06-27,206.35
+P1405,James Kemppainen,27,F,Surco,Traumatología,2023-03-29,164.62
+P1406,Daniel Thomas,48,F,SJL,Odontología,2023-11-06,128.07
+P1407,Pamela Beverly,65,,Miraflores,,2022-01-22,413.75
+P1408,James Bishop,84,,Lince,Pediatría,2024-04-01,428.41
+P1409,Adrian Felton,62,M,Surco,Odontología,2022-10-15,225.15
+P1410,Debra Traylor,25,F,Comas,Pediatría,2023-12-23,393.42
+P1411,Daphne Jeter,1,M,Surco,Traumatología,2022-08-20,254.44
+P1412,Jeffrey Daugherty,4,,Lince,Odontología,2024-12-30,143.5
+P1413,Dana Smith,85,F,Surco,NA,2024-06-17,334.53
+P1414,Alicia Brewer,8,NA,Surco,,2024-09-06,431.71
+P1415,Christopher Bessey,38,M,San Isidro,Traumatología,2023-10-23,141.76
+P1416,Brooke Sprague,66,NA,La Molina,Pediatría,2024-11-20,71.25
+P1417,Marc Guzman,18,,San Isidro,Odontología,2023-06-11,496.63
+P1418,Tina Sarkin,51,NA,SJL,Medicina General,2024-04-22,224.1
+P1419,Ralph Murray,57,NA,Surco,Traumatología,2022-07-18,450.42
+P1420,Socorro Harper,33,F,Lince,Odontología,2023-06-22,226.09
+P1421,Herman Tutor,77,M,Lince,Medicina General,2024-12-17,346.56
+P1422,Clifford Kidd,56,F,SJL,NA,2024-12-27,117.64
+P1423,Pei Grant,58,,Lince,Traumatología,2022-08-12,322.48
+P1424,Dawn Bradby,9,F,Miraflores,Odontología,2024-03-15,269.93
+P1425,Glenn Greer,67,M,Lince,Pediatría,2023-09-28,155.83
+P1426,Thomas Jacobson,48,F,Miraflores,Medicina General,2024-11-27,239.62
+P1427,Ruth Rodriguez,36,,Comas,Odontología,2023-12-21,168.42
+P1428,Emma Eggleston,70,,La Molina,NA,2023-08-20,56.29
+P1429,Beverly Gent,86,F,La Molina,Pediatría,2024-02-04,484.54
+P1430,Latonya Bettencourt,46,,SJL,Traumatología,2024-08-04,324.89
+P1431,Dustin Moore,43,NA,La Molina,Pediatría,2024-05-31,326.81
+P1432,Jesse Oloughlin,2,NA,Miraflores,Pediatría,2022-04-05,156.2
+P1433,Verna Carpentier,58,F,San Isidro,Cardiología,2024-11-24,218.9
+P1434,Ruby Tauras,94,,Surco,,2024-03-31,266.47
+P1435,Willie Lester,39,,Miraflores,Odontología,2024-05-24,190.93
+P1436,Bobby Travis,80,NA,Surco,Traumatología,2022-10-17,453.29
+P1437,Catherine Manko,81,M,La Molina,Traumatología,2023-08-24,415.35
+P1438,June Shook,32,,Surco,Pediatría,2022-06-13,392.31
+P1439,John Tucker,6,NA,Miraflores,Odontología,2022-11-15,496.68
+P1440,Tiffiny Guererro,52,NA,Comas,NA,2024-08-28,214.85
+P1441,Shaun Patino,30,F,Surco,NA,2023-08-28,322.18
+P1442,Marcus Hickman,51,F,Surco,Cardiología,2023-06-06,317.54
+P1443,Raleigh Heber,16,NA,Surco,Medicina General,2024-05-14,270.82
+P1444,Toni Williams,8,F,Comas,Odontología,2023-02-23,232.03
+P1445,Ernest Prescott,4,F,La Molina,NA,2022-11-01,431.26
+P1446,Harlan Williams,66,F,La Molina,NA,2022-10-16,273.08
+P1447,Thomas Lynch,83,F,Lince,Pediatría,2024-09-03,226.19
+P1448,Jackie Delossantos,26,,Surco,NA,2022-12-11,99.11
+P1449,Michael Brown,82,M,Comas,Cardiología,2022-09-06,270.39
+P1450,Harry Mitchell,60,F,Miraflores,Medicina General,2022-09-22,110.3
+P1451,William Vidal,18,M,Surco,Medicina General,2022-11-11,108.78
+P1452,James Deck,44,F,La Molina,Traumatología,2024-05-27,457.13
+P1453,Thomas Nowak,90,M,Surco,Pediatría,2022-10-11,197.71
+P1454,Robert Ohara,17,M,San Isidro,NA,2023-09-16,165.3
+P1455,Stanley Nelson,2,M,Comas,,2022-10-31,51.48
+P1456,Wendy Bolton,48,M,San Isidro,Odontología,2024-02-21,295.7
+P1457,Debra Meekins,65,NA,SJL,Odontología,2022-12-27,128.25
+P1458,Naomi Moreno,26,,SJL,Cardiología,2023-02-06,402.61
+P1459,Patricia Marquez,43,,La Molina,NA,2024-08-18,177.39
+P1460,Patricia Michalak,4,,Lince,NA,2023-11-28,371.68
+P1461,Daniel Talamo,16,,Miraflores,Medicina General,2023-09-17,212.82
+P1462,Victor Moran,22,M,San Isidro,Traumatología,2022-02-04,499.93
+P1463,Mary Batun,55,NA,San Isidro,NA,2024-05-31,125.83
+P1464,Ashley Brown,68,,SJL,Pediatría,2024-10-08,192.22
+P1465,Tabitha Hill,72,M,Comas,Odontología,2022-01-24,235.29
+P1466,April Sasser,61,F,San Isidro,NA,2022-02-07,295.43
+P1467,Kristin Riggs,63,,Lince,Cardiología,2023-08-20,385.63
+P1468,Raymond Walker,75,M,SJL,Medicina General,2022-12-30,210.53
+P1469,Kevin Franch,62,F,SJL,NA,2024-03-19,91.39
+P1470,Lynda Ruiz,87,,Surco,Medicina General,2023-07-24,139.36
+P1471,Charlotte Isenhart,67,F,La Molina,Traumatología,2022-08-11,286.62
+P1472,James Pittman,64,M,Surco,NA,2022-10-01,163.98
+P1473,Jackie Redding,45,,San Isidro,Odontología,2023-10-21,341.08
+P1474,Annie Kremen,66,M,Comas,Odontología,2022-10-23,154.79
+P1475,Gertrude Lewis,93,NA,Surco,Traumatología,2024-10-03,106.93
+P1476,Anthony Taylor,80,,Lince,Medicina General,2024-02-16,444.67
+P1477,Cindy Mcallister,8,F,Surco,Odontología,2024-11-13,497.89
+P1478,Corey Pittsley,35,M,Comas,Pediatría,2024-08-29,158.17
+P1479,Louise Black,71,,San Isidro,Cardiología,2022-06-08,205.81
+P1480,Charles Kitchen,93,,La Molina,,2024-02-27,376.27
+P1481,Annie Demirchyan,71,NA,Comas,Medicina General,2024-07-05,278.78
+P1482,Carolyn Huffman,89,M,Surco,Odontología,2022-08-15,252.63
+P1483,Marlon Daniels,79,F,Miraflores,Pediatría,2022-09-11,291.99
+P1484,Elizabeth Estes,54,NA,Miraflores,Pediatría,2022-07-03,182.4
+P1485,Kathleen Benefield,7,NA,Miraflores,Pediatría,2023-10-15,131.8
+P1486,Audrey Miller,86,F,Surco,Traumatología,2024-04-03,436.23
+P1487,Muriel Sawyer,69,NA,Surco,Medicina General,2022-07-23,475.58
+P1488,Miriam Ruiz,78,NA,SJL,,2022-11-02,55.56
+P1489,Rosie Ward,26,NA,Lince,Traumatología,2023-01-12,185.91
+P1490,Hazel Hertz,28,,Lince,Pediatría,2022-09-22,161.89
+P1491,Cassandra Delcastillo,43,NA,Surco,Medicina General,2024-07-22,429.58
+P1492,Deborah Sapp,34,F,Surco,,2024-03-05,117.55
+P1493,Robert Enriquez,44,M,Lince,,2023-03-27,369.33
+P1494,Joseph Hachey,43,NA,San Isidro,,2023-09-16,84.75
+P1495,Alexander Lay,95,F,SJL,Medicina General,2023-09-10,230.38
+P1496,Nicholas Johnson,4,,SJL,Traumatología,2022-09-17,327.24
+P1497,Edith Mcglone,69,NA,Comas,,2022-02-23,276.34
+P1498,Paul Chritton,77,NA,Comas,Medicina General,2024-03-06,51.61
+P1499,Angelia Morris,61,NA,La Molina,,2022-01-23,351.32
+P1500,Jacqueline Nigro,13,M,La Molina,Pediatría,2023-04-16,459.62
+P1501,Jackie Thomas,44,M,Comas,Traumatología,2024-05-24,368.89
+P1502,Chauncey Nelson,70,NA,Miraflores,Medicina General,2023-03-17,369.72
+P1503,Rita Sanchez,31,,Surco,Pediatría,2024-01-10,364.13
+P1504,Ben Stermer,25,,Lince,Pediatría,2022-06-19,111.37
+P1505,Raymond Thomas,59,M,Comas,NA,2022-10-10,374.9
+P1506,Sarah Wright,63,,La Molina,Traumatología,2024-05-25,174.49
+P1507,Vicki Hofmann,41,NA,Lince,Cardiología,2024-09-28,430.91
+P1508,Michele Price,9,F,Miraflores,NA,2024-12-18,435.3
+P1509,Grace Eubanks,87,NA,Comas,,2024-08-20,129.77
+P1510,Jimmy Sweeny,54,,Lince,Cardiología,2024-04-27,422.36
+P1511,Clifford Papik,16,NA,San Isidro,,2022-06-13,161.89
+P1512,Alyce Champagne,46,NA,Lince,Cardiología,2024-05-11,215.06
+P1513,Linda Wentz,71,F,San Isidro,Medicina General,2024-09-18,369.86
+P1514,David Gust,64,F,San Isidro,Odontología,2023-08-24,307.96
+P1515,Maureen Fernandez,55,F,San Isidro,Medicina General,2024-11-06,408.29
+P1516,Shirley Murphy,63,M,Comas,Odontología,2022-10-31,330.24
+P1517,Henry Davis,32,NA,San Isidro,Medicina General,2022-06-07,147.19
+P1518,Ena Seay,39,F,Miraflores,NA,2024-03-24,239.36
+P1519,Mary Roberts,1,,SJL,NA,2022-08-09,273.12
+P1520,George Newell,55,NA,La Molina,Pediatría,2023-06-26,324.24
+P1521,Patricia Mckenize,62,,La Molina,Medicina General,2022-02-26,242.03
+P1522,Lewis Pimentel,17,M,Miraflores,Pediatría,2022-05-14,98.53
+P1523,Scott Walden,77,F,Lince,Medicina General,2024-11-08,174.94
+P1524,Mona Caldwell,61,NA,Miraflores,Pediatría,2023-12-12,223.15
+P1525,Ida Burchard,82,,La Molina,Medicina General,2022-09-14,368.28
+P1526,Rosalina Romero,17,M,La Molina,Medicina General,2022-07-16,166.41
+P1527,Doris Thomas,75,,Miraflores,Pediatría,2022-12-20,430.36
+P1528,Roman Franklin,60,F,Surco,Odontología,2023-03-26,471.95
+P1529,Martha Vautour,53,NA,SJL,Odontología,2024-01-05,178.07
+P1530,Robert Devine,85,NA,Lince,Medicina General,2024-04-14,437.64
+P1531,Charles Scott,95,M,Comas,Pediatría,2023-11-19,306.38
+P1532,Stacy Garcia,53,NA,Surco,Pediatría,2022-05-01,448.2
+P1533,Morris Massa,39,M,Lince,Medicina General,2022-10-09,164.62
+P1534,Michael Millet,31,NA,San Isidro,Traumatología,2022-12-16,426.43
+P1535,Mae Knowles,52,NA,SJL,Traumatología,2024-08-10,63.89
+P1536,Frank Buchanan,53,F,Miraflores,Medicina General,2023-05-14,249.45
+P1537,Elisa Sills,40,,SJL,Odontología,2024-07-24,183.15
+P1538,Virginia Chapman,21,,Lince,Cardiología,2023-04-30,183.93
+P1539,Ines Slade,82,M,Lince,Odontología,2024-05-25,84.58
+P1540,Oscar Willett,26,F,SJL,NA,2024-08-26,95.95
+P1541,James Yost,4,NA,Miraflores,NA,2022-10-03,79.57
+P1542,Patsy Butler,56,NA,Miraflores,Odontología,2022-07-20,192.08
+P1543,Juan Lawson,94,F,Surco,NA,2023-07-22,54.34
+P1544,William Broyles,62,M,Comas,Traumatología,2023-06-18,402.61
+P1545,Evelyn Hartman,74,M,San Isidro,Odontología,2023-01-24,354.26
+P1546,Terry Holloway,2,,La Molina,Traumatología,2023-06-15,56.73
+P1547,Jack Kline,79,NA,Lince,,2024-06-23,207.99
+P1548,Bessie Mayo,40,M,San Isidro,NA,2023-10-23,234.21
+P1549,Robert Imbert,18,,SJL,Pediatría,2024-04-20,143.47
+P1550,Robert Marino,75,NA,Comas,Pediatría,2024-12-18,187.47
+P1551,Kassie Yeager,87,,Lince,Medicina General,2024-05-09,342.04
+P1552,Vincent Smith,17,NA,Surco,Odontología,2024-03-03,325.33
+P1553,Jane Emig,5,NA,San Isidro,Odontología,2024-11-24,318.88
+P1554,Manuel Bennett,16,,Comas,Odontología,2022-07-26,159.28
+P1555,Mercedes House,43,F,Comas,Medicina General,2024-02-29,372.05
+P1556,Amalia Sellers,54,,Comas,NA,2024-09-26,341.27
+P1557,Melissa Good,26,F,Comas,Pediatría,2023-06-23,185.26
+P1558,Renee Hamilton,26,NA,SJL,NA,2023-06-04,396.07
+P1559,Paul Zimmermann,29,,SJL,NA,2022-05-03,326.75
+P1560,Loria Timchula,1,NA,Miraflores,NA,2024-07-10,87.47
+P1561,Thomas French,38,,Miraflores,Cardiología,2024-03-29,209.23
+P1562,Joyce Warren,76,F,Surco,Cardiología,2024-06-25,255.69
+P1563,Sondra Howell,92,F,SJL,,2022-02-16,351.89
+P1564,Alexandria Cameron,88,F,Surco,Medicina General,2022-12-31,131.42
+P1565,William Shelby,18,NA,Miraflores,Traumatología,2024-10-30,248.52
+P1566,Joanne Vann,3,M,Miraflores,Pediatría,2023-04-26,380.02
+P1567,Stephen Mcgill,38,NA,Surco,NA,2022-09-11,96.34
+P1568,Tawny Loeffler,31,F,Surco,Traumatología,2022-07-25,464.26
+P1569,Rebecca Wirth,7,F,Comas,Medicina General,2022-04-08,114.79
+P1570,Charles Ronning,16,M,Miraflores,Pediatría,2022-01-02,122.33
+P1571,Catherine George,50,,SJL,Traumatología,2023-03-20,144.91
+P1572,James Newsome,40,M,Comas,Traumatología,2023-08-04,210.95
+P1573,Samuel Rego,24,,San Isidro,NA,2022-10-17,100.72
+P1574,Todd Vidot,21,NA,Surco,,2022-12-15,148.88
+P1575,Eugene Gonzalez,70,M,San Isidro,Traumatología,2023-09-05,435.98
+P1576,Mabel Murray,61,NA,La Molina,Traumatología,2022-05-07,65.25
+P1577,Antonio Matthes,88,F,La Molina,Traumatología,2024-09-27,249.14
+P1578,Patricia Dubuque,42,M,Miraflores,Odontología,2022-02-28,82.79
+P1579,Daniel Henry,73,F,Lince,NA,2022-08-09,435.32
+P1580,Thelma Horning,17,F,San Isidro,Cardiología,2022-09-13,384.89
+P1581,Benita Hudson,52,NA,Surco,Odontología,2024-01-28,306.36
+P1582,Jason Andersen,51,,San Isidro,Traumatología,2023-09-20,424.12
+P1583,Mark Vassar,93,M,SJL,NA,2022-06-21,244.77
+P1584,Latonya Jones,91,,San Isidro,Cardiología,2022-07-07,470.32
+P1585,Frank Albano,9,M,La Molina,Medicina General,2024-12-20,248.33
+P1586,Heather Todd,18,M,SJL,Traumatología,2024-09-15,232.18
+P1587,Matthew Reed,2,F,Lince,,2023-06-18,211.9
+P1588,Samuel Schuster,60,NA,SJL,Pediatría,2023-11-11,473.14
+P1589,Mamie Alonzo,34,M,Comas,,2022-07-18,70.61
+P1590,Lindsey Scruggs,52,NA,Miraflores,Pediatría,2024-03-22,441.54
+P1591,Elizabeth Riley,27,M,La Molina,Medicina General,2023-12-05,182.56
+P1592,Kyle Cobine,36,F,Comas,Odontología,2023-06-08,187.21
+P1593,Walter Galinis,91,,La Molina,Traumatología,2022-09-19,183.74
+P1594,Marc Plotts,43,M,Miraflores,NA,2024-12-30,61.22
+P1595,Kandace Myers,92,M,Surco,Odontología,2022-09-07,337.61
+P1596,Jessica Pugh,32,NA,SJL,Odontología,2024-06-12,437.23
+P1597,Emma Miranda,10,,Lince,Odontología,2024-07-06,481.63
+P1598,Danny Williams,80,,Surco,NA,2022-11-15,59.39
+P1599,Damon Nistler,59,M,San Isidro,Odontología,2023-10-12,174.06
+P1600,Samuel Jenkins,65,M,Comas,NA,2023-09-20,365.06
+P1601,Kris Bennett,82,,La Molina,Odontología,2023-08-29,341.3
+P1602,Virgil Remington,38,F,Surco,Traumatología,2023-01-17,434.28
+P1603,David Berry,35,,Comas,Traumatología,2023-05-04,484.79
+P1604,Janelle Cassidy,5,F,SJL,NA,2023-11-20,294.46
+P1605,Nelle Tripp,93,NA,Surco,NA,2023-04-21,232.03
+P1606,Mark Jackson,43,M,Surco,Traumatología,2023-03-03,74.97
+P1607,Steven Paiz,78,M,Comas,,2022-05-28,424.35
+P1608,William Natcher,5,NA,La Molina,Cardiología,2022-04-08,471.08
+P1609,William Espinoza,77,,Lince,Medicina General,2023-08-07,418.91
+P1610,Margaret Mintz,23,F,Lince,,2024-11-20,331.17
+P1611,Garrett Jones,72,NA,Comas,Odontología,2022-07-22,478.56
+P1612,Camelia Rosenberg,42,F,Surco,Medicina General,2022-08-23,186.56
+P1613,Guillermo Lawson,52,NA,SJL,Odontología,2024-11-08,271.53
+P1614,David Kimsey,95,M,SJL,NA,2023-09-01,410.64
+P1615,Bradley Gould,76,M,San Isidro,NA,2023-11-20,426.36
+P1616,Wesley Odom,24,,San Isidro,Cardiología,2023-07-06,435.99
+P1617,Jeremy Armstrong,20,NA,Comas,Pediatría,2022-10-11,296.73
+P1618,Tonya Vaccaro,45,F,La Molina,NA,2022-11-29,381.97
+P1619,Amie Buban,39,F,La Molina,Odontología,2023-03-28,202.15
+P1620,Gretchen Partida,3,F,Comas,Pediatría,2022-04-17,225.46
+P1621,Doreen Phillips,6,NA,San Isidro,Medicina General,2023-04-04,492.7
+P1622,Joseph Kaminski,79,M,SJL,Cardiología,2023-02-10,341.62
+P1623,Neil Huggins,2,,La Molina,Odontología,2023-03-31,395.12
+P1624,Charles Monzon,19,M,Comas,,2022-03-08,404.79
+P1625,Susan Hurley,2,,Miraflores,Traumatología,2024-11-22,412.92
+P1626,Paul Hart,39,F,La Molina,Odontología,2022-03-29,195.52
+P1627,Margaret Orosz,36,F,San Isidro,,2023-08-04,139.94
+P1628,Dawn Pockrus,64,M,Surco,Pediatría,2022-07-26,263.31
+P1629,Janet Robichaux,10,,San Isidro,,2024-12-25,359.94
+P1630,Colleen Frierson,89,NA,Comas,Odontología,2022-07-23,262.71
+P1631,Roger Johnson,48,F,Lince,Traumatología,2024-01-24,389.58
+P1632,Bulah Perea,90,M,Lince,Medicina General,2023-09-01,80.45
+P1633,Henry Archer,84,F,SJL,Cardiología,2023-05-26,172.25
+P1634,Ben Gentner,48,F,La Molina,NA,2024-10-07,339.9
+P1635,Virginia Pugh,51,F,San Isidro,Traumatología,2023-03-04,424.38
+P1636,Jeremy Holder,88,F,La Molina,Traumatología,2024-11-04,388.01
+P1637,Lester Merrett,78,F,Comas,,2024-12-21,69.25
+P1638,David Garcia,8,,SJL,Cardiología,2023-07-16,268.47
+P1639,Bryan Bradley,91,F,Miraflores,,2022-05-10,287.52
+P1640,Tina Powell,46,M,San Isidro,Pediatría,2023-05-01,300.23
+P1641,John Hill,61,M,Lince,Pediatría,2023-12-05,61.11
+P1642,Mitchell Allen,27,NA,Surco,Cardiología,2022-06-27,459.61
+P1643,Robert Lewis,79,M,Comas,Medicina General,2023-01-27,98.0
+P1644,Laurence Fabian,62,F,Surco,Cardiología,2022-02-11,472.42
+P1645,Stuart Freeman,13,M,Lince,NA,2024-10-24,187.5
+P1646,Anna Palesano,15,F,San Isidro,Traumatología,2023-09-12,474.89
+P1647,Kevin Bullock,51,M,SJL,Traumatología,2023-09-19,469.86
+P1648,Robin Duenes,16,F,La Molina,NA,2022-05-08,491.93
+P1649,Doreen Cash,67,M,SJL,Medicina General,2022-07-31,369.09
+P1650,Dominic Gamble,20,M,Lince,Traumatología,2022-08-02,269.7
+P1651,David Balch,37,F,Comas,NA,2024-03-19,144.11
+P1652,Mark Garrett,88,M,Lince,NA,2022-10-07,321.93
+P1653,Ann Souvannavong,48,NA,SJL,Medicina General,2024-09-23,411.79
+P1654,Lana Williamson,35,NA,La Molina,Cardiología,2022-11-13,179.17
+P1655,Rupert Douglas,4,,Comas,NA,2023-05-16,342.96
+P1656,Alma Gimbel,74,M,SJL,Pediatría,2023-06-06,284.98
+P1657,Mary Clennon,88,NA,SJL,,2024-11-19,291.01
+P1658,Antonio Mitchell,73,M,Lince,,2022-08-22,143.53
+P1659,Mary Anderson,63,NA,La Molina,Medicina General,2024-01-24,292.93
+P1660,Ignacio Roy,57,,Lince,Traumatología,2023-01-20,62.96
+P1661,Haydee Houston,1,F,La Molina,NA,2022-08-22,102.52
+P1662,Carrie Moran,35,NA,Lince,Pediatría,2024-03-27,343.53
+P1663,Jeff Naef,57,M,Comas,Traumatología,2023-10-01,443.48
+P1664,Alfred Martin,29,F,San Isidro,,2022-04-07,349.56
+P1665,David Zenger,63,M,Surco,Traumatología,2022-04-08,390.2
+P1666,Elaine Mackey,11,M,Miraflores,Traumatología,2022-03-10,480.67
+P1667,Iris Giuffrida,36,,La Molina,Traumatología,2024-07-14,201.56
+P1668,Brenda Bottoms,3,NA,Comas,Cardiología,2022-02-28,470.91
+P1669,Mary Hogg,24,M,Comas,Pediatría,2022-04-24,364.42
+P1670,Annette Mann,86,,La Molina,Cardiología,2023-11-18,391.89
+P1671,Racheal Hamel,89,NA,San Isidro,Cardiología,2023-02-08,303.54
+P1672,Marion Thompson,48,,Surco,Pediatría,2023-08-19,167.2
+P1673,Sharon Black,75,,La Molina,Cardiología,2022-01-24,178.73
+P1674,Kathryn Smith,89,M,Surco,Traumatología,2022-01-17,226.12
+P1675,Henry Faley,13,NA,Comas,Traumatología,2023-12-28,369.9
+P1676,Dana Larkin,17,,San Isidro,Cardiología,2024-03-17,226.28
+P1677,Joshua Reece,13,NA,SJL,Medicina General,2024-08-04,96.4
+P1678,Jennifer Dinkel,74,M,Comas,Cardiología,2023-07-21,66.39
+P1679,Carmela Hanselman,41,,Comas,NA,2023-02-14,174.8
+P1680,Keith Gutierrez,37,F,Surco,Odontología,2024-02-12,219.57
+P1681,Virgil Foreman,49,M,La Molina,,2022-04-03,177.77
+P1682,Tamara Millick,42,M,Miraflores,Odontología,2023-02-16,78.45
+P1683,Max George,79,,SJL,,2022-01-18,197.72
+P1684,Alan Waiters,71,F,Comas,Odontología,2022-11-25,245.87
+P1685,Joseph Costanzo,44,M,Lince,Odontología,2022-07-09,181.45
+P1686,Gerald Winston,37,NA,La Molina,Cardiología,2022-10-12,429.69
+P1687,Debbie Glass,19,,Surco,Odontología,2024-10-28,187.96
+P1688,Carol Mcquay,41,,Surco,NA,2024-09-19,306.24
+P1689,Richard Mueller,53,M,Miraflores,Cardiología,2023-10-26,497.85
+P1690,Gary Walker,54,,Comas,Pediatría,2024-01-27,213.05
+P1691,Thomas Keding,70,M,SJL,NA,2022-06-17,196.54
+P1692,Melissa Robinson,64,M,San Isidro,Cardiología,2022-01-31,259.36
+P1693,Josephine Jolin,12,F,Comas,Medicina General,2024-06-01,73.57
+P1694,Percy Apaez,7,NA,Miraflores,NA,2023-10-18,253.21
+P1695,Carlos West,20,,Lince,Cardiología,2023-12-04,459.81
+P1696,Sylvia Giles,58,,SJL,Medicina General,2023-11-24,85.42
+P1697,Robert Carman,20,NA,San Isidro,Pediatría,2022-01-20,485.61
+P1698,Beulah Collica,19,F,La Molina,,2022-05-23,419.83
+P1699,Jimmy Piazza,65,,Lince,,2024-02-24,441.82
+P1700,Sarah Scott,74,,La Molina,Pediatría,2022-08-23,425.06
+P1701,Ernest Ruff,47,M,San Isidro,,2023-05-20,399.7
+P1702,Joyce Kern,87,NA,Lince,Cardiología,2022-04-04,460.02
+P1703,Kyle Williams,46,F,La Molina,NA,2023-02-09,56.06
+P1704,William Bowden,55,F,San Isidro,Cardiología,2023-06-17,489.84
+P1705,Lawrence Jones,43,NA,SJL,Pediatría,2023-10-20,207.61
+P1706,Donald Flournoy,24,NA,Surco,Odontología,2022-04-27,164.93
+P1707,Marsha Penn,72,F,La Molina,NA,2023-12-30,153.33
+P1708,Jay Lariviere,10,F,Miraflores,,2022-05-25,357.33
+P1709,Karen Whitley,26,NA,La Molina,NA,2022-03-22,176.14
+P1710,Jack Roberts,41,,San Isidro,Odontología,2023-08-17,330.09
+P1711,Donna Freudenburg,63,M,Lince,Traumatología,2023-12-23,376.12
+P1712,Sarah Morales,52,M,Miraflores,Odontología,2024-09-28,448.28
+P1713,Ling Huffman,85,F,SJL,Cardiología,2023-05-14,216.46
+P1714,Melissa Hickman,39,NA,Miraflores,Medicina General,2024-06-19,222.22
+P1715,Johnny Kleypas,3,,Surco,,2024-09-24,268.54
+P1716,Eva Weekly,77,,Surco,Cardiología,2023-11-01,209.28
+P1717,Teresa Goldberg,54,M,SJL,NA,2022-07-12,53.36
+P1718,Russell Brown,25,NA,Comas,Medicina General,2022-02-06,373.26
+P1719,Elwood Peterson,93,,La Molina,Odontología,2023-10-02,400.28
+P1720,Dianne Frazier,17,F,Comas,Odontología,2023-04-24,51.14
+P1721,Diana Van,37,,Lince,Odontología,2022-01-04,489.03
+P1722,Christopher Aldrich,95,F,San Isidro,Traumatología,2022-01-22,221.02
+P1723,Ira Shelton,29,M,San Isidro,,2022-02-03,419.64
+P1724,Jennie Schmid,61,,Lince,Traumatología,2022-01-28,249.01
+P1725,Gabriela Parker,61,NA,Miraflores,,2022-02-20,418.73
+P1726,Kenneth Norris,11,,Comas,Cardiología,2023-09-07,216.93
+P1727,Timothy Tompkins,81,NA,SJL,NA,2024-02-27,125.81
+P1728,Michael Thompson,56,M,SJL,Cardiología,2023-02-14,341.48
+P1729,Kirk Hammers,20,,SJL,Medicina General,2023-08-28,265.94
+P1730,Grover Billups,9,NA,Miraflores,,2023-07-26,142.99
+P1731,Brandon Ward,42,,SJL,Medicina General,2023-02-22,93.49
+P1732,Ida Seanez,21,M,Lince,Pediatría,2023-07-13,398.04
+P1733,Edward Gibson,23,NA,Lince,Cardiología,2023-06-17,214.64
+P1734,Sid Markrof,78,,Lince,Odontología,2023-05-22,233.4
+P1735,Richard Ho,23,M,Miraflores,Odontología,2024-12-11,261.46
+P1736,Sang Moreno,81,NA,Comas,Pediatría,2023-03-15,130.87
+P1737,Antione Gaffney,31,F,Comas,Medicina General,2024-03-04,310.91
+P1738,Shannon Kelly,9,M,SJL,NA,2023-10-04,397.36
+P1739,Keri Folk,66,NA,SJL,Pediatría,2023-06-09,77.77
+P1740,Corinne Karn,81,NA,SJL,Cardiología,2023-09-01,236.72
+P1741,Matthew Whit,75,NA,San Isidro,NA,2023-08-11,160.67
+P1742,Jimmy Perez,18,,Surco,Traumatología,2024-12-05,386.65
+P1743,Robert Delaney,43,NA,San Isidro,,2022-03-01,172.17
+P1744,Melvin Stanley,45,,La Molina,Odontología,2023-07-19,236.95
+P1745,Kim Malkin,18,NA,Miraflores,Pediatría,2024-08-15,390.09
+P1746,Shelley Mcqueen,37,NA,SJL,Traumatología,2024-11-28,393.25
+P1747,Dennis Runyon,5,,Surco,Pediatría,2023-07-14,169.4
+P1748,Antonio Chase,47,NA,San Isidro,Cardiología,2024-01-19,352.98
+P1749,James Brownlee,53,NA,Miraflores,,2022-06-21,160.53
+P1750,Sandra Woodward,75,NA,SJL,Cardiología,2023-11-13,343.54
+P1751,Hildred Russo,62,F,Surco,Odontología,2024-07-09,356.89
+P1752,Robert Santos,48,F,Lince,Medicina General,2022-05-23,116.99
+P1753,Matthew Summers,78,M,San Isidro,Medicina General,2022-06-07,263.97
+P1754,Kenneth Haffner,9,NA,La Molina,Odontología,2024-05-11,94.74
+P1755,Michael Kinney,94,F,Miraflores,Traumatología,2022-01-12,169.39
+P1756,Frank Stallworth,84,M,La Molina,NA,2022-12-11,215.09
+P1757,Jeffery Romero,31,F,Lince,NA,2022-12-28,355.38
+P1758,Alison Mccain,88,F,Miraflores,Pediatría,2024-10-23,338.77
+P1759,Pauline Hoffman,48,NA,Lince,Pediatría,2023-10-03,175.43
+P1760,Deana Epps,63,F,Lince,NA,2024-05-02,309.32
+P1761,Richard White,28,,La Molina,Medicina General,2023-08-25,349.38
+P1762,Wendy Thomas,64,,Comas,Cardiología,2023-05-24,386.33
+P1763,Edward Siegmund,12,F,Lince,Cardiología,2024-01-13,489.35
+P1764,Maria Brown,74,NA,Surco,NA,2023-04-27,75.26
+P1765,Francisco Lubinski,28,NA,San Isidro,,2024-12-19,259.33
+P1766,Amber Martinez,42,NA,San Isidro,Medicina General,2022-03-22,413.95
+P1767,Anthony Mason,64,M,Miraflores,NA,2023-05-24,89.09
+P1768,Lisa Hanks,55,F,Miraflores,Medicina General,2022-05-20,286.44
+P1769,Louise Gordon,65,F,Lince,NA,2023-05-27,295.07
+P1770,Charles Kivett,58,,La Molina,Cardiología,2023-06-22,360.17
+P1771,Neil Rawls,26,NA,Miraflores,Cardiología,2023-09-04,457.48
+P1772,Mary Joseph,20,,Miraflores,Pediatría,2024-05-12,190.34
+P1773,Neil Beaumont,51,F,Comas,NA,2023-06-15,330.88
+P1774,Margaret Robinson,5,NA,Comas,Medicina General,2024-10-10,170.68
+P1775,Louise Johnson,15,F,Miraflores,NA,2024-12-27,106.28
+P1776,Kenneth Jones,34,,San Isidro,Traumatología,2024-08-29,101.19
+P1777,Lisa Smith,54,F,La Molina,Odontología,2022-07-21,221.52
+P1778,Rebecca Jones,59,,SJL,Traumatología,2023-07-12,130.16
+P1779,Juan Gonzales,52,M,Miraflores,Odontología,2023-03-18,419.83
+P1780,Marcia Rosseau,36,F,SJL,,2024-04-17,363.13
+P1781,Joe Brumble,55,M,Miraflores,,2023-04-23,278.18
+P1782,Teresa Tague,32,M,SJL,Medicina General,2022-10-19,343.01
+P1783,Brian Shaw,78,NA,La Molina,Cardiología,2024-02-16,164.27
+P1784,Yasmin Gott,46,F,SJL,Traumatología,2022-01-09,107.0
+P1785,Leticia Licata,20,M,Surco,,2022-12-01,489.16
+P1786,Frederick Hammond,95,NA,Comas,Traumatología,2023-12-28,284.18
+P1787,Ola Roach,86,,San Isidro,Traumatología,2022-01-28,87.71
+P1788,Irving Winter,40,,SJL,Medicina General,2024-09-16,212.09
+P1789,Amanda Edwards,10,M,SJL,Cardiología,2023-11-24,404.11
+P1790,Mallory Parks,29,M,Lince,Cardiología,2024-07-18,271.88
+P1791,Katheryn Bogar,9,,SJL,Traumatología,2024-05-20,180.36
+P1792,Linda Wells,72,F,Lince,NA,2024-12-12,121.95
+P1793,Tim Storey,93,M,Surco,,2023-11-13,471.06
+P1794,Jacqueline Miraflores,60,NA,Lince,Odontología,2023-03-03,475.49
+P1795,Suzanne Hines,95,NA,San Isidro,Medicina General,2023-06-04,466.96
+P1796,Mitchell Bolinger,52,F,SJL,Odontología,2024-02-24,260.68
+P1797,Eric Midgette,16,,San Isidro,Pediatría,2023-10-22,203.51
+P1798,Richard Stankiewicz,89,NA,Lince,,2023-10-17,92.62
+P1799,Margaret Levitsky,60,NA,San Isidro,Medicina General,2022-07-28,249.74
+P1800,Rosetta Diaz,53,NA,Lince,Medicina General,2022-10-13,311.82
+P1801,Richard Southern,93,,San Isidro,,2023-07-18,110.21
+P1802,Rick Brooks,62,F,Surco,,2022-10-24,450.36
+P1803,Aaron Homan,71,,Miraflores,Medicina General,2023-04-24,342.27
+P1804,William Williams,53,,Miraflores,Medicina General,2023-11-08,216.13
+P1805,Charlie White,38,NA,SJL,Cardiología,2023-07-01,264.03
+P1806,Joey Mcguire,41,,Surco,,2024-07-30,92.72
+P1807,Sharon Manos,17,,SJL,Odontología,2022-02-09,493.98
+P1808,Maureen Gilmore,45,,Comas,Pediatría,2024-02-22,302.15
+P1809,Lucy Young,67,NA,La Molina,Pediatría,2022-12-28,180.62
+P1810,John Flemming,2,F,Lince,Odontología,2022-03-15,368.46
+P1811,Alma Black,14,,La Molina,Odontología,2024-03-13,430.51
+P1812,Jake Whalen,95,F,San Isidro,Cardiología,2022-08-15,251.4
+P1813,Nellie Camp,77,M,SJL,Cardiología,2023-03-22,218.84
+P1814,Jeanette Johnston,81,,Surco,Traumatología,2022-03-23,114.79
+P1815,Barbara Peters,16,M,SJL,,2024-06-21,473.6
+P1816,Andrew Bystron,21,M,Surco,Medicina General,2024-09-07,273.41
+P1817,Richard Martin,76,M,San Isidro,NA,2022-09-10,119.46
+P1818,Samuel Reeves,83,,Miraflores,NA,2024-07-12,82.23
+P1819,Opal Aden,73,M,Comas,Cardiología,2022-11-14,169.78
+P1820,Amanda Drury,39,F,La Molina,Traumatología,2022-03-27,431.08
+P1821,Elizabeth Wilkinson,93,M,San Isidro,Traumatología,2023-10-05,62.09
+P1822,Brian Kleman,24,F,San Isidro,Odontología,2023-12-03,441.07
+P1823,Pearl Cullen,73,F,SJL,NA,2024-05-14,50.37
+P1824,Maria Bilodeau,42,NA,Lince,Medicina General,2022-02-10,292.59
+P1825,James Weaver,7,M,Comas,Pediatría,2022-01-27,72.55
+P1826,Desiree Ballard,43,,Surco,Cardiología,2024-11-16,238.02
+P1827,Guy Tolan,40,NA,Comas,,2023-04-24,383.47
+P1828,Helen Nesbitt,54,NA,Lince,NA,2024-03-18,56.53
+P1829,James Shipp,39,F,La Molina,Medicina General,2024-08-17,179.41
+P1830,Beverly Files,19,,SJL,Medicina General,2022-04-19,149.93
+P1831,Kevin Garza,6,M,Surco,,2023-01-30,409.85
+P1832,Simon Rebick,1,M,Miraflores,NA,2022-05-16,405.11
+P1833,Danny Stoffel,10,,Miraflores,Medicina General,2023-12-12,257.23
+P1834,Troy Lee,89,NA,San Isidro,,2022-04-29,333.87
+P1835,Jewel Bryan,65,,Lince,Medicina General,2024-05-09,482.59
+P1836,Frances Deaner,5,F,Lince,Pediatría,2024-11-06,365.93
+P1837,Timothy Boshears,27,NA,Surco,Pediatría,2024-09-13,228.6
+P1838,Maria Busbee,18,,San Isidro,Medicina General,2024-04-30,456.21
+P1839,Gary Floyd,64,M,La Molina,Odontología,2023-06-13,214.83
+P1840,Donald Hollenbeck,59,F,Lince,Traumatología,2023-11-15,204.19
+P1841,Afton Harris,70,F,San Isidro,Pediatría,2024-10-20,406.16
+P1842,Howard Potter,76,NA,Comas,Odontología,2023-11-07,158.1
+P1843,Howard Aubrey,50,NA,San Isidro,Pediatría,2024-11-29,449.99
+P1844,Lydia Dunn,57,M,Miraflores,Cardiología,2022-01-22,412.92
+P1845,Valerie Strawn,53,NA,SJL,Medicina General,2023-08-04,213.93
+P1846,Robin Cherubino,17,M,Surco,Odontología,2023-02-03,189.86
+P1847,Anthony Padilla,14,NA,Lince,Cardiología,2022-10-14,373.18
+P1848,Lillie Case,26,M,Surco,Odontología,2022-07-23,226.14
+P1849,Jeanette Elias,63,F,Comas,Traumatología,2023-04-15,77.23
+P1850,Maxine Anderson,45,F,Lince,Pediatría,2022-07-31,428.77
+P1851,Joann Schott,57,F,La Molina,Cardiología,2023-04-04,420.24
+P1852,James Cook,45,M,La Molina,Pediatría,2023-09-12,370.21
+P1853,David Counterman,90,,San Isidro,Odontología,2023-11-27,293.27
+P1854,Regan Dziuba,44,F,Surco,NA,2024-04-12,91.56
+P1855,Frank Gooden,42,,SJL,Pediatría,2023-09-22,154.19
+P1856,Erica Murillo,44,,Lince,Traumatología,2023-03-28,397.06
+P1857,Robert Johnson,92,,SJL,NA,2022-04-22,406.19
+P1858,Jeremy Keith,27,M,Lince,Medicina General,2022-09-16,289.0
+P1859,Karen Shumay,87,F,San Isidro,Traumatología,2024-03-06,143.27
+P1860,Spencer Andrade,49,NA,Miraflores,Medicina General,2023-09-13,492.74
+P1861,Margie Olivia,19,NA,Comas,Cardiología,2023-05-10,175.65
+P1862,Leland Lam,6,F,Surco,NA,2024-06-02,286.86
+P1863,Matthew Katz,81,NA,La Molina,Pediatría,2024-03-04,489.66
+P1864,Bernard Mckenzie,35,NA,San Isidro,,2023-04-21,343.93
+P1865,Dexter Turner,16,,San Isidro,,2022-05-04,470.14
+P1866,Pamela Alvis,26,F,La Molina,Medicina General,2022-05-10,172.93
+P1867,Mary Wood,20,F,Surco,NA,2024-06-14,362.56
+P1868,Anne Nally,61,,San Isidro,,2024-10-03,188.69
+P1869,Wallace Joyner,59,,La Molina,Cardiología,2023-12-24,295.04
+P1870,Emelina Lowe,17,NA,La Molina,Traumatología,2022-12-19,160.46
+P1871,Robert Barrera,63,F,Lince,Cardiología,2024-10-08,345.99
+P1872,Elizabeth Feaster,27,,San Isidro,Odontología,2024-08-02,111.94
+P1873,Marquis Montoya,29,M,Surco,Odontología,2024-08-31,124.42
+P1874,Shannon Ferguson,91,F,SJL,Medicina General,2022-03-01,493.45
+P1875,Krista Mcdonald,24,NA,San Isidro,Pediatría,2022-11-27,272.14
+P1876,Otis Blacklock,44,F,Surco,NA,2022-10-21,422.32
+P1877,Ruby Peek,1,,Lince,Medicina General,2024-01-04,491.82
+P1878,Benjamin Fletcher,17,M,San Isidro,Traumatología,2022-08-31,273.64
+P1879,Mike Boyd,20,NA,Lince,Pediatría,2022-01-28,433.73
+P1880,John Bagg,5,,Surco,Pediatría,2023-12-28,455.87
+P1881,Norman Williams,1,NA,Miraflores,,2023-01-26,178.66
+P1882,Julie Bourget,93,NA,Surco,Medicina General,2024-08-05,362.13
+P1883,Michael Shamp,36,M,Comas,Cardiología,2024-06-05,205.95
+P1884,Kelvin Mihalik,92,NA,Lince,NA,2022-06-28,454.32
+P1885,Rex Koontz,60,F,La Molina,Odontología,2024-04-21,345.86
+P1886,Charles Juckett,42,F,Comas,Odontología,2022-11-03,110.47
+P1887,Nancy Biss,12,NA,Miraflores,,2023-06-12,480.09
+P1888,Dawn Dunlap,44,F,Surco,Medicina General,2022-04-07,386.76
+P1889,Erik Duren,47,M,La Molina,,2022-12-14,263.71
+P1890,Michael Olsen,79,NA,Miraflores,Cardiología,2022-11-12,483.97
+P1891,Shawn Powell,15,NA,SJL,NA,2023-01-08,103.47
+P1892,Stephen Boyd,88,F,Comas,,2023-07-21,282.16
+P1893,Tracy Cairns,66,M,Comas,Odontología,2022-11-12,296.17
+P1894,Katrina Tomlinson,59,M,SJL,Traumatología,2024-02-17,233.14
+P1895,Lois Dunn,58,F,Surco,Cardiología,2024-12-10,357.39
+P1896,Karen Roddy,7,F,Comas,Medicina General,2023-02-05,147.75
+P1897,Louis Andrews,1,M,SJL,,2024-09-19,357.59
+P1898,Wendy Rutter,50,NA,Surco,Medicina General,2024-10-25,56.63
+P1899,Patricia Hull,94,NA,San Isidro,,2023-11-14,477.31
+P1900,Ashley Thomas,60,F,Miraflores,Traumatología,2024-12-20,369.27
+P1901,Gladys Maze,40,NA,Miraflores,Cardiología,2024-03-02,394.99
+P1902,Gloria Michaux,67,,La Molina,Odontología,2023-04-21,434.41
+P1903,Ramon Guss,44,F,Lince,Cardiología,2022-02-12,369.45
+P1904,Dorothy Mcneil,81,NA,SJL,NA,2022-07-27,57.25
+P1905,Jessie Murray,76,M,Lince,,2022-01-09,338.04
+P1906,Sylvia Hernandez,46,F,Miraflores,Pediatría,2022-05-17,308.32
+P1907,Crystal Kowalski,29,F,San Isidro,Pediatría,2022-02-26,334.18
+P1908,Beatrice Worthington,61,,Surco,,2022-06-03,228.7
+P1909,Rachel Sosa,46,F,Lince,Odontología,2023-12-21,328.8
+P1910,Michael Snyder,56,M,La Molina,Pediatría,2022-04-20,92.65
+P1911,Ronald Krause,11,,Surco,Cardiología,2024-03-08,406.65
+P1912,Mary Cooke,32,,Comas,Odontología,2022-08-04,128.27
+P1913,Basil Hildreth,74,F,Surco,Odontología,2023-01-18,123.2
+P1914,Natosha Garcia,14,F,San Isidro,Pediatría,2022-05-15,227.72
+P1915,Natalie Wayne,22,F,SJL,NA,2024-10-17,312.13
+P1916,Arthur Thomas,6,M,Comas,,2023-11-24,202.98
+P1917,Alexis Hagan,4,NA,Comas,NA,2023-02-17,481.03
+P1918,Willie Carter,18,M,SJL,Traumatología,2023-03-17,245.24
+P1919,Susan Thomson,23,F,SJL,,2023-01-05,417.37
+P1920,Edna Neal,75,,SJL,Traumatología,2022-11-03,110.3
+P1921,Logan Parker,45,M,San Isidro,Traumatología,2024-09-14,56.9
+P1922,Crystal Carrillo,27,F,Surco,Medicina General,2022-01-04,470.82
+P1923,Rose Long,17,M,Miraflores,Medicina General,2024-01-17,279.4
+P1924,Thelma Keegan,17,M,Lince,NA,2024-01-10,196.3
+P1925,Sarah Jock,71,F,SJL,Cardiología,2023-06-20,370.82
+P1926,Ruth Williams,59,,Comas,,2024-10-13,207.04
+P1927,Amanda Bickers,58,NA,Miraflores,Pediatría,2023-05-11,191.35
+P1928,Allen Raby,8,M,Comas,Pediatría,2024-11-02,346.02
+P1929,Ann Martin,86,F,Lince,Medicina General,2022-11-03,463.48
+P1930,Kimberly Duran,48,F,Miraflores,Pediatría,2023-07-22,229.5
+P1931,Jose Delossantos,13,F,SJL,Traumatología,2022-03-16,354.99
+P1932,Wilma Mclarty,60,M,Surco,Medicina General,2024-02-26,245.89
+P1933,Lawrence Stansberry,38,,Comas,Traumatología,2023-10-01,415.19
+P1934,Brian Sandoval,47,,La Molina,Pediatría,2024-08-30,241.51
+P1935,Craig Stevens,50,,Miraflores,Pediatría,2022-10-29,272.36
+P1936,Jasmine Wilda,70,M,Lince,Cardiología,2023-01-18,212.88
+P1937,Jodi Edelson,75,F,San Isidro,Odontología,2022-05-25,374.87
+P1938,Brian Hamann,33,NA,La Molina,Pediatría,2022-12-10,436.94
+P1939,June Hicks,25,NA,La Molina,Traumatología,2023-09-28,247.17
+P1940,Denise Dunlap,33,F,Comas,Medicina General,2022-04-08,85.87
+P1941,Russell Larocco,94,NA,Lince,,2023-09-20,493.45
+P1942,Vernon Nelson,90,F,La Molina,Traumatología,2022-07-25,359.63
+P1943,Diane Dapolito,21,,San Isidro,NA,2024-12-05,229.2
+P1944,Jordan Ulrich,81,,SJL,Cardiología,2022-07-25,179.31
+P1945,Robert Medina,11,,Miraflores,Cardiología,2022-01-11,234.14
+P1946,Charles Lockley,93,M,Lince,Cardiología,2023-04-04,374.08
+P1947,Nellie Wilson,17,F,Lince,NA,2023-09-05,416.38
+P1948,Kimberly Dillahunt,9,NA,La Molina,Medicina General,2022-04-05,488.8
+P1949,Yolanda Osborn,57,F,Comas,Odontología,2024-08-07,123.72
+P1950,Bryan Gilmore,89,NA,SJL,Odontología,2024-05-06,377.14
+P1951,Mary Cunningham,31,NA,San Isidro,Medicina General,2022-05-24,189.64
+P1952,David Tinsley,91,M,SJL,Medicina General,2022-09-16,295.79
+P1953,Keith Henry,21,,Comas,,2024-01-07,403.56
+P1954,James Reynolds,44,NA,La Molina,Pediatría,2023-08-02,243.18
+P1955,Rachel Meyers,51,F,Comas,Pediatría,2024-10-21,165.31
+P1956,Flossie Robinson,90,,La Molina,,2022-08-12,294.7
+P1957,Anna Johns,35,NA,La Molina,NA,2024-07-29,453.05
+P1958,Lana Doherty,91,NA,SJL,Traumatología,2023-01-19,392.66
+P1959,Joseph Gardner,14,F,Lince,Pediatría,2023-11-10,368.17
+P1960,Kevin Dunbar,50,M,Lince,,2024-08-09,310.45
+P1961,Bobby Jiggetts,71,M,Miraflores,Odontología,2023-08-09,56.17
+P1962,Amelia Miller,93,,Miraflores,,2023-05-18,393.91
+P1963,Samantha Sides,36,M,Miraflores,NA,2023-12-03,477.49
+P1964,Curtis Santiago,38,F,Miraflores,Cardiología,2022-11-27,149.94
+P1965,Anamaria Trapani,81,M,Surco,Traumatología,2023-11-14,246.66
+P1966,Andrew Sanders,86,M,Miraflores,NA,2024-06-09,114.21
+P1967,Jessie Walker,76,NA,La Molina,Traumatología,2022-03-20,223.13
+P1968,Lee Maldonado,23,F,San Isidro,Odontología,2022-05-24,68.47
+P1969,Philip Pollman,6,,San Isidro,Medicina General,2022-03-29,132.32
+P1970,Nicole Martine,23,F,Lince,,2022-08-07,451.09
+P1971,Walter Gay,18,M,Lince,Cardiología,2024-05-27,182.08
+P1972,Thelma Pollack,68,F,Miraflores,Cardiología,2023-08-16,394.39
+P1973,Barbara Newell,73,,Surco,Cardiología,2022-11-29,128.35
+P1974,David Jones,54,,Lince,,2022-06-04,71.22
+P1975,Sharon Case,76,,SJL,,2023-07-04,332.28
+P1976,Altagracia Barber,48,F,Comas,,2022-09-03,353.79
+P1977,Justin Eubanks,44,,Lince,Pediatría,2022-06-30,323.53
+P1978,John Kyle,72,NA,Comas,Pediatría,2024-07-18,347.92
+P1979,Michael Graham,77,F,Lince,Traumatología,2022-09-19,104.76
+P1980,Ronald Sodomka,40,NA,Lince,Cardiología,2023-07-31,99.71
+P1981,April Montgomery,63,F,La Molina,Medicina General,2022-12-29,435.38
+P1982,Samuel Fletcher,53,M,Surco,Cardiología,2023-04-03,423.06
+P1983,Patricia Witherspoon,93,F,Lince,Pediatría,2022-07-14,155.49
+P1984,Kelly Meyer,59,M,SJL,,2022-03-25,219.86
+P1985,Betty Rice,36,,Surco,Medicina General,2023-08-08,67.19
+P1986,Rachel Baker,22,F,La Molina,Pediatría,2023-04-23,324.41
+P1987,Briana Brown,55,NA,Miraflores,Pediatría,2024-07-12,436.46
+P1988,Jon Hanson,84,,Lince,Medicina General,2023-07-09,294.26
+P1989,Richard Wissinger,5,NA,Miraflores,,2022-05-02,287.02
+P1990,Richard Byers,64,,La Molina,Odontología,2023-02-27,332.33
+P1991,Tyler Martinez,2,,Surco,Odontología,2024-11-22,489.08
+P1992,Rickie Simmering,73,F,San Isidro,NA,2023-04-29,241.18
+P1993,Minnie Miller,41,F,San Isidro,Cardiología,2024-02-04,249.93
+P1994,Marceline Tong,50,NA,Lince,Medicina General,2022-03-31,68.08
+P1995,Randy Bernd,45,F,Miraflores,,2024-12-23,321.52
+P1996,William Hoff,9,F,Comas,NA,2023-09-03,381.02
+P1997,Chester Diamond,61,,Comas,Odontología,2023-10-18,327.13
+P1998,Marsha Cameron,45,,Lince,Cardiología,2023-09-09,280.19
+P1999,Aaron Olmeda,83,M,La Molina,Medicina General,2022-09-04,383.52
+P2000,Danielle Gibson,48,,Surco,Odontología,2022-12-03,355.73
+P2001,Karen Leach,45,NA,Surco,Pediatría,2023-12-29,217.2
+P2002,Justin Scott,37,F,San Isidro,Pediatría,2023-04-26,231.63
+P2003,Richard Durkin,57,F,Miraflores,Odontología,2024-06-24,135.92
+P2004,Gerald Cassidy,46,M,Surco,Medicina General,2023-02-27,219.21
+P2005,Jackie Macpherson,69,M,La Molina,Traumatología,2022-06-01,470.52
+P2006,Nadine Parenteau,7,M,Lince,NA,2024-05-28,382.02
+P2007,Shannon Kline,52,F,San Isidro,Cardiología,2022-03-09,497.21
+P2008,Thomas Johnson,59,M,Comas,Pediatría,2024-03-19,344.25
+P2009,Jerome Wing,76,M,San Isidro,Traumatología,2023-09-09,441.35
+P2010,Dennis Chisam,46,,Lince,Cardiología,2023-02-18,387.42
+P2011,Mark Dangelo,9,M,Lince,Traumatología,2023-02-21,271.07
+P2012,Karen Solano,91,NA,San Isidro,NA,2024-09-03,431.63
+P2013,Eugene Kelsey,41,,Comas,Odontología,2023-10-05,404.96
+P2014,Nell Rucker,84,M,SJL,Cardiología,2022-02-05,66.27
+P2015,Karina Wissmann,29,F,Miraflores,,2023-11-01,297.39
+P2016,Rachel Harper,85,M,Miraflores,NA,2024-04-23,191.75
+P2017,Philip Cronin,64,F,San Isidro,NA,2024-11-30,413.18
+P2018,Sheryl Smith,91,M,Miraflores,,2022-07-14,242.16
+P2019,Cynthia Hill,88,,Miraflores,Cardiología,2023-12-12,217.92
+P2020,Thomas Box,9,,Comas,Traumatología,2023-11-03,316.1
+P2021,Glen Robirds,93,,Miraflores,Traumatología,2024-02-16,347.25
+P2022,Kathryn Ransdell,3,,Lince,NA,2023-04-24,239.17
+P2023,Woodrow Cathey,76,M,Comas,NA,2023-03-09,388.5
+P2024,Julie Ostrzyeki,86,F,SJL,Medicina General,2024-01-17,366.46
+P2025,Wesley Flowers,92,NA,Comas,Traumatología,2022-02-25,67.7
+P2026,Jessica Hill,56,M,Miraflores,,2023-07-22,82.89
+P2027,Jimmy Capo,85,NA,Comas,Pediatría,2024-10-25,195.43
+P2028,Terri Helt,28,NA,La Molina,,2022-02-06,374.09
+P2029,Mary Roman,69,M,SJL,Cardiología,2024-11-11,455.96
+P2030,Juan Simmons,28,,SJL,Medicina General,2022-08-28,228.26
+P2031,Jacob Stephens,38,NA,Surco,Odontología,2023-01-22,424.17
+P2032,David Davidson,86,,Surco,Odontología,2024-08-13,344.78
+P2033,Fredrick Kuhn,34,F,Lince,Cardiología,2022-01-10,322.48
+P2034,Kenneth Kimble,37,M,La Molina,Odontología,2023-03-04,298.91
+P2035,Dianna Rich,11,,La Molina,NA,2022-12-13,54.22
+P2036,Jill Real,41,NA,Comas,Odontología,2023-01-04,149.37
+P2037,Alfred Kelly,41,F,Miraflores,NA,2022-07-22,164.2
+P2038,Janet Brown,38,NA,Surco,,2023-02-06,94.54
+P2039,Jennifer Cohen,46,F,Surco,Odontología,2023-09-23,56.01
+P2040,Ira Milligan,35,NA,Miraflores,NA,2022-06-11,414.57
+P2041,Robin Coleman,3,,Surco,Traumatología,2024-12-10,289.88
+P2042,Melissa Gideon,20,F,SJL,Odontología,2022-12-07,131.36
+P2043,Brian Lippincott,34,NA,Comas,,2023-08-12,51.92
+P2044,Amy Mccarver,20,M,La Molina,NA,2023-03-07,66.81
+P2045,Sean Siegel,58,M,La Molina,Medicina General,2024-06-01,345.66
+P2046,Elizabeth Hall,65,,La Molina,Odontología,2024-12-17,446.52
+P2047,Jodi Hernandez,54,,Miraflores,Medicina General,2022-02-11,307.42
+P2048,Pamela Archuleta,37,F,Miraflores,Odontología,2024-07-29,334.67
+P2049,George Mittman,52,F,La Molina,,2022-08-20,432.57
+P2050,Randolph Culp,87,NA,Surco,Traumatología,2024-05-13,89.04
+P2051,Richard Benton,1,NA,Lince,Odontología,2022-04-14,370.2
+P2052,Gabriel Davis,93,NA,Surco,Cardiología,2022-08-26,499.64
+P2053,David Steinberg,85,,Comas,Pediatría,2023-06-03,86.29
+P2054,Steven Thompson,77,M,SJL,Traumatología,2023-09-17,182.57
+P2055,Carmine Badgett,72,M,La Molina,Cardiología,2022-10-25,323.71
+P2056,Jennifer Mohan,6,F,Miraflores,,2022-08-12,162.03
+P2057,Jimmy Damico,90,F,Surco,Pediatría,2024-01-02,119.83
+P2058,Mitchell Rowland,58,,Surco,NA,2024-03-17,423.02
+P2059,Daniel Phillips,57,,La Molina,Medicina General,2024-02-01,155.23
+P2060,Susan Moscowitz,15,,Lince,Cardiología,2023-04-15,385.48
+P2061,James Wilson,66,F,Surco,Pediatría,2024-03-05,103.99
+P2062,Tammy Levine,85,F,San Isidro,Odontología,2022-04-20,353.72
+P2063,Nathaniel Garrett,10,NA,San Isidro,Traumatología,2024-11-27,241.58
+P2064,Mary Downs,68,NA,Miraflores,,2024-04-01,327.4
+P2065,Mary Noggle,34,M,SJL,Medicina General,2024-07-01,110.37
+P2066,Seth Whitehead,40,M,Surco,Traumatología,2023-07-13,179.11
+P2067,Teddy Willy,74,,SJL,,2024-03-08,428.8
+P2068,Carla Mcmasters,67,F,Lince,Medicina General,2023-08-18,447.3
+P2069,Marian Hughes,42,F,Surco,Pediatría,2022-09-06,158.1
+P2070,Sara Arostegui,16,F,Lince,,2024-03-07,165.56
+P2071,Phillis Hart,73,,La Molina,Traumatología,2024-04-10,265.6
+P2072,Timothy Henson,51,NA,San Isidro,Pediatría,2023-05-18,237.06
+P2073,Tina Lunsford,59,M,Miraflores,Pediatría,2022-07-06,217.42
+P2074,Charles Harris,76,M,Surco,Cardiología,2023-10-01,460.26
+P2075,William Watson,24,F,Comas,NA,2023-06-24,415.59
+P2076,Dale Eaker,16,F,SJL,Odontología,2022-12-13,329.76
+P2077,Emilia Miller,87,M,Comas,NA,2024-03-10,416.95
+P2078,Thomas Haymond,13,F,Comas,Cardiología,2022-03-25,327.36
+P2079,Tommie Drey,21,NA,Comas,Pediatría,2022-07-11,445.0
+P2080,Meredith Prentice,20,F,Surco,Traumatología,2023-06-02,332.71
+P2081,Robert Tejada,57,F,San Isidro,Medicina General,2024-07-17,260.94
+P2082,Tara Orwig,70,F,Lince,Traumatología,2023-12-28,374.59
+P2083,Linda Clark,76,NA,Surco,Odontología,2023-09-12,203.78
+P2084,Jeffrey Diaz,19,,Lince,Traumatología,2023-11-03,242.38
+P2085,Kurt Knight,18,,La Molina,Cardiología,2024-10-28,261.31
+P2086,Alana Langford,66,F,Lince,Cardiología,2022-08-06,276.11
+P2087,Sarah Grooms,43,NA,Comas,Odontología,2023-12-30,115.18
+P2088,Stacey Moore,10,,San Isidro,Medicina General,2023-08-30,354.69
+P2089,Charlotte Stevenson,36,,Comas,Cardiología,2024-11-23,448.12
+P2090,Ray Toney,28,,Lince,Medicina General,2022-04-13,130.87
+P2091,Ronnie Olsen,37,F,Miraflores,Cardiología,2023-06-11,237.39
+P2092,Frances Smith,8,F,Miraflores,Traumatología,2024-04-21,53.82
+P2093,Jennifer Mayes,86,M,Surco,NA,2024-02-07,142.86
+P2094,Jesus Peterson,22,NA,Miraflores,Cardiología,2023-10-19,312.66
+P2095,Terri Ketchum,28,NA,La Molina,Traumatología,2024-05-07,91.12
+P2096,Michael Macfarlane,4,F,Miraflores,Medicina General,2022-03-16,469.43
+P2097,Mary Lee,83,M,La Molina,Medicina General,2024-07-01,484.28
+P2098,Diane Neace,6,,Comas,Medicina General,2023-06-30,361.19
+P2099,Wendy Moore,92,,Miraflores,Medicina General,2023-03-06,330.16
+P2100,Elvira Johnson,90,M,Comas,,2024-12-23,276.61
+P2101,Victoria Bush,87,,Miraflores,Pediatría,2023-02-19,203.98
+P2102,Thelma King,19,NA,La Molina,Odontología,2022-03-22,348.89
+P2103,Penny Burnham,3,M,La Molina,NA,2024-05-18,466.7
+P2104,Russell Swenson,66,M,San Isidro,Pediatría,2023-09-03,139.43
+P2105,Alvin Baker,59,F,Comas,Traumatología,2024-12-16,221.51
+P2106,Maribel Greiner,43,M,Surco,,2023-06-02,373.49
+P2107,Patricia Mouser,43,,La Molina,Cardiología,2024-03-20,452.41
+P2108,Jean Higginson,54,M,Lince,,2022-01-15,67.55
+P2109,Seth Lopez,4,NA,La Molina,NA,2022-12-16,66.74
+P2110,Alice Frohman,70,,Surco,Pediatría,2024-02-04,386.5
+P2111,Sandra Payne,76,NA,San Isidro,Odontología,2022-02-22,340.48
+P2112,Mary Fraise,7,NA,SJL,NA,2023-06-24,245.27
+P2113,Carol Willis,70,F,Lince,Medicina General,2022-05-23,405.7
+P2114,Frances Hall,55,M,La Molina,,2023-03-21,181.55
+P2115,Patricia Bohnet,74,F,San Isidro,Pediatría,2022-09-02,305.75
+P2116,James Schulz,83,F,Miraflores,Odontología,2023-05-19,209.7
+P2117,John Knowlton,5,NA,Surco,Odontología,2024-09-16,496.73
+P2118,Terrance Young,66,F,SJL,Pediatría,2024-02-02,311.38
+P2119,Denise Logan,54,M,San Isidro,Pediatría,2022-06-08,309.42
+P2120,Diana Casey,95,M,San Isidro,,2022-10-31,238.79
+P2121,Todd Mccully,37,M,San Isidro,Cardiología,2024-04-24,411.93
+P2122,Roseann Good,58,,Comas,NA,2024-07-13,438.32
+P2123,Tiffany Shyne,50,F,SJL,Odontología,2024-03-30,316.66
+P2124,Bette Boulware,21,F,La Molina,Traumatología,2022-05-24,216.91
+P2125,Gertrude Ray,86,NA,Comas,Pediatría,2023-10-15,278.23
+P2126,Sandra Zien,1,M,SJL,Traumatología,2022-06-19,470.01
+P2127,Darlene Padilla,56,,Comas,Pediatría,2023-06-10,90.65
+P2128,Regina Day,84,NA,La Molina,Odontología,2023-12-25,243.85
+P2129,Andre Shankle,36,F,Comas,Traumatología,2024-03-04,102.17
+P2130,Alyson Sexton,19,,Miraflores,Pediatría,2022-12-28,66.93
+P2131,Michelle Wilson,32,NA,Surco,Medicina General,2024-07-15,123.77
+P2132,Nancy Bustillos,4,F,Lince,,2024-09-22,243.95
+P2133,David Ott,4,F,Surco,NA,2023-08-20,114.18
+P2134,Robert Westrom,92,NA,SJL,NA,2023-10-10,62.98
+P2135,Jeffery Wilson,13,NA,Miraflores,Odontología,2024-04-21,132.66
+P2136,Rachel Bradley,22,,SJL,Pediatría,2022-04-15,345.93
+P2137,Marvin Salcedo,23,M,Surco,Pediatría,2023-10-02,404.22
+P2138,Eunice Strohm,6,,Comas,Cardiología,2024-08-10,329.51
+P2139,Bill Dixon,1,NA,SJL,Traumatología,2024-07-26,119.44
+P2140,Brian Stockburger,94,,SJL,Traumatología,2023-02-15,281.58
+P2141,Willie Baker,34,M,SJL,Pediatría,2024-06-25,152.07
+P2142,Teresa Hanson,8,,Comas,Pediatría,2024-02-10,175.16
+P2143,Jason Krohn,95,,La Molina,,2023-11-24,285.66
+P2144,Eric Pavick,22,M,Lince,Cardiología,2023-02-16,391.22
+P2145,John Johnson,20,,Surco,NA,2024-03-31,125.3
+P2146,Henry Kaman,85,,Lince,Odontología,2023-08-22,252.11
+P2147,Dave Jordon,2,F,La Molina,,2023-09-03,132.21
+P2148,Cameron Davis,49,F,Lince,Odontología,2023-03-02,359.91
+P2149,Daniel Beyah,56,NA,Lince,Cardiología,2023-02-07,100.72
+P2150,Robert Michaels,55,NA,SJL,Pediatría,2023-01-20,210.94
+P2151,Jeffrey Lawton,84,NA,Miraflores,Traumatología,2024-04-06,172.8
+P2152,Donald Brown,24,F,La Molina,Medicina General,2023-06-15,169.13
+P2153,Benjamin Stewart,69,F,Miraflores,Odontología,2023-05-21,50.18
+P2154,Ismael Pittman,39,,La Molina,Medicina General,2024-10-27,278.83
+P2155,Daniel Bettis,64,F,Surco,,2024-06-24,287.29
+P2156,Michael Cotto,91,,Comas,Traumatología,2022-05-26,315.96
+P2157,Ebony Marshall,33,F,Lince,Pediatría,2022-03-04,448.22
+P2158,Glenn Jones,33,NA,Miraflores,Pediatría,2022-09-12,184.32
+P2159,Holly Brooks,16,,San Isidro,Pediatría,2024-02-13,154.75
+P2160,Rhonda Sams,61,M,La Molina,Pediatría,2024-06-03,92.64
+P2161,Rex Harris,82,NA,Comas,Odontología,2022-09-22,70.46
+P2162,Kelly White,86,M,Comas,Cardiología,2022-07-02,438.57
+P2163,Roberta Figueroa,8,,Miraflores,,2024-01-23,451.02
+P2164,Steven Fisher,92,F,La Molina,,2022-08-19,70.33
+P2165,Helen Jackson,86,M,San Isidro,Odontología,2024-03-06,343.13
+P2166,Gerald Rayborn,71,,Surco,Traumatología,2024-01-31,325.46
+P2167,Ted Allen,8,M,La Molina,Pediatría,2022-08-26,81.04
+P2168,Barbara Komp,76,F,SJL,NA,2023-08-29,283.75
+P2169,Michael Frazier,63,F,Miraflores,NA,2023-04-11,270.77
+P2170,Keith Dalrymple,88,NA,Lince,Cardiología,2022-06-13,383.98
+P2171,Cecil Macgregor,67,F,San Isidro,Odontología,2024-08-22,453.51
+P2172,Thomas Minter,41,NA,Surco,Pediatría,2022-08-03,259.45
+P2173,Andrea Lawson,13,,San Isidro,Pediatría,2024-01-06,254.67
+P2174,Gary Pennell,76,,La Molina,Traumatología,2023-05-27,211.3
+P2175,Stephen Ament,82,,SJL,Pediatría,2023-06-23,135.63
+P2176,Joanne Locke,38,NA,Lince,Traumatología,2024-05-28,460.47
+P2177,Kris Creed,26,,La Molina,Cardiología,2023-08-30,373.81
+P2178,Gloria Hobbs,89,F,Lince,,2022-03-02,191.26
+P2179,Derrick Liptrot,82,NA,SJL,Cardiología,2023-05-29,123.51
+P2180,Josephine Thatcher,31,,La Molina,Pediatría,2022-06-06,132.79
+P2181,Loren Smiley,67,NA,Miraflores,Pediatría,2023-07-13,76.58
+P2182,Carla Gardner,38,NA,Surco,Traumatología,2022-12-25,333.01
+P2183,Edward Wright,42,,Surco,Traumatología,2023-04-21,336.61
+P2184,Anne Vildosola,41,M,Comas,,2023-08-16,196.8
+P2185,Mary Mchugh,5,M,Miraflores,NA,2024-12-09,102.34
+P2186,Margie Horton,63,NA,San Isidro,Cardiología,2022-11-16,214.6
+P2187,Deborah Traughber,6,NA,Surco,Traumatología,2022-01-27,408.17
+P2188,Rhoda Harrison,1,M,Miraflores,Odontología,2024-12-04,445.79
+P2189,Morris Perry,87,F,La Molina,Cardiología,2024-11-01,348.0
+P2190,Ann Jeffries,62,NA,San Isidro,Pediatría,2022-05-17,225.33
+P2191,Michael Eastland,71,F,San Isidro,NA,2022-06-06,342.74
+P2192,Victoria Williamson,95,,Comas,Medicina General,2024-09-05,375.42
+P2193,Melissa Posey,48,NA,La Molina,Traumatología,2022-04-08,334.11
+P2194,Dessie Furst,24,NA,Surco,NA,2023-02-22,159.72
+P2195,Matthew Rinks,88,M,Comas,Medicina General,2023-08-19,146.91
+P2196,Jonathon Rice,49,M,Lince,Cardiología,2023-12-08,424.26
+P2197,Robert Kelly,45,M,San Isidro,Cardiología,2023-02-10,381.19
+P2198,Allen Burt,80,NA,SJL,Odontología,2022-12-29,268.7
+P2199,Earnestine Bui,73,NA,Surco,Pediatría,2024-05-30,290.77
+P2200,David Jackson,14,M,La Molina,Cardiología,2022-05-09,284.14
+P2201,Anne Brown,75,F,San Isidro,Pediatría,2022-04-04,130.83
+P2202,Mary Link,45,F,Miraflores,Odontología,2022-12-30,446.08
+P2203,Mila Johnson,87,,SJL,Odontología,2022-03-31,409.37
+P2204,Kris Earl,64,NA,Miraflores,,2024-09-29,278.89
+P2205,William Lee,78,F,SJL,Cardiología,2023-02-04,166.73
+P2206,Kim Kang,84,NA,Lince,NA,2022-01-05,111.42
+P2207,Irene Rayburn,79,M,San Isidro,Cardiología,2024-06-12,316.92
+P2208,Kelly Moulton,93,F,Lince,,2024-02-29,409.34
+P2209,Eliseo Schlaefli,82,M,Lince,Odontología,2022-09-08,211.14
+P2210,Susan Burch,52,,Lince,Medicina General,2022-03-22,318.95
+P2211,Anna Siske,43,,San Isidro,,2023-05-11,444.16
+P2212,Luis Fralin,71,NA,Surco,Cardiología,2024-05-29,146.5
+P2213,David Sanchez,76,F,Comas,NA,2023-09-21,348.29
+P2214,Darlene Simm,31,,La Molina,Medicina General,2024-02-14,378.66
+P2215,Carmela Wyatt,29,M,Comas,Medicina General,2023-02-08,415.03
+P2216,Juan Eddy,9,NA,SJL,Odontología,2022-12-12,151.94
+P2217,Lorene Koral,42,M,Comas,NA,2023-09-05,257.36
+P2218,Christopher Hayter,60,F,Comas,Odontología,2023-01-04,377.99
+P2219,Brian Romney,60,NA,Miraflores,Traumatología,2022-02-28,453.14
+P2220,Aimee Meyer,82,,Lince,Odontología,2023-02-07,415.31
+P2221,Cheryl Dorfman,28,NA,Lince,NA,2023-03-08,320.5
+P2222,Carl Papenfuss,13,,La Molina,Odontología,2023-03-04,258.48
+P2223,Effie Lewis,5,M,San Isidro,Odontología,2024-01-24,230.12
+P2224,David Rodriguez,1,,Miraflores,Medicina General,2023-02-11,493.1
+P2225,Jesse Schafer,67,,Comas,Pediatría,2023-01-01,210.06
+P2226,Jeremy Epps,92,NA,Lince,,2024-09-09,89.43
+P2227,Patsy Horning,10,F,Comas,Medicina General,2024-01-19,434.36
+P2228,John Picking,61,M,La Molina,Odontología,2022-03-28,122.96
+P2229,Jack Sherman,28,,Miraflores,,2022-05-25,309.31
+P2230,Kimberly Espinoza,82,F,Comas,Pediatría,2024-10-26,398.14
+P2231,Michael Goodwin,3,NA,Surco,Pediatría,2023-06-29,150.38
+P2232,Douglas Romiro,5,NA,Comas,Pediatría,2024-04-18,251.18
+P2233,Michael Burnette,72,NA,La Molina,Medicina General,2024-01-07,451.09
+P2234,Dane Gonzalez,27,F,La Molina,NA,2022-03-17,165.17
+P2235,Peter Bormann,16,M,SJL,Pediatría,2023-04-07,86.47
+P2236,Mary Thomas,63,,Surco,Cardiología,2023-03-27,290.7
+P2237,Shawn Schroer,66,M,SJL,Cardiología,2022-06-30,349.14
+P2238,Madeline Simons,91,,Surco,NA,2022-12-19,317.12
+P2239,David Renteria,2,,La Molina,Medicina General,2024-04-27,51.99
+P2240,Sandra Grise,74,NA,Surco,NA,2023-12-02,135.88
+P2241,Mindy Ward,17,F,Lince,Traumatología,2023-05-29,174.97
+P2242,Ronald Davis,73,F,SJL,Odontología,2024-04-19,439.66
+P2243,Judi Thompson,61,F,Surco,Traumatología,2024-09-17,206.66
+P2244,Stephen Hughes,56,M,SJL,Traumatología,2022-11-06,276.92
+P2245,Judy Svoboda,17,F,SJL,,2023-01-12,498.03
+P2246,Joseph Lockett,15,M,La Molina,NA,2023-06-06,61.23
+P2247,Christopher Sanchez,19,NA,Surco,NA,2023-12-03,258.31
+P2248,Darrell Seley,74,F,La Molina,NA,2022-11-04,496.07
+P2249,John Dent,18,F,San Isidro,,2024-04-23,68.98
+P2250,Mark Buehlman,53,NA,Lince,NA,2023-05-19,230.52
+P2251,Helen Davis,68,,Lince,Pediatría,2023-02-05,390.05
+P2252,Donald Ortega,95,F,Surco,Pediatría,2022-06-27,237.37
+P2253,Leonard Gonzales,10,NA,Miraflores,Medicina General,2022-09-15,187.67
+P2254,Yolanda Cervantes,4,,Miraflores,Pediatría,2022-10-17,260.75
+P2255,Wendy Elliott,19,,Lince,Odontología,2024-12-25,57.94
+P2256,Jose Mccracken,89,F,La Molina,Traumatología,2024-05-24,362.52
+P2257,Velma Davis,9,F,Lince,Pediatría,2024-01-17,430.82
+P2258,Christopher Jones,15,F,Miraflores,Cardiología,2022-08-21,129.21
+P2259,Tawanda Kress,24,NA,Miraflores,Odontología,2024-05-23,454.81
+P2260,Mark Sizemore,82,NA,La Molina,Traumatología,2022-09-03,459.41
+P2261,Robert Peppers,91,,SJL,,2023-03-08,488.95
+P2262,William Renfroe,25,,Lince,NA,2024-06-22,358.7
+P2263,Jacob Hughes,31,,San Isidro,Pediatría,2023-09-18,174.49
+P2264,Paul Balboa,5,M,Miraflores,NA,2024-04-02,356.77
+P2265,Sebrina Mcduffy,94,NA,Lince,Traumatología,2024-05-28,356.86
+P2266,Doug Pierro,29,M,Surco,Odontología,2024-08-08,338.09
+P2267,David Carter,51,M,San Isidro,Odontología,2023-12-13,246.75
+P2268,Joaquina Renfro,86,,SJL,Traumatología,2022-03-10,428.05
+P2269,Gregorio Ortega,74,,La Molina,Pediatría,2024-01-29,317.44
+P2270,Linda Koster,31,,Surco,Odontología,2024-10-04,484.6
+P2271,James Butler,86,NA,La Molina,,2022-06-10,330.99
+P2272,Floyd Rudolph,94,NA,La Molina,Cardiología,2022-09-05,383.66
+P2273,Morris Parks,38,F,Surco,Pediatría,2022-03-24,222.66
+P2274,Clark Meachum,53,M,Miraflores,,2024-04-27,384.47
+P2275,William Watts,63,M,Lince,Medicina General,2022-01-25,489.06
+P2276,Debbie Willis,5,F,Miraflores,Pediatría,2022-03-28,111.01
+P2277,Susan Bonnell,81,M,Surco,Traumatología,2024-07-09,462.72
+P2278,Sergio Gazaille,29,F,La Molina,NA,2022-05-07,319.05
+P2279,Joseph Lopez,12,F,Comas,NA,2023-10-31,295.37
+P2280,Michelle Nielsen,58,NA,Miraflores,Odontología,2022-10-20,380.71
+P2281,Jane Ball,50,,Comas,Traumatología,2023-04-27,465.68
+P2282,Lola Jones,60,F,La Molina,Traumatología,2024-07-02,208.76
+P2283,Patsy Wortman,11,F,Surco,Cardiología,2023-11-25,57.13
+P2284,Robert Ellington,72,NA,Comas,NA,2022-08-22,392.93
+P2285,Janet Horner,65,M,SJL,Medicina General,2024-04-10,338.2
+P2286,Joshua Hart,70,NA,Lince,Pediatría,2022-12-21,419.92
+P2287,Frederick Hampton,75,F,La Molina,Traumatología,2022-02-21,343.32
+P2288,Vera Arnold,7,NA,La Molina,,2023-10-31,140.04
+P2289,Mark Corporan,17,NA,Miraflores,Traumatología,2024-11-27,463.52
+P2290,Charles Dean,81,NA,SJL,Traumatología,2024-04-22,162.04
+P2291,Barbara Quiroz,80,NA,Comas,Odontología,2022-09-14,415.39
+P2292,Cheryl Zarrella,71,M,La Molina,NA,2024-08-11,216.09
+P2293,Stacey Riedel,5,NA,SJL,Cardiología,2024-07-05,202.44
+P2294,Keith Navor,54,M,Lince,NA,2022-09-10,311.65
+P2295,Phillip Porras,58,,San Isidro,Cardiología,2024-04-01,277.25
+P2296,Alvin Bienfang,94,M,Lince,Traumatología,2023-05-08,276.43
+P2297,Verna Mcgee,38,F,San Isidro,Pediatría,2022-12-26,494.71
+P2298,Don Dalessandro,35,NA,Lince,NA,2023-10-19,64.29
+P2299,Kevin Welch,5,M,San Isidro,Medicina General,2022-06-28,132.1
+P2300,Matthew Granville,44,NA,Comas,Cardiología,2022-09-14,495.68
+P2301,Jeannie Nesbit,48,F,La Molina,Pediatría,2022-10-21,182.33
+P2302,Ernest Jones,59,M,Comas,Pediatría,2024-03-25,465.61
+P2303,Roger Lathan,27,M,La Molina,Odontología,2023-08-10,163.95
+P2304,Kelli Bennett,87,,Miraflores,NA,2022-11-21,111.45
+P2305,Timothy Huff,15,NA,Miraflores,Pediatría,2022-11-24,69.15
+P2306,David Palos,67,,Surco,Pediatría,2023-01-04,110.08
+P2307,Peter Cole,16,M,La Molina,,2022-12-20,223.07
+P2308,Joanna Hyldahl,39,M,Lince,Medicina General,2022-05-07,486.73
+P2309,Andrew Moton,55,M,Lince,Medicina General,2023-04-21,419.13
+P2310,Billy Weaver,6,M,SJL,NA,2024-08-22,375.96
+P2311,Robert Phillips,72,NA,La Molina,Cardiología,2022-02-19,250.12
+P2312,Donna Cordoba,12,,Miraflores,Cardiología,2024-04-07,346.8
+P2313,Ruben Butler,7,,Surco,Cardiología,2024-02-11,304.59
+P2314,Bradley Booth,77,NA,La Molina,Cardiología,2023-06-30,469.59
+P2315,Kent Patridge,48,F,San Isidro,Traumatología,2023-02-25,369.7
+P2316,Douglas Lincoln,7,NA,SJL,NA,2024-10-06,218.21
+P2317,Emilee Waters,42,,Miraflores,NA,2024-12-17,399.62
+P2318,James Rodriguez,36,M,Miraflores,Pediatría,2024-11-29,302.52
+P2319,Cathy Hyatt,93,F,Comas,Traumatología,2022-03-21,138.82
+P2320,Taylor Kelly,52,,Miraflores,Pediatría,2024-12-28,426.21
+P2321,Stella Jones,19,NA,SJL,,2022-11-09,339.23
+P2322,Maria Ryder,53,,Miraflores,Cardiología,2022-03-03,139.89
+P2323,Sheila Castillo,53,F,Lince,Medicina General,2022-04-09,290.08
+P2324,Tara Taylor,54,,Lince,Odontología,2024-02-22,183.2
+P2325,David Dittrick,23,NA,La Molina,,2022-06-01,428.97
+P2326,Maureen Dixon,16,F,Comas,Traumatología,2022-12-17,436.2
+P2327,Randall Clay,64,NA,Surco,,2023-04-08,198.36
+P2328,Teresa Arvesen,47,,Lince,,2023-03-04,175.23
+P2329,Emma Weber,23,,La Molina,Odontología,2024-10-14,60.7
+P2330,Wendy Brennan,55,NA,San Isidro,Medicina General,2023-07-14,408.37
+P2331,George Bradley,93,M,Miraflores,,2023-05-24,342.72
+P2332,Charlene Zahner,52,F,Lince,Cardiología,2024-09-29,489.07
+P2333,Michael Trinidad,60,,Comas,Traumatología,2022-07-28,355.56
+P2334,Kevin Coleman,56,,Comas,Traumatología,2023-09-28,273.98
+P2335,Dustin Edes,13,NA,Surco,,2024-02-08,497.2
+P2336,Arthur Grinstead,69,M,Comas,Pediatría,2024-05-31,410.18
+P2337,Walter Omalley,7,F,Comas,Medicina General,2024-11-01,73.19
+P2338,Mark Zappulla,1,M,Comas,Pediatría,2023-11-09,494.22
+P2339,Otis Baldrige,67,NA,San Isidro,Traumatología,2023-12-22,63.9
+P2340,Laverne Richards,90,NA,Lince,Odontología,2023-10-15,353.35
+P2341,Eugene Cooke,56,,San Isidro,NA,2023-06-26,377.67
+P2342,Gary Mcguire,25,F,Miraflores,NA,2024-11-28,369.62
+P2343,Wendy Ricard,81,,Lince,Medicina General,2023-08-02,485.23
+P2344,Gary Nocera,76,NA,San Isidro,Pediatría,2023-09-08,211.62
+P2345,Ronald Neely,75,NA,Miraflores,Pediatría,2022-03-10,448.44
+P2346,Jeffrey Montoya,1,NA,Comas,,2022-01-16,483.0
+P2347,Neil Kusel,24,NA,Surco,Pediatría,2024-10-10,130.53
+P2348,Ruth Dear,61,M,Miraflores,Traumatología,2024-09-10,202.06
+P2349,Margaret Nelson,57,NA,Surco,Pediatría,2024-11-19,304.6
+P2350,Roosevelt Mullen,42,F,Miraflores,Odontología,2023-08-15,325.6
+P2351,Norma Richards,5,F,Miraflores,Pediatría,2023-02-27,368.35
+P2352,Bobby Herrera,3,,Comas,Pediatría,2024-06-29,401.65
+P2353,Cheryl Broussard,49,NA,Surco,Medicina General,2023-06-04,91.39
+P2354,Rebeca Hocker,36,M,San Isidro,,2022-03-04,292.34
+P2355,Frank Henderson,94,F,Miraflores,Medicina General,2022-10-29,486.2
+P2356,Terri Youngdahl,46,NA,Surco,,2023-10-09,494.55
+P2357,Chad Soliz,44,M,Surco,Pediatría,2023-07-14,438.29
+P2358,Leon Huffman,4,NA,Lince,,2024-12-23,219.13
+P2359,Burton Garza,88,F,La Molina,Odontología,2022-06-26,55.07
+P2360,Kimberly Rangel,37,F,Miraflores,Traumatología,2022-11-15,381.57
+P2361,Robert Fink,4,,San Isidro,Pediatría,2023-05-06,421.17
+P2362,Stanley Green,31,,La Molina,,2024-12-12,359.67
+P2363,Samuel Crowe,26,M,La Molina,Odontología,2024-04-14,335.34
+P2364,John Pruitt,63,M,Miraflores,Odontología,2024-07-26,111.36
+P2365,Patrick Lazzara,64,,SJL,Odontología,2024-01-02,439.12
+P2366,Jason Kelly,51,M,Lince,NA,2024-08-11,84.23
+P2367,Raymon Mcqueen,47,,Miraflores,,2022-11-26,386.44
+P2368,Kevin Mclean,8,NA,La Molina,NA,2023-01-16,86.42
+P2369,Alicia Rangel,44,,La Molina,Traumatología,2024-09-04,94.03
+P2370,Adam Blanton,23,NA,Lince,Odontología,2023-08-30,278.73
+P2371,James Malinowski,52,,SJL,Pediatría,2023-05-01,240.03
+P2372,Reginald Jenkins,26,F,San Isidro,NA,2023-01-24,162.41
+P2373,Curtis Schmitt,10,M,Lince,Traumatología,2022-11-06,174.57
+P2374,David Fernendez,75,,Surco,Medicina General,2024-10-22,306.51
+P2375,Dewayne Garrison,43,NA,Surco,Odontología,2023-07-23,103.22
+P2376,Lillian Nolen,73,M,SJL,NA,2023-08-27,105.58
+P2377,Morris Barker,17,M,Lince,Medicina General,2023-12-18,75.46
+P2378,Linda Clark,52,,SJL,Odontología,2024-01-16,203.5
+P2379,Glenna Belvins,10,F,Surco,Traumatología,2024-09-20,96.22
+P2380,Marilyn Lay,84,NA,Lince,Cardiología,2022-06-23,403.91
+P2381,Ryan Wood,87,F,Miraflores,Medicina General,2024-04-01,404.7
+P2382,Nora Schulz,77,M,Lince,Medicina General,2022-10-30,131.23
+P2383,Marvin Naumann,51,,Miraflores,NA,2023-07-27,124.74
+P2384,Brett Gooden,22,F,Miraflores,NA,2024-09-12,459.65
+P2385,Lena Castillo,40,NA,Miraflores,NA,2024-04-13,339.98
+P2386,Laura Portillo,47,NA,San Isidro,Cardiología,2022-05-30,195.19
+P2387,Joseph Lyle,18,F,Lince,Cardiología,2024-02-12,271.72
+P2388,Mary England,56,NA,SJL,Pediatría,2022-09-11,340.14
+P2389,Amy Strawser,53,F,Comas,Medicina General,2023-07-19,73.41
+P2390,Peggy Fietek,58,,Comas,,2023-09-08,205.89
+P2391,Walter Maki,39,,Lince,Pediatría,2023-05-27,134.58
+P2392,Stephen Brooks,57,F,Lince,Odontología,2022-02-07,396.37
+P2393,John Anderson,52,F,SJL,Medicina General,2024-06-14,136.63
+P2394,William Anderson,84,NA,SJL,Odontología,2023-12-24,303.97
+P2395,Antonio Flaherty,92,M,San Isidro,Odontología,2022-07-05,442.87
+P2396,Jeremiah Scroggins,41,,La Molina,Traumatología,2024-05-27,98.35
+P2397,Anita Tongue,24,M,La Molina,Odontología,2024-09-16,416.64
+P2398,Lakesha Wright,2,F,Comas,NA,2022-06-20,360.73
+P2399,Stephanie Rviz,75,F,Surco,Pediatría,2024-08-09,133.38
+P2400,Janet Cook,82,NA,La Molina,Cardiología,2024-01-04,312.42
+P2401,Donald Costello,34,F,La Molina,Odontología,2022-04-26,128.55
+P2402,Nannette Malloy,84,,La Molina,Odontología,2024-07-29,423.75
+P2403,Robyn Wood,28,NA,Lince,NA,2022-12-22,200.86
+P2404,Daniel Brown,15,,Comas,Medicina General,2023-01-19,180.06
+P2405,Kathy Smith,7,F,Surco,NA,2024-12-28,248.72
+P2406,Roger Mcginley,90,,La Molina,Pediatría,2022-08-29,177.39
+P2407,Beverly Thomas,45,NA,La Molina,Odontología,2024-07-07,320.4
+P2408,Tony Zolezzi,57,,Comas,NA,2022-11-22,183.58
+P2409,Kurt Fleck,9,F,Miraflores,Cardiología,2024-01-23,208.78
+P2410,Alexander Thompson,48,,Comas,Cardiología,2024-02-05,223.05
+P2411,Adrian Rose,68,NA,San Isidro,NA,2024-08-11,315.37
+P2412,Edward Schulte,45,NA,SJL,Medicina General,2024-01-06,269.36
+P2413,Juan Christmas,52,,SJL,Odontología,2024-12-03,76.93
+P2414,Kenneth Roberts,28,M,San Isidro,Pediatría,2022-11-11,486.16
+P2415,William Anderson,82,NA,SJL,,2024-06-26,182.14
+P2416,Benjamin Cabiness,57,M,SJL,NA,2022-01-09,143.17
+P2417,Chad Thompson,36,NA,Lince,Odontología,2023-06-08,310.27
+P2418,James Paduano,85,,San Isidro,Traumatología,2023-05-10,305.54
+P2419,Jennie Brown,23,M,La Molina,Cardiología,2022-09-29,202.7
+P2420,Maureen Alexander,26,,Miraflores,NA,2023-01-08,193.44
+P2421,James Cubias,8,M,Lince,Cardiología,2023-11-13,197.33
+P2422,Lupita Boyd,67,,La Molina,Medicina General,2022-09-06,264.66
+P2423,Lawrence Montgomery,49,F,La Molina,NA,2024-08-13,110.84
+P2424,Michael Holley,58,M,Surco,Cardiología,2022-10-18,442.76
+P2425,Alison Murphy,7,M,Lince,Cardiología,2022-08-28,225.67
+P2426,Henry Bekis,49,NA,San Isidro,Cardiología,2024-08-27,133.43
+P2427,Amber Kell,9,F,Miraflores,Medicina General,2023-05-18,355.42
+P2428,Jessica Morris,64,M,San Isidro,NA,2022-03-03,115.6
+P2429,Edward Younglas,49,NA,Comas,Cardiología,2022-02-17,166.13
+P2430,Robin Mejia,34,F,SJL,,2024-02-07,340.37
+P2431,Bernice Titus,58,F,Comas,Pediatría,2022-03-04,137.55
+P2432,Frank Spearin,73,F,Surco,Traumatología,2023-04-24,425.06
+P2433,Carolyn Gaynor,69,,Comas,,2024-05-30,378.88
+P2434,Diana Willis,55,NA,Surco,Medicina General,2022-10-18,83.34
+P2435,Roberto Santoyo,55,,Miraflores,,2022-01-19,326.64
+P2436,Charles Perry,95,M,Surco,,2024-03-16,195.91
+P2437,David Lane,25,M,Comas,,2023-07-06,228.02
+P2438,Jean Martin,34,NA,Comas,Pediatría,2023-02-21,460.38
+P2439,Thomas Thompson,52,M,Comas,Cardiología,2023-04-06,142.61
+P2440,Lula Pontiff,4,F,SJL,Traumatología,2022-05-10,387.35
+P2441,Lawrence Babcock,60,NA,Comas,Pediatría,2024-07-05,107.74
+P2442,Stephanie Church,71,M,Comas,Medicina General,2023-12-15,54.31
+P2443,Jennifer Fazzone,7,M,Surco,NA,2024-02-28,303.81
+P2444,Elizabeth Alexander,19,M,Lince,Traumatología,2023-08-06,66.31
+P2445,Keith Maughan,10,F,Miraflores,Cardiología,2023-01-31,137.53
+P2446,Maria Toppin,19,M,La Molina,Pediatría,2023-10-28,196.05
+P2447,Mark Romero,54,F,SJL,Odontología,2024-10-29,320.31
+P2448,Lane Galiano,13,,Lince,,2023-08-16,107.35
+P2449,Mallory Mcbratney,77,NA,Comas,Odontología,2024-09-23,471.05
+P2450,Claudette Gaskamp,87,,SJL,,2023-11-23,388.22
+P2451,James Kelley,21,NA,San Isidro,Medicina General,2023-09-15,208.33
+P2452,Jon Mcpherson,31,F,Comas,,2023-04-06,165.81
+P2453,Denise Jones,68,,Comas,Odontología,2024-01-23,275.73
+P2454,Wesley Corkill,28,F,San Isidro,,2022-01-01,325.67
+P2455,Regina Campos,58,NA,La Molina,Odontología,2022-12-11,392.09
+P2456,Elisabeth Wright,83,F,La Molina,,2022-04-24,249.21
+P2457,Alfred Peck,44,M,La Molina,Traumatología,2023-09-06,398.02
+P2458,Deborah Thomas,10,NA,Surco,Pediatría,2024-12-11,372.28
+P2459,Laura Cherenfant,76,,Comas,Cardiología,2023-06-29,147.38
+P2460,Floyd Carlson,53,NA,Miraflores,Traumatología,2023-12-26,100.25
+P2461,Delmer Boswell,28,M,Lince,Cardiología,2024-02-17,122.04
+P2462,Peter Brison,73,NA,Miraflores,NA,2023-03-12,179.94
+P2463,Renee Smith,16,M,San Isidro,NA,2023-11-23,360.92
+P2464,Danny Buck,95,,Miraflores,Cardiología,2023-10-23,367.96
+P2465,Elvia Hubbard,69,M,Miraflores,,2024-04-21,221.95
+P2466,Carol Fisher,21,F,SJL,Traumatología,2022-01-07,159.82
+P2467,Irene Flink,9,F,La Molina,NA,2023-09-10,426.34
+P2468,Elise Shields,23,F,San Isidro,Odontología,2023-10-05,239.29
+P2469,Teresa Smith,50,,La Molina,Odontología,2022-12-31,64.58
+P2470,Alejandro Jolley,13,,Comas,Pediatría,2024-10-07,355.76
+P2471,Barbara Crosby,15,NA,Surco,Pediatría,2023-07-12,210.46
+P2472,Steven Moore,46,F,Lince,Pediatría,2023-12-14,363.06
+P2473,James Goodall,71,,Lince,Pediatría,2022-04-20,154.16
+P2474,Rosanne Knight,18,F,Surco,,2022-12-26,463.4
+P2475,Olin Rauch,80,NA,SJL,Pediatría,2023-05-01,186.67
+P2476,Carol Desantis,46,M,La Molina,Odontología,2024-03-04,467.47
+P2477,Jermaine Dalal,82,NA,Miraflores,NA,2024-01-09,334.81
+P2478,Johnny Smith,46,NA,San Isidro,Cardiología,2024-03-11,405.89
+P2479,James Cline,8,,Comas,Cardiología,2023-01-02,307.25
+P2480,Albert Hochstetler,56,NA,San Isidro,Cardiología,2023-07-07,371.23
+P2481,Danielle Christian,11,,Miraflores,Medicina General,2022-12-07,349.88
+P2482,Sarah Pridemore,53,M,La Molina,Cardiología,2022-05-07,261.21
+P2483,Shirley Watland,34,,Comas,,2024-05-31,104.21
+P2484,Linda Ladouceur,44,F,Miraflores,Odontología,2024-06-21,151.21
+P2485,Courtney Perkins,33,M,Miraflores,,2022-07-13,461.32
+P2486,Thomas Mccollum,77,F,Surco,Cardiología,2024-03-30,143.81
+P2487,Mary Greigo,25,M,Lince,Medicina General,2024-06-28,381.67
+P2488,Elizabeth Matsumoto,58,F,SJL,Odontología,2022-03-20,57.4
+P2489,Nancy Schmidt,21,M,Miraflores,NA,2023-03-04,58.12
+P2490,Kimberly Givens,38,NA,La Molina,NA,2023-09-03,403.05
+P2491,Joseph Nixon,30,,Miraflores,Traumatología,2024-01-12,254.28
+P2492,Bobbi Herren,40,F,Comas,Traumatología,2024-08-01,113.36
+P2493,Richard Hill,5,,SJL,Odontología,2023-02-14,387.45
+P2494,Aura Warner,46,F,Comas,Cardiología,2024-01-25,111.31
+P2495,Linda Smith,4,M,Surco,Odontología,2024-11-01,312.51
+P2496,Anna Hickey,41,,Surco,NA,2024-12-02,361.45
+P2497,Loretta Campbell,42,F,Lince,,2022-05-01,240.19
+P2498,Michael Herrera,95,M,Comas,Traumatología,2023-06-11,359.88
+P2499,Bennie Haran,4,F,La Molina,Odontología,2024-10-26,267.61
+P2500,Lisa Glennon,29,F,La Molina,Cardiología,2024-05-11,277.49
+P2501,Fred Erwin,22,,Comas,,2023-02-03,361.5
+P2502,Rebecca Hamilton,21,F,Lince,Odontología,2023-04-05,51.09
+P2503,Nancy Mattocks,25,NA,Lince,Traumatología,2024-02-15,419.75
+P2504,Terrance Laban,17,M,Surco,Cardiología,2023-10-01,234.31
+P2505,Jonathan Miramontes,87,,Surco,Medicina General,2022-02-27,69.58
+P2506,Tyler Sackrider,62,F,SJL,Pediatría,2022-03-25,220.47
+P2507,Gregory Johnson,6,,Lince,Medicina General,2024-11-13,342.82
+P2508,Helen Wells,65,NA,Surco,Traumatología,2023-09-05,454.16
+P2509,Walter Guiterrez,45,,Surco,,2023-04-11,354.06
+P2510,Charles Franz,55,F,Miraflores,,2023-03-01,382.61
+P2511,Eric Sampson,1,F,SJL,Pediatría,2024-08-17,220.32
+P2512,Joseph Addie,7,,Surco,Traumatología,2024-02-02,373.15
+P2513,Debra Reif,80,M,Comas,Medicina General,2022-09-12,175.65
+P2514,Pam Roush,34,F,Miraflores,Cardiología,2022-03-17,242.79
+P2515,Richard Rich,51,,SJL,Odontología,2023-11-04,329.18
+P2516,Todd Taylor,88,,SJL,Cardiología,2023-07-25,323.84
+P2517,Joanne Harrington,54,,La Molina,Traumatología,2023-02-06,89.1
+P2518,Edward Chumley,32,F,San Isidro,Medicina General,2024-11-27,397.03
+P2519,Hilma Riggle,51,NA,San Isidro,,2022-04-28,413.49
+P2520,Walter Silver,19,NA,Comas,Medicina General,2023-06-06,149.27
+P2521,Jamila Svendsen,87,F,La Molina,Pediatría,2024-08-30,374.58
+P2522,Virginia Patterson,80,M,Surco,NA,2023-10-28,117.36
+P2523,Rosario Phelan,90,F,SJL,,2024-06-03,373.46
+P2524,Ann Matta,28,NA,La Molina,Odontología,2023-03-10,291.73
+P2525,Jill Hill,31,NA,Lince,Odontología,2024-01-08,342.43
+P2526,James Marotti,20,,Lince,Cardiología,2024-03-05,217.27
+P2527,Nathaniel Wetzel,45,NA,San Isidro,Cardiología,2024-03-30,398.09
+P2528,Nathaniel Sussman,19,M,Comas,Traumatología,2023-06-16,103.57
+P2529,William Miller,15,F,Lince,Medicina General,2024-09-30,295.45
+P2530,Rodney Lester,23,M,San Isidro,Pediatría,2022-05-30,308.18
+P2531,Justin Bloodsaw,64,NA,Miraflores,Traumatología,2024-03-18,200.22
+P2532,Amy Anderson,95,F,La Molina,Cardiología,2024-07-16,180.92
+P2533,Eden Bourne,73,M,La Molina,Odontología,2022-03-20,491.65
+P2534,Mary Jackson,6,NA,Miraflores,,2024-06-21,154.9
+P2535,Kyong Meza,19,,La Molina,Medicina General,2024-01-19,120.33
+P2536,Carmen Wells,6,,Comas,NA,2024-09-14,432.21
+P2537,Timothy Bunker,72,M,Surco,Cardiología,2023-07-17,223.74
+P2538,Brian Jackson,73,NA,La Molina,Traumatología,2022-05-14,253.37
+P2539,Tammy Johnson,38,F,Miraflores,Odontología,2022-04-10,364.56
+P2540,Virginia Stassinos,34,M,SJL,Cardiología,2022-01-29,238.03
+P2541,Derrick Pou,36,M,Comas,Cardiología,2024-09-07,402.2
+P2542,David Butler,89,,SJL,Traumatología,2023-03-07,311.79
+P2543,Vivian Bottoni,33,F,La Molina,Pediatría,2022-08-11,150.53
+P2544,Cecil Reese,60,,Surco,Traumatología,2024-12-15,320.25
+P2545,Annette Omalley,3,NA,Comas,,2024-11-12,101.9
+P2546,Mildred Cao,79,M,Comas,NA,2022-04-04,59.55
+P2547,Doris Taylor,32,F,Miraflores,Medicina General,2022-07-30,290.86
+P2548,Eva Aust,22,,SJL,Traumatología,2024-05-09,347.0
+P2549,Alfonso Huntsberger,86,M,San Isidro,Odontología,2023-07-18,267.24
+P2550,Patricia Sieving,69,F,Lince,Odontología,2023-10-06,449.99
+P2551,Chang Johnson,56,,La Molina,Traumatología,2023-06-17,292.12
+P2552,Russell Beresford,56,F,Miraflores,Pediatría,2023-06-26,186.77
+P2553,Susan Cash,60,F,Lince,NA,2023-08-09,192.97
+P2554,Katie Lundy,45,,Surco,Cardiología,2022-10-18,204.55
+P2555,Douglas Donnelly,39,NA,Lince,Medicina General,2023-07-21,378.28
+P2556,Lizette Foster,5,NA,Lince,Odontología,2022-02-04,401.87
+P2557,Judith Smith,29,F,SJL,,2023-02-13,70.54
+P2558,Michael Spitz,38,F,Surco,Pediatría,2024-02-08,52.99
+P2559,Jim Reeves,60,F,La Molina,Traumatología,2024-02-05,114.54
+P2560,Diana Izaguirre,73,,Lince,NA,2023-04-22,235.6
+P2561,Margarita Daniels,6,F,Comas,Medicina General,2023-05-18,450.9
+P2562,Henry Schaefer,57,M,Surco,,2023-08-01,403.51
+P2563,William Ravenell,47,,La Molina,Cardiología,2024-08-18,362.75
+P2564,Cynthia Hentges,45,F,SJL,Pediatría,2023-11-18,344.03
+P2565,Blanche Fort,83,F,Lince,NA,2024-01-19,263.04
+P2566,Joyce Harris,29,F,SJL,Pediatría,2023-06-27,434.08
+P2567,Michelle Day,51,M,La Molina,,2022-05-05,407.83
+P2568,Leoma Scruggs,32,NA,Lince,Medicina General,2024-04-11,248.64
+P2569,Douglas Currey,40,F,La Molina,Cardiología,2022-08-15,283.79
+P2570,Gene Winton,54,M,La Molina,Traumatología,2023-11-05,491.93
+P2571,Randall Roundy,32,NA,La Molina,NA,2022-06-20,128.33
+P2572,Denise Ramin,67,F,Surco,NA,2022-02-11,398.87
+P2573,Jill Gaskins,52,,Lince,Traumatología,2022-05-18,419.87
+P2574,Karen Hartline,20,M,La Molina,Odontología,2022-11-03,182.83
+P2575,Horace Phillips,68,,Lince,,2023-11-06,52.03
+P2576,Gertrude Marsden,1,NA,San Isidro,Medicina General,2022-09-15,447.18
+P2577,William Herron,58,F,San Isidro,Pediatría,2022-11-05,143.6
+P2578,Floyd Cutting,82,M,Miraflores,Cardiología,2022-03-06,459.5
+P2579,Darlene Burdick,24,NA,San Isidro,NA,2024-03-20,169.49
+P2580,Jessie Richardson,15,NA,San Isidro,NA,2023-11-02,426.12
+P2581,Nannette Hernandez,12,F,SJL,Cardiología,2022-01-18,140.5
+P2582,Kimberly Marrero,8,,Surco,Traumatología,2023-09-24,60.02
+P2583,Eugene Huckaby,63,NA,Miraflores,Pediatría,2022-12-19,493.0
+P2584,George Putman,73,,SJL,Medicina General,2022-06-12,69.93
+P2585,John Pearson,87,,Miraflores,Traumatología,2023-05-12,400.16
+P2586,George Holberg,54,M,Comas,NA,2024-09-18,208.84
+P2587,Justin Mitchell,32,F,Comas,Cardiología,2023-01-28,111.61
+P2588,Andrew Brown,57,,Comas,Cardiología,2023-10-07,384.37
+P2589,Cathy Emery,85,,San Isidro,Medicina General,2024-07-28,239.05
+P2590,Lawrence Delosh,71,M,La Molina,Odontología,2023-02-15,215.21
+P2591,Antoinette Westover,45,F,Miraflores,Traumatología,2024-06-16,169.03
+P2592,Roger Littleton,62,F,La Molina,,2023-05-26,299.3
+P2593,Rubye Poland,73,F,Surco,Pediatría,2023-01-15,241.41
+P2594,Gail Ball,48,NA,La Molina,Odontología,2022-03-24,211.42
+P2595,Dorothy Harris,14,NA,SJL,Medicina General,2022-07-21,499.52
+P2596,Jennifer Hicks,31,NA,Miraflores,Traumatología,2022-05-29,415.0
+P2597,Eddie Bravo,7,,SJL,,2024-09-01,413.01
+P2598,Donald Johnson,10,NA,La Molina,Odontología,2023-08-16,181.81
+P2599,Rodrick Steinberg,5,NA,Comas,Pediatría,2024-02-23,164.0
+P2600,John Rice,82,NA,San Isidro,Traumatología,2022-11-03,217.62
+P2601,Jeffrey Doner,34,,La Molina,Odontología,2023-11-14,268.93
+P2602,Patricia Medina,16,NA,SJL,Medicina General,2024-09-08,341.51
+P2603,Myrna Chatfield,74,M,San Isidro,,2024-11-12,323.04
+P2604,Cheryl Guzman,58,F,Surco,Traumatología,2023-03-27,397.72
+P2605,Johnny Fisher,82,M,Lince,Cardiología,2024-04-11,124.82
+P2606,Kevin Walsh,65,,Surco,,2023-08-12,410.43
+P2607,Margaret Burns,84,F,SJL,Odontología,2022-03-10,429.88
+P2608,Dorothy Lee,38,M,Lince,Medicina General,2024-04-01,126.88
+P2609,Karen Richardson,62,NA,Comas,Medicina General,2024-10-09,372.61
+P2610,Marsha Berger,40,M,Surco,NA,2024-05-30,354.21
+P2611,Albert Seeger,64,M,La Molina,Medicina General,2023-01-23,496.8
+P2612,Ana Rawlins,7,M,San Isidro,Medicina General,2024-08-18,360.32
+P2613,Victor Belisle,53,F,San Isidro,Cardiología,2022-06-02,133.38
+P2614,James Cloninger,5,F,San Isidro,Pediatría,2022-11-20,114.04
+P2615,Cecila Crockett,87,M,La Molina,Traumatología,2022-11-16,445.6
+P2616,Rose Peters,93,F,Surco,Pediatría,2023-11-24,117.69
+P2617,David Culpepper,85,M,SJL,Cardiología,2023-08-30,141.79
+P2618,Michelle Nixon,86,NA,Comas,Cardiología,2022-09-21,62.18
+P2619,Consuelo Newman,21,M,San Isidro,Medicina General,2022-05-03,57.29
+P2620,Anne Slater,48,NA,Surco,Odontología,2024-08-25,289.6
+P2621,Tom Victoria,80,F,Miraflores,Traumatología,2022-06-10,419.85
+P2622,Steven Sarver,44,NA,Miraflores,Odontología,2024-08-25,140.36
+P2623,Regina Pittman,72,M,Comas,Cardiología,2022-04-01,417.0
+P2624,Lisa Rodriguez,94,NA,Miraflores,,2023-06-01,331.82
+P2625,Nancy Soule,24,M,La Molina,Pediatría,2024-10-17,99.4
+P2626,Leah Worden,40,NA,Miraflores,Medicina General,2024-07-19,335.59
+P2627,Jessica Patterson,31,M,Comas,Traumatología,2023-07-05,143.93
+P2628,Michael Wood,60,M,Lince,NA,2023-04-29,205.19
+P2629,Kenneth Morris,40,,Lince,Medicina General,2022-10-19,71.39
+P2630,Gabriela Heath,84,,La Molina,NA,2023-10-05,155.84
+P2631,James Franklin,79,F,Lince,Medicina General,2023-07-10,327.45
+P2632,Harriet Woodard,8,F,SJL,NA,2022-02-27,300.39
+P2633,Andrew Mclawhorn,39,F,San Isidro,Cardiología,2022-05-17,303.98
+P2634,Cynthia Rios,72,NA,Miraflores,Cardiología,2023-03-15,305.19
+P2635,Jill Pritchard,58,F,SJL,Pediatría,2022-02-11,124.3
+P2636,Amy Arreola,90,M,Comas,NA,2022-07-04,348.53
+P2637,James Love,24,M,Lince,Medicina General,2023-01-05,158.44
+P2638,Edna Bass,56,F,Comas,Cardiología,2023-07-16,452.75
+P2639,Brenda Williams,4,NA,La Molina,Traumatología,2024-10-13,347.44
+P2640,Robert Baughman,47,M,San Isidro,NA,2023-02-25,444.93
+P2641,Christopher Wilson,94,,Miraflores,Cardiología,2022-06-09,271.56
+P2642,Gregory Wilbanks,9,,SJL,Cardiología,2022-09-17,262.01
+P2643,Charles Roberts,50,,Miraflores,Medicina General,2023-10-05,54.46
+P2644,Shirley Helmick,47,M,Comas,Pediatría,2024-11-19,240.46
+P2645,Michael Garcia,87,F,La Molina,Traumatología,2024-10-26,195.94
+P2646,Steve Mccorrison,45,F,Surco,Medicina General,2022-02-13,109.36
+P2647,Janice Bryant,17,,La Molina,Odontología,2023-07-25,98.93
+P2648,Brett Smith,92,NA,Surco,Cardiología,2024-06-24,316.83
+P2649,Michael Trainer,89,M,Comas,,2023-12-02,395.02
+P2650,Inez Muffley,18,M,SJL,,2022-01-13,379.64
+P2651,Michelle Crigger,11,M,Surco,Pediatría,2023-06-02,437.7
+P2652,William Edwards,63,NA,San Isidro,Odontología,2022-11-17,440.44
+P2653,Roy Mier,45,F,Lince,,2023-02-04,170.89
+P2654,Vern Gaitan,41,,Miraflores,Cardiología,2024-09-01,172.41
+P2655,Paul Gose,88,NA,San Isidro,Traumatología,2023-07-13,284.5
+P2656,Debra Cottle,81,M,San Isidro,Odontología,2023-03-07,261.06
+P2657,Norman Alamo,82,F,Comas,,2023-06-03,450.94
+P2658,Bruce Clark,72,NA,Comas,Cardiología,2023-03-17,356.89
+P2659,Joanne Elliott,48,NA,SJL,,2022-10-04,368.0
+P2660,Anthony Nunez,83,M,San Isidro,NA,2022-01-17,267.66
+P2661,Linda Prout,79,,Lince,NA,2022-03-08,73.09
+P2662,Shelia Avalos,78,,Lince,,2022-06-17,318.81
+P2663,Stephen Lesneski,4,,La Molina,,2022-06-25,384.78
+P2664,Kris Johnson,37,M,San Isidro,Traumatología,2023-03-11,280.17
+P2665,Brenda Trowbridge,20,M,Miraflores,NA,2023-10-01,377.04
+P2666,Venice Foster,39,F,Miraflores,Medicina General,2023-03-14,88.18
+P2667,Terry Bearman,94,M,SJL,Pediatría,2024-10-15,128.9
+P2668,Lewis Green,6,,San Isidro,Odontología,2024-08-30,275.73
+P2669,Daniel Cherry,51,F,Comas,Medicina General,2022-08-15,395.04
+P2670,John Greene,20,NA,Miraflores,Cardiología,2024-03-01,205.53
+P2671,Lowell Wood,56,M,Comas,,2022-02-28,144.7
+P2672,Jonathan Kyser,90,,San Isidro,Medicina General,2022-10-22,446.14
+P2673,Elizabeth Benson,33,NA,Miraflores,Medicina General,2024-12-03,320.75
+P2674,Clyde Hurst,51,M,Surco,Pediatría,2023-06-12,316.96
+P2675,Gladys Wells,34,NA,Lince,Odontología,2023-08-18,226.09
+P2676,Geraldine Naugle,50,,Miraflores,NA,2024-01-13,61.61
+P2677,Gino Freeman,45,F,San Isidro,Cardiología,2024-09-04,353.94
+P2678,Justin Dotson,25,,La Molina,,2024-05-01,331.12
+P2679,Colin Bell,15,,Miraflores,,2023-01-18,305.09
+P2680,Michael Buchanan,84,M,Comas,Odontología,2022-06-18,51.36
+P2681,Willis Morace,30,F,San Isidro,Pediatría,2024-10-30,472.33
+P2682,Jordan Brown,28,,Miraflores,NA,2023-10-29,214.9
+P2683,Karen Knowles,34,,Miraflores,Odontología,2024-08-08,461.14
+P2684,Carl Walter,28,,Comas,NA,2022-04-28,215.72
+P2685,Jacquelyn Collins,57,M,Lince,NA,2023-07-11,205.7
+P2686,Annetta Lee,38,M,Lince,Pediatría,2022-09-22,56.51
+P2687,Charles Shade,81,F,Surco,Cardiología,2024-10-30,433.7
+P2688,Patricia Gerwig,44,NA,San Isidro,Odontología,2023-04-01,193.5
+P2689,Charles Marineau,13,,Miraflores,NA,2023-11-02,238.75
+P2690,Amy Edwards,81,NA,La Molina,Medicina General,2023-02-25,387.43
+P2691,Yvonne Catalano,13,F,Lince,Traumatología,2022-01-02,295.41
+P2692,Danny Estes,70,,La Molina,Cardiología,2023-04-30,473.96
+P2693,Georgine Seymour,18,M,SJL,Cardiología,2023-04-29,398.31
+P2694,Kelly Herrera,59,,San Isidro,Traumatología,2023-02-17,267.96
+P2695,Jerry Breunig,32,F,Surco,Medicina General,2024-12-30,328.24
+P2696,Charles Dixon,36,F,Comas,,2024-09-20,192.46
+P2697,Paul Mcfadden,49,M,SJL,Pediatría,2023-10-17,228.0
+P2698,Juanita Wunderlich,12,,San Isidro,NA,2024-12-23,121.31
+P2699,Jason Enstad,27,NA,Surco,Medicina General,2023-11-21,392.05
+P2700,Robert Quinn,14,,Surco,Pediatría,2022-04-27,459.78
+P2701,Michael Hubbard,57,NA,SJL,Cardiología,2023-09-05,420.12
+P2702,Margaret Bromley,66,F,San Isidro,Traumatología,2023-04-11,383.81
+P2703,David Amundson,66,M,Comas,Medicina General,2022-08-19,254.26
+P2704,William Reese,72,NA,San Isidro,Odontología,2022-11-14,462.48
+P2705,Yolanda Gallagher,51,NA,Lince,,2023-01-03,495.84
+P2706,Jan Pomeranz,42,NA,Lince,Medicina General,2024-12-24,285.78
+P2707,Orlando Obrien,59,F,Miraflores,Pediatría,2023-10-14,370.45
+P2708,Michael Nunez,68,NA,SJL,NA,2023-04-03,207.81
+P2709,Edward Stillwell,74,M,Comas,Odontología,2022-11-20,424.16
+P2710,Margaret Garcia,35,F,Comas,Medicina General,2022-09-12,101.73
+P2711,Robin Brunson,94,NA,Comas,Pediatría,2022-05-22,64.76
+P2712,Darnell Mcguinness,82,M,Surco,Odontología,2024-07-18,466.62
+P2713,Vickie Sholtis,69,,Comas,Pediatría,2024-12-07,306.06
+P2714,Phil Hong,3,M,San Isidro,Traumatología,2022-12-16,195.73
+P2715,Julianna Kirtner,84,NA,San Isidro,Pediatría,2022-05-16,197.84
+P2716,Kelly Brantley,51,M,Miraflores,NA,2023-10-13,342.96
+P2717,Wade Plummer,90,,Miraflores,Medicina General,2023-10-04,301.22
+P2718,Ashley Morgan,31,M,Lince,Pediatría,2023-11-25,391.91
+P2719,Violet Golden,20,M,San Isidro,Odontología,2023-04-20,210.95
+P2720,Catherine Corujo,79,M,Comas,,2022-09-26,322.73
+P2721,Donna Sheets,47,F,Miraflores,,2024-03-01,393.95
+P2722,Cassie Frizzle,35,NA,Miraflores,Medicina General,2022-07-29,80.37
+P2723,Joe Villarreal,4,,San Isidro,Traumatología,2023-04-24,306.74
+P2724,Blanche Bradley,78,NA,San Isidro,Cardiología,2022-12-20,402.55
+P2725,Salvatore Robins,34,,San Isidro,NA,2023-04-24,374.71
+P2726,Kerry Bazan,86,NA,Lince,NA,2022-02-01,418.59
+P2727,Albert Silvey,62,F,Miraflores,Pediatría,2023-05-13,414.18
+P2728,Jessica Kusuma,20,M,Miraflores,Pediatría,2024-09-08,496.77
+P2729,Henrietta Alexander,31,M,La Molina,NA,2024-06-07,89.04
+P2730,Rosa Ramirez,46,M,Comas,NA,2022-05-05,231.09
+P2731,Brian Mcentegart,85,M,SJL,,2024-05-28,83.7
+P2732,Ann Jimenez,48,F,Miraflores,Medicina General,2022-03-30,297.32
+P2733,Nelson Clark,23,NA,Miraflores,Cardiología,2024-05-18,388.14
+P2734,Anita Anderson,43,M,Comas,Traumatología,2022-07-08,101.42
+P2735,Jean Schoolfield,4,,San Isidro,Medicina General,2023-05-03,492.18
+P2736,Katheryn Stough,14,F,Comas,Medicina General,2022-07-14,392.19
+P2737,Refugio Person,89,M,La Molina,Odontología,2024-09-21,159.21
+P2738,Max English,90,M,SJL,Traumatología,2023-10-27,376.71
+P2739,Roger Reid,12,NA,Lince,Medicina General,2024-05-23,187.86
+P2740,John Bayerl,71,NA,Surco,,2023-05-13,143.29
+P2741,Emil Bowens,57,F,Lince,Pediatría,2023-08-31,135.11
+P2742,Cheryl Waller,71,M,Miraflores,Cardiología,2023-12-12,270.43
+P2743,Susan Peebles,16,F,SJL,,2022-10-19,296.07
+P2744,Terry Powell,27,,Comas,NA,2023-01-28,225.19
+P2745,Emily Woodard,63,M,San Isidro,NA,2022-09-04,448.7
+P2746,Kathy Zarate,65,NA,Lince,Cardiología,2024-08-21,159.04
+P2747,Mary Burden,36,,SJL,Cardiología,2023-01-10,400.32
+P2748,Sean Gibson,80,NA,Miraflores,Medicina General,2023-04-18,203.1
+P2749,Tina Harris,39,M,Surco,Cardiología,2023-06-24,57.95
+P2750,Matthew Miller,11,F,San Isidro,Traumatología,2024-03-28,317.92
+P2751,Alda Martin,8,NA,SJL,Pediatría,2024-12-10,137.5
+P2752,Teresa Hudson,82,NA,La Molina,NA,2022-09-29,162.3
+P2753,Larry Bormann,24,F,Lince,Cardiología,2024-07-30,351.26
+P2754,Patricia Cordova,75,M,La Molina,NA,2024-12-05,476.14
+P2755,Eric Nelms,95,M,La Molina,Pediatría,2024-10-02,82.81
+P2756,Christine Mckinnis,54,NA,Miraflores,NA,2023-11-09,297.61
+P2757,Karen Flowers,54,M,Miraflores,Cardiología,2023-12-08,311.24
+P2758,Sherman Brown,62,F,Surco,Pediatría,2023-09-04,378.55
+P2759,Christopher Mcghee,31,M,Miraflores,Odontología,2024-03-27,135.67
+P2760,Dorothy Spencer,82,M,La Molina,Odontología,2023-11-15,180.85
+P2761,Dorothy Morris,4,M,Lince,Odontología,2024-08-01,98.07
+P2762,Megan Harris,85,,Lince,Odontología,2023-01-31,198.01
+P2763,Grant Mrowka,74,NA,Lince,NA,2022-05-06,214.36
+P2764,Lisa Walker,58,NA,Comas,Traumatología,2024-09-30,489.69
+P2765,Donald Rodriguez,58,NA,Miraflores,Odontología,2023-02-16,378.74
+P2766,Aleta Rodriguez,52,M,San Isidro,Odontología,2024-08-20,312.59
+P2767,Sandra Gay,76,,San Isidro,Medicina General,2022-02-24,430.28
+P2768,Clyde Crocker,92,,Miraflores,Pediatría,2024-12-28,213.71
+P2769,Ellen Guyton,14,F,Lince,,2024-05-29,415.66
+P2770,Theresa Robinson,53,NA,Lince,Pediatría,2022-03-16,460.92
+P2771,Earl Cross,84,NA,SJL,Pediatría,2022-11-25,212.13
+P2772,Brian Carter,94,NA,Lince,Pediatría,2023-04-21,101.29
+P2773,Dennis Barrera,91,NA,Miraflores,Cardiología,2022-06-04,98.39
+P2774,Walter Lockett,80,NA,SJL,Odontología,2024-02-29,353.2
+P2775,Michael Martin,64,NA,La Molina,Pediatría,2023-08-09,104.84
+P2776,Barbara Remus,86,F,San Isidro,Traumatología,2024-08-21,241.18
+P2777,Michael Mccoy,59,F,Surco,Cardiología,2022-08-21,132.81
+P2778,Cynthia Schmitz,58,NA,Miraflores,Medicina General,2023-04-02,346.99
+P2779,Florence Nice,45,F,Miraflores,NA,2023-05-21,86.11
+P2780,Paul Mccoy,84,F,San Isidro,Traumatología,2022-09-24,196.02
+P2781,Floyd Jones,91,NA,San Isidro,Cardiología,2022-09-23,478.48
+P2782,Roland Hashim,51,,SJL,Medicina General,2022-03-12,390.6
+P2783,Duane King,10,M,SJL,Pediatría,2022-12-16,403.55
+P2784,Betty Steins,34,M,San Isidro,,2024-07-22,128.72
+P2785,Patrick Gonzales,95,F,Lince,Traumatología,2024-05-19,82.52
+P2786,Carolyn Scott,66,NA,Comas,Cardiología,2024-11-14,88.59
+P2787,Sofia Dingman,3,M,Surco,Cardiología,2022-07-17,102.09
+P2788,Dorothy Bergman,87,NA,Miraflores,Pediatría,2024-12-15,68.52
+P2789,Rachael Parks,94,M,Lince,Pediatría,2024-08-11,345.62
+P2790,Nichole Douglas,16,,Lince,Pediatría,2023-12-16,468.34
+P2791,Rodney Glaser,70,,Comas,Odontología,2024-05-17,312.0
+P2792,Kerry Bustillos,33,F,Miraflores,Traumatología,2024-03-12,202.8
+P2793,Cheryl Dietz,74,M,La Molina,,2022-10-01,489.44
+P2794,Chi Siegfried,14,NA,Comas,Traumatología,2024-01-19,369.81
+P2795,Andrew Farrell,61,F,SJL,Odontología,2023-12-02,284.6
+P2796,Brent Daner,47,,Miraflores,Pediatría,2022-08-18,189.22
+P2797,Jay Baker,81,,Lince,NA,2022-03-07,58.56
+P2798,Elsie Hinrichs,81,NA,La Molina,Traumatología,2024-08-04,491.05
+P2799,Walter Martis,51,F,Miraflores,Traumatología,2023-07-15,329.59
+P2800,Richard Neal,88,,SJL,Cardiología,2022-04-25,275.29
+P2801,Kathleen Vergari,19,M,San Isidro,Cardiología,2023-09-30,498.05
+P2802,Luz Price,17,F,San Isidro,Traumatología,2023-12-07,240.46
+P2803,Helen Scowden,82,F,Comas,Traumatología,2024-07-24,313.01
+P2804,Janelle Gadd,58,F,Miraflores,Odontología,2024-11-18,458.78
+P2805,Addie Summerfield,22,,La Molina,Pediatría,2022-03-21,211.81
+P2806,Chester Marquis,78,NA,SJL,Traumatología,2024-09-25,430.77
+P2807,Florence Watson,25,,Miraflores,Odontología,2022-05-07,319.42
+P2808,Cathy Ortega,80,M,Lince,Pediatría,2024-02-29,64.42
+P2809,Tina Brown,88,NA,SJL,Medicina General,2023-06-09,168.43
+P2810,Mark Scott,16,,San Isidro,Pediatría,2022-10-08,412.54
+P2811,Summer Deaton,45,F,La Molina,Pediatría,2023-09-30,76.0
+P2812,Robert Miller,43,M,San Isidro,NA,2023-01-04,343.02
+P2813,Joanne Gouge,60,,Miraflores,Traumatología,2022-06-13,280.91
+P2814,Tina Wood,2,F,Miraflores,Traumatología,2024-03-09,334.63
+P2815,Henry Peterson,87,F,SJL,Traumatología,2023-09-18,352.38
+P2816,Francis Mclane,37,F,San Isidro,Cardiología,2022-10-05,188.77
+P2817,Alan Morales,57,M,Surco,,2024-02-12,315.52
+P2818,Lisa Bonney,9,F,SJL,Medicina General,2024-09-22,313.81
+P2819,Fanny Torrez,9,NA,SJL,Pediatría,2023-01-13,450.06
+P2820,Carol Murray,56,NA,La Molina,Odontología,2022-01-20,68.28
+P2821,William Wiant,28,,SJL,NA,2024-07-23,150.64
+P2822,Preston Johnson,40,,Miraflores,,2022-11-14,159.42
+P2823,Dawn Brock,73,M,Comas,Odontología,2024-09-06,263.12
+P2824,Jeffrey Browning,2,M,Comas,Cardiología,2022-02-09,308.24
+P2825,Salvador Douglas,68,F,San Isidro,NA,2022-07-20,271.1
+P2826,Wilbert Davidson,95,F,La Molina,Pediatría,2022-11-21,496.83
+P2827,Shaun Pamperin,57,M,Surco,NA,2024-01-25,123.42
+P2828,Oren Mcalpin,87,F,Lince,Traumatología,2022-12-05,93.48
+P2829,Maureen Gundersen,11,NA,San Isidro,,2023-04-26,325.65
+P2830,Adriana Dempsey,51,NA,Comas,Medicina General,2023-11-10,367.16
+P2831,Charlotte Lewis,78,NA,San Isidro,Medicina General,2024-01-23,169.18
+P2832,Melissa Villegas,85,F,SJL,Pediatría,2023-05-15,146.93
+P2833,Matthew Bolen,52,NA,Lince,Odontología,2024-07-24,82.42
+P2834,Larry Kasahara,37,M,SJL,NA,2024-06-07,57.95
+P2835,Gene Riccelli,80,,Miraflores,NA,2024-04-23,150.72
+P2836,Henry Perry,7,F,La Molina,,2024-07-25,279.56
+P2837,Milan Bourgoin,42,M,La Molina,Pediatría,2022-08-18,92.12
+P2838,Glen Martin,69,,Surco,Odontología,2023-10-25,54.5
+P2839,Shannon Matthews,78,F,Comas,Traumatología,2024-11-15,205.09
+P2840,Edward Rivera,44,NA,Comas,,2023-08-22,125.21
+P2841,David Gore,21,NA,Miraflores,NA,2024-07-30,214.45
+P2842,Lula Anwar,63,F,Miraflores,,2022-03-25,317.82
+P2843,Joseph Morris,83,NA,Surco,Odontología,2023-09-06,324.97
+P2844,Ethel Sturtevant,32,F,Lince,Medicina General,2023-08-19,181.48
+P2845,Glenn Jennings,64,M,Surco,Odontología,2022-02-11,174.73
+P2846,Nicholas Adams,53,,Miraflores,Cardiología,2023-04-16,402.13
+P2847,Barry Frey,63,,Comas,NA,2022-07-21,180.13
+P2848,Terri Hanna,76,NA,Surco,Pediatría,2024-11-27,484.9
+P2849,Teresa Traino,56,F,San Isidro,Pediatría,2022-09-24,252.74
+P2850,Bruce Castillo,54,NA,SJL,Traumatología,2023-12-08,256.67
+P2851,Jeremy Edwards,54,F,Miraflores,Cardiología,2023-01-02,399.48
+P2852,Donald Collins,3,M,San Isidro,Medicina General,2024-10-13,229.44
+P2853,Dustin Christian,64,NA,Surco,Medicina General,2024-08-05,286.81
+P2854,Scot Lauritsen,8,F,San Isidro,Medicina General,2023-08-30,282.54
+P2855,Margaret Crane,73,NA,La Molina,Odontología,2024-07-08,380.67
+P2856,Bradley Nelson,15,M,Comas,Traumatología,2022-06-18,127.23
+P2857,Georgia Harling,75,M,Miraflores,Cardiología,2024-04-24,206.15
+P2858,Erica Lee,81,F,Lince,,2024-06-15,83.74
+P2859,Wanda Vrba,81,F,Lince,NA,2024-10-22,194.47
+P2860,Kimberly Stokes,23,M,Lince,NA,2022-05-07,216.42
+P2861,Shirley Rutledge,32,NA,La Molina,Traumatología,2022-11-13,168.52
+P2862,Margaret Paul,1,,SJL,Traumatología,2023-05-03,311.31
+P2863,Linda Mcelwee,85,M,Lince,Traumatología,2022-12-22,494.78
+P2864,Kelly Johnson,16,,Lince,Traumatología,2022-11-12,292.14
+P2865,Inez Santos,70,,Surco,Pediatría,2023-10-20,119.59
+P2866,Michelle Kolb,24,F,Lince,Cardiología,2023-01-24,382.12
+P2867,Gary Baldridge,58,NA,Lince,Traumatología,2023-05-12,389.17
+P2868,Andrew Wolfenbarger,63,F,Lince,Odontología,2022-11-29,444.29
+P2869,Barbara Francois,80,NA,Surco,Medicina General,2024-11-24,96.76
+P2870,Ernest Greene,76,NA,Surco,Cardiología,2023-09-24,110.75
+P2871,Jody Williford,19,M,Surco,Odontología,2023-09-16,139.56
+P2872,Phyllis Beltran,6,F,Surco,,2022-06-08,211.73
+P2873,Sanjuanita Mistrot,46,,San Isidro,Pediatría,2023-10-28,480.89
+P2874,Stephen Ries,76,,SJL,,2024-04-12,301.9
+P2875,Elizabeth Admire,5,,Lince,Medicina General,2022-05-22,255.01
+P2876,Tiffany Marlor,47,NA,SJL,,2022-05-01,274.16
+P2877,Beverly Gordon,57,NA,San Isidro,Cardiología,2022-02-23,257.75
+P2878,Justin Bell,17,NA,Lince,Pediatría,2022-12-18,256.55
+P2879,Shane Hennemann,66,M,SJL,Medicina General,2024-10-21,318.21
+P2880,Christopher Prioleau,25,NA,San Isidro,Pediatría,2024-10-03,443.47
+P2881,Lorenzo Coleman,59,NA,La Molina,Traumatología,2022-10-23,268.61
+P2882,Stefan Woods,55,M,Lince,Pediatría,2024-08-16,205.64
+P2883,Laura Pelosi,29,NA,La Molina,,2024-07-27,397.71
+P2884,Lorraine Schroeder,61,M,Miraflores,Odontología,2023-05-08,178.83
+P2885,Henry Buffin,34,,SJL,,2024-10-28,65.77
+P2886,Franklin Bingham,76,NA,Surco,,2022-12-10,348.84
+P2887,David Grant,30,,Surco,NA,2024-05-05,281.08
+P2888,Shelley Marshall,89,M,Lince,Traumatología,2022-07-30,280.77
+P2889,Lillia Magner,93,F,Comas,Cardiología,2022-11-16,426.21
+P2890,Jonathan Barre,79,,Miraflores,Cardiología,2022-07-09,166.79
+P2891,Theresa Bianco,68,NA,San Isidro,NA,2023-08-27,193.46
+P2892,Galen Fisher,12,M,San Isidro,,2024-04-07,461.42
+P2893,Jessie Graham,60,NA,La Molina,Traumatología,2023-07-16,146.07
+P2894,Jennifer Tracy,19,M,Comas,,2023-02-26,141.62
+P2895,William Criss,59,M,San Isidro,Cardiología,2024-08-13,124.39
+P2896,Audra Patel,10,M,La Molina,,2022-11-19,191.05
+P2897,Edmond Martin,20,M,La Molina,Traumatología,2022-09-13,255.84
+P2898,Michael Fine,50,M,San Isidro,Traumatología,2024-04-20,349.65
+P2899,Keith Burns,58,,La Molina,,2022-11-14,223.27
+P2900,Margaret Harrell,32,F,Surco,,2023-09-17,103.33
+P2901,Daniel Luera,2,M,San Isidro,Cardiología,2024-03-28,73.42
+P2902,Julissa Aguilar,81,M,Lince,Cardiología,2022-08-24,466.15
+P2903,Charles Dove,66,NA,San Isidro,,2024-12-28,203.72
+P2904,Daniel Brazee,30,F,Miraflores,,2023-12-17,142.2
+P2905,Bernadine Brown,53,F,Surco,Traumatología,2022-12-25,494.09
+P2906,Geneva Sparks,4,,San Isidro,Cardiología,2022-10-25,189.42
+P2907,Ginger Hollins,65,M,Surco,,2023-05-08,52.32
+P2908,Donald Nixon,14,M,Miraflores,,2024-04-29,235.4
+P2909,Dennis Adams,68,F,La Molina,Odontología,2022-04-27,193.34
+P2910,William Freer,93,NA,San Isidro,Pediatría,2023-11-30,112.8
+P2911,Corey Mcallister,17,M,Comas,Odontología,2022-08-29,317.53
+P2912,Kelli Coy,7,M,San Isidro,Cardiología,2022-11-24,90.84
+P2913,Darryl Bryant,45,F,SJL,Traumatología,2022-01-01,314.79
+P2914,Gloria Bates,91,NA,Surco,NA,2023-09-07,497.13
+P2915,Bruce Buckley,65,,SJL,Pediatría,2022-05-09,154.59
+P2916,Leslie Wegman,27,,SJL,,2023-02-18,202.69
+P2917,Peggy Lemmon,2,NA,San Isidro,Medicina General,2023-05-02,51.78
+P2918,Violet Holley,64,,Surco,,2024-04-09,390.03
+P2919,Anthony Lugo,44,M,Lince,Traumatología,2023-01-30,472.61
+P2920,Christian Lesnick,56,F,Surco,Pediatría,2022-02-23,420.4
+P2921,Jane Frost,65,F,SJL,Pediatría,2024-02-17,435.59
+P2922,Mary Cook,41,M,SJL,,2024-02-07,499.0
+P2923,Margaret Austin,81,F,Surco,Traumatología,2022-10-19,403.57
+P2924,Daisy Fairbanks,79,NA,Surco,Pediatría,2023-01-11,71.43
+P2925,Juan Williams,30,F,Comas,,2023-08-02,291.93
+P2926,Richard Macdonald,91,M,SJL,Pediatría,2024-02-20,498.68
+P2927,Jose Garvin,76,NA,Comas,Cardiología,2024-09-28,304.98
+P2928,Donna Whelan,24,,SJL,Odontología,2022-02-02,61.4
+P2929,Philip Bates,86,F,Comas,NA,2024-11-23,303.43
+P2930,Edward Johnson,89,M,Lince,Pediatría,2024-08-06,467.89
+P2931,Vicki Emmons,45,,SJL,Traumatología,2023-09-13,435.24
+P2932,Tiffany Lloyd,42,F,Comas,Pediatría,2023-09-04,131.16
+P2933,Benjamin Hunt,83,M,La Molina,Odontología,2023-08-11,115.47
+P2934,Chad Briggs,60,M,Comas,Medicina General,2023-04-09,436.53
+P2935,Anne Savoy,34,M,San Isidro,Traumatología,2024-12-12,442.04
+P2936,Brian Melton,12,NA,SJL,Medicina General,2022-07-22,410.82
+P2937,Robert Laurie,32,,La Molina,Pediatría,2023-11-03,199.4
+P2938,John Copeland,66,F,Surco,Cardiología,2023-09-02,207.05
+P2939,Ana Henderson,23,F,Surco,Medicina General,2023-09-25,78.03
+P2940,Doris Anderson,26,NA,Surco,Odontología,2023-07-08,351.66
+P2941,Noel Mallett,49,F,Surco,Traumatología,2023-12-25,436.47
+P2942,Betty Jimenez,66,NA,Miraflores,Medicina General,2024-11-22,183.77
+P2943,William Vine,39,M,Surco,Odontología,2023-01-22,240.67
+P2944,Lori Beckstead,27,F,Surco,Pediatría,2024-05-10,350.06
+P2945,Nelson Lockett,69,F,San Isidro,Cardiología,2024-07-01,94.09
+P2946,Fernando Gonzales,88,NA,Comas,,2023-10-05,50.79
+P2947,Sonja Owen,25,,Lince,,2023-05-03,370.33
+P2948,Daniel Williams,86,,La Molina,Traumatología,2022-11-05,356.62
+P2949,Mary Cuevas,5,NA,San Isidro,Medicina General,2024-08-29,349.08
+P2950,Bert Edwards,31,,Lince,Cardiología,2024-12-22,299.22
+P2951,Carolyn Jackson,47,NA,San Isidro,NA,2024-09-21,59.65
+P2952,Melanie Oberry,49,M,Lince,Pediatría,2024-08-14,368.6
+P2953,Larry Senethavilouk,43,,SJL,Cardiología,2022-02-28,308.79
+P2954,Vernon Justice,80,NA,San Isidro,,2022-07-30,440.56
+P2955,Mark Badger,43,F,Surco,NA,2023-12-18,458.08
+P2956,Matthew Kenyon,85,M,La Molina,Traumatología,2022-02-08,381.88
+P2957,Scott Stone,49,M,San Isidro,Pediatría,2023-06-25,475.06
+P2958,Dawn Cox,37,NA,San Isidro,Traumatología,2022-01-02,151.31
+P2959,Betty Radford,90,,Miraflores,Cardiología,2022-04-25,169.52
+P2960,Michael Cobb,22,F,San Isidro,Traumatología,2023-01-30,413.51
+P2961,Gretchen Barton,52,F,Lince,Medicina General,2024-12-27,475.5
+P2962,Manuel Matthews,47,M,Lince,Pediatría,2022-05-22,374.69
+P2963,Thomas Sneller,65,M,Comas,Medicina General,2022-11-23,362.61
+P2964,Geraldine Thompson,18,F,San Isidro,NA,2024-06-12,391.48
+P2965,Gloria Newton,19,F,Miraflores,Pediatría,2022-04-20,318.0
+P2966,Lazaro Sanford,69,,La Molina,NA,2022-08-03,130.2
+P2967,Robert Greenwood,86,F,SJL,Medicina General,2022-11-21,269.28
+P2968,Gerardo Carr,95,M,SJL,,2024-07-30,348.09
+P2969,Jim Barnes,28,,San Isidro,,2023-06-28,230.03
+P2970,Paul Cacy,56,M,Lince,Odontología,2024-04-15,308.49
+P2971,Kathryn Baker,6,F,San Isidro,Cardiología,2022-03-25,325.3
+P2972,Daniel Perez,48,M,La Molina,Medicina General,2022-11-16,361.66
+P2973,Jane Alcala,86,,La Molina,NA,2022-03-25,200.19
+P2974,Sonia Alderson,2,NA,Lince,,2022-11-03,474.94
+P2975,Carole Givens,44,M,Comas,Medicina General,2024-10-01,119.16
+P2976,William Brown,22,,Comas,Cardiología,2022-07-23,94.65
+P2977,Samuel Rozmus,85,,San Isidro,,2023-11-10,142.07
+P2978,Kenneth Jones,73,F,Lince,,2024-04-09,259.88
+P2979,Tammy Hale,36,,Surco,Odontología,2022-02-03,467.2
+P2980,Oscar Davis,46,M,Comas,Cardiología,2024-12-05,243.62
+P2981,Marie Willett,80,NA,Miraflores,Medicina General,2023-05-05,360.52
+P2982,Gail Creed,8,M,Lince,Pediatría,2023-03-07,116.76
+P2983,Rebecca Nawfel,34,NA,Miraflores,,2024-04-27,407.66
+P2984,Russell Hooks,90,,San Isidro,Pediatría,2024-03-23,311.34
+P2985,Bradley Peck,70,F,Miraflores,NA,2022-09-19,286.48
+P2986,Jose Porter,17,NA,SJL,Odontología,2024-05-05,254.67
+P2987,Robert Kmiecik,66,,La Molina,Cardiología,2024-02-16,331.69
+P2988,Margie Maes,91,,La Molina,NA,2024-08-30,259.5
+P2989,Karen Newman,12,,Lince,,2022-05-21,276.2
+P2990,Eileen Wagoner,66,F,Miraflores,Cardiología,2024-05-31,235.98
+P2991,Rosemary Bolan,61,F,Surco,,2022-12-07,312.15
+P2992,John Pratt,37,M,SJL,Cardiología,2024-04-26,145.62
+P2993,Cliff Stewart,82,NA,Miraflores,NA,2024-02-20,205.13
+P2994,Timothy Sommerville,43,NA,Miraflores,,2024-02-21,450.63
+P2995,Katherine Montano,3,F,La Molina,,2022-05-18,61.28
+P2996,Hazel Fowler,47,F,Lince,Medicina General,2024-05-18,163.17
+P2997,David Martinez,40,NA,SJL,,2023-08-06,301.12
+P2998,Mary Eledge,42,NA,San Isidro,Traumatología,2024-01-02,487.45
+P2999,Larry Wagner,91,M,Comas,NA,2023-03-05,207.96
+P3000,Derrick Williams,26,NA,Miraflores,Traumatología,2023-05-28,459.05
